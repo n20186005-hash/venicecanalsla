@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "Venice Canal Historic District 威尼斯运河历史区｜洛杉矶必游景点",
+    "description": "探索加利福尼亚州洛杉矶市 Venice Canal Historic District 的完整指南。了解这座历史悠久的运河区、位置和游览信息。享受威尼斯运河的宁静美景。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Venice Canal Historic District",
+    "subtitle": "威尼斯运河历史区 - 洛杉矶的历史遗迹与宁静美景",
+    "rating": "4.6(12,804)",
+    "reviewCount": "12,804 条评价",
+    "type": "历史街区 · 洛杉矶必游",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Venice Canal Historic District",
+    "description": "Venice Canal Historic District（威尼斯运河历史区）是位于加利福尼亚州洛杉矶市威尼斯区的一处历史悠久的运河街区。这片区域由开发商 Abbot Kinney 于1905年建造，旨在模仿意大利威尼斯的运河系统。\n\n运河区由六条运河组成：Venice Canal、Canal Court、Court C、Daily Canal、Grand Canal 和 Horizon Canal。这些运河两旁矗立着各式建筑风格的住宅，从地中海复兴风格到现代设计，形成独特的景观。\n\n漫步在运河旁的人行道上，您可以欣赏宁静的水景、优美的桥梁和精致的住宅建筑。这里是摄影爱好者和寻找宁静角落的游客的理想之地。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "运河区免费开放，全天24小时可参观",
+        "建议清晨或傍晚前往，光线最适合摄影",
+        "携带相机或手机，运河区的景色非常上镜",
+        "周末人流较多，建议平日前往享受更宁静的体验"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "街区特色",
+      "items": [
+        "1905年由 Abbot Kinney 建造，历史悠久",
+        "六条运河组成的独特街区",
+        "融合地中海复兴、维多利亚和现代建筑风格",
+        "宁静的水景和优美的桥梁，是摄影胜地"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于 Venice Canal Historic District",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史背景",
+        "content": "Venice Canal Historic District 的历史可以追溯到1905年，当时开发商 Abbot Kinney 为了打造一个美国版的威尼斯，建造了这片运河系统。最初，运河用于观光船游览，游客可以乘坐贡多拉船在运河上游览。\n\n随着时间推移，部分运河被填平改为道路，但最终保留了六条运河作为历史保护区。1992年，该区域被正式列入国家史迹名录，成为受保护的历史街区。"
+      },
+      {
+        "id": "features",
+        "title": "街区特色",
+        "content": "Venice Canal Historic District 由六条运河组成：\n\n• Venice Canal - 主运河，风景最为优美\n• Canal Court - 宁静的小运河\n• Court C - 隐蔽的运河角落\n• Daily Canal -  daily 运河\n• Grand Canal - 大运河，最宽的运河\n• Horizon Canal - 地平线运河\n\n运河两旁是各式各样的住宅建筑，包括地中海复兴风格、维多利亚风格、平房风格和现代设计。桥梁连接着运河两岸，是街区的一大特色。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置",
+        "content": "Venice Canal Historic District 位于洛杉矶市威尼斯区，地址范围在 Venice Blvd 和 Pacific Ave 之间，靠近 Venice Beach。具体地址为 Venice, CA 90292。\n\n从洛杉矶市中心驾车约30-40分钟可达。街区周围有街道停车位，但需要注意停车限制。建议将车停在 Venice Blvd 附近的公共停车场，然后步行进入运河区。"
+      },
+      {
+        "id": "wildlife",
+        "title": "生态环境",
+        "content": "运河区不仅是历史街区，也是一个小型生态系统。在运河和周围区域，您可能会看到：\n\n• 各种水鸟，如鸭子和鹭鸟\n• 运河中的锦鲤和观赏鱼\n• 精心维护的私家花园和植物\n• 偶尔出现的海豹（从海滩游过来）\n\n请尊重当地居民的隐私，保持安静，不要进入私人领地，共同保护这片美丽的历史街区。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Venice Canal Historic District（威尼斯运河历史区）",
+    "type": "景点类型",
+    "typeValue": "历史街区、洛杉矶必游、加利福尼亚州景点",
+    "country": "国家",
+    "countryValue": "美国",
+    "city": "城市",
+    "cityValue": "威尼斯，洛杉矶，加利福尼亚州",
+    "googleRating": "谷歌评分",
+    "phone": "电话",
+    "phoneValue": "未提供",
+    "address": "地址",
+    "addressValue": "Venice, CA 90292"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "街区开放",
+    "parkTime": "全天24小时，随时可参观",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "早晨（7-9点）：宁静，光线柔和适合摄影",
+    "bestTimeSummer": "傍晚（17-19点）：避开正午烈日，享受凉爽海风",
+    "bestTimeAutumn": "全天皆宜：气温舒适，是游览的最佳季节",
+    "bestTimeWinter": "上午（9-11点）或下午（15-17点）：冬季温暖舒适",
+    "tip": "建议查看洛杉矶市政府网站获取最新信息"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "街区参观",
+    "parkPrice": "完全免费，无需门票",
+    "parking": "停车费用",
+    "parkingPrice": "街道停车，请注意停车标志和时间限制"
+  },
+  "transport": {
+    "title": "交通方式",
+    "fromDowntown": "从洛杉矶市中心出发",
+    "fromDowntownDesc": "从洛杉矶市中心驾车约30-40分钟，沿 I-10 W 转 I-405 S 至 Venice Blvd 出口。",
+    "fromAirport": "从洛杉矶国际机场（LAX）出发",
+    "fromAirportDesc": "从 LAX 驾车约20分钟，沿 Lincoln Blvd 北行至 Venice Blvd，然后向西至运河区。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "可乘坐洛杉矶地铁 Expo 线至 Downtown Santa Monica 站，然后转乘公交或共享单车前往。",
+    "walking": "步行或骑行",
+    "walkingDesc": "如果您住在 Venice Beach 附近的酒店，可以步行或骑行前往运河区。",
+    "driving": "自驾与停车",
+    "drivingDesc": "运河区周围有街道停车位，但需要注意停车限制和时限。建议将车停在 Venice Blvd 附近。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "Venice Canal Historic District 非常适合1-2小时的悠闲游览。建议您在早晨或傍晚到达，沿着运河旁的人行道漫步，欣赏美丽的建筑和宁静的水景。整个游览约需1-2小时。",
+    "steps": [
+      "从 Venice Blvd 和 Pacific Ave 的交叉口开始，进入运河区",
+      "沿着 Venice Canal 漫步，欣赏主运河的优美景色",
+      "走过连接运河的桥梁，从不同的角度拍摄照片",
+      "继续探索 Canal Court 和 Court C，发现隐蔽的角落",
+      "沿着 Grand Canal 行走，欣赏最宽的运河景色",
+      "参观 Horizon Canal 和 Daily Canal，完成六条运河的探索",
+      "在运河旁的长椅上休息，享受宁静的氛围",
+      "步行至附近的 Venice Beach（约10分钟），继续您的旅程"
+    ]
+  },
+  "photoSpots": {
+    "title": "最佳拍照点",
+    "spots": [
+      {
+        "name": "Venice Canal 桥梁",
+        "desc": "在桥梁上拍摄运河景色，水面倒映着周围的建筑"
+      },
+      {
+        "name": "Grand Canal 河畔",
+        "desc": "在大运河旁拍摄，捕捉宁静的水景和精致的住宅"
+      },
+      {
+        "name": "运河人行步道",
+        "desc": "沿着人行步道拍摄，展现运河区的日常生活场景"
+      },
+      {
+        "name": "地中海风格建筑",
+        "desc": "拍摄运河旁的住宅建筑，地中海复兴风格的细节"
+      },
+      {
+        "name": "运河日落",
+        "desc": "傍晚时分，在运河边拍摄金色的日落倒影"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": [
+      {
+        "name": "Hotel Erwin（威尼斯海滩）",
+        "desc": "位于 Venice Beach 的海滨酒店，屋顶酒吧可俯瞰海滩，步行10分钟到运河区",
+        "price": "约$200-350/晚"
+      },
+      {
+        "name": "Venice Beach Suites & Hotel",
+        "desc": "直接位于海滩前的套房酒店，海景房视野开阔，步行5分钟到运河区",
+        "price": "约$180-280/晚"
+      },
+      {
+        "name": "Airbnb in Venice Canal Area",
+        "desc": "运河区附近的爱彼迎住宿，可以深度体验当地社区生活",
+        "price": "约$100-200/晚"
+      },
+      {
+        "name": "Santa Monica 市区酒店",
+        "desc": "圣莫尼卡市区的酒店选择，距离运河区约15分钟车程",
+        "price": "约$150-300/晚"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Venice Canal Historic District - 威尼斯运河历史区",
+    "captions": [
+      "运河景色 1",
+      "运河景色 2",
+      "运河景色 3",
+      "运河景色 4",
+      "运河景色 5",
+      "运河景色 6",
+      "运河景色 7",
+      "运河景色 8",
+      "运河景色 9",
+      "运河景色 10",
+      "运河景色 11",
+      "运河景色 12",
+      "运河景色 13",
+      "运河景色 14",
+      "运河景色 15",
+      "运河景色 16"
+    ],
+    "viewAll": "在 Google Maps 查看位置",
+    "showAll": "查看全部照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "刘明（Liu Ming）",
+        "date": "2026年5月",
+        "rating": 5,
+        "text": "威尼斯运河历史区太美了！宁静的运河、优美的桥梁和精致的建筑，让人仿佛置身于真正的威尼斯。强烈推荐给摄影爱好者！"
+      },
+      {
+        "name": "王芳（Wang Fang）",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "这是一个隐藏的宝石！相比热闹的 Venice Beach，这里安静得多。漫步在运河旁，享受洛杉矶少有的宁静时光。"
+      },
+      {
+        "name": "陈伟（Chen Wei）",
+        "date": "2026年3月",
+        "rating": 4,
+        "text": "运河区的建筑非常漂亮，每栋房子都有独特的风格。不过要注意尊重当地居民的隐私，不要大声喧哗。"
+      },
+      {
+        "name": "张丽（Zhang Li）",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "傍晚时分的运河区特别美，金色的阳光洒在水面上，非常适合拍照。免费参观，是洛杉矶必去的地方之一！"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "Venice, CA 90292",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 Venice Canal Historic District 独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "naples": "国家公园管理局",
+      "naplesParks": "加州历史保护办公室",
+      "collier": "洛杉矶市公园与娱乐",
+      "florida": "洛杉矶城市规划局",
+      "floridaDEP": "威尼斯社区委员会"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 信息收集",
+        "content": "我们通常不会主动收集用户的个人可识别信息。您透过联系表单或电子邮件提供的任何信息将被严格保密。"
+      },
+      {
+        "heading": "2. 信息使用",
+        "content": "我们收集的信息仅用于提供、维护和改进我们的服务，以及与您沟通。我们不会将您的个人信息出售或分享给第三方用于营销目的。"
+      },
+      {
+        "heading": "3. Cookie 与追踪技术",
+        "content": "我们使用 Cookie 和类似的追踪技术来追踪我们网站上的活动并保存某些信息。您可以指示您的浏览器拒绝所有 Cookie 或在发送 Cookie 时进行提示。"
+      },
+      {
+        "heading": "4. 数据安全",
+        "content": "您数据的安全性对我们很重要。我们努力使用商业上可接受的方式来保护您的个人数据，但任何互联网传输方法都无法保证100%安全。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，则不得访问该服务。"
+      },
+      {
+        "heading": "2. 服务使用",
+        "content": "本网站是一个独立的第三方旅游资讯项目。提供的信息仅供一般参考。您同意负责任且合法地使用本网站。"
+      },
+      {
+        "heading": "3. 知识产权",
+        "content": "本网站上的所有内容（包括文本、图像和徽标）均为网站所有者的财产（另有说明的除外）。严禁未经授权的使用、复制或分发。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用或无法使用本网站或其中包含的信息而导致的任何直接、间接、附带或后果性损害，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好设置。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "网站基本功能所需。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析 Cookie",
+      "description": "帮助我们了解访客如何与网站互动。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "用于跨网站追踪访客。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于 Venice Canal Historic District",
+    "text": "Venice Canal Historic District（威尼斯运河历史区）是位于加利福尼亚州洛杉矶市威尼斯区的一处历史悠久的运河街区，由开发商 Abbot Kinney 于1905年建造。\n\n这片区域由六条运河组成，运河两旁矗立着各式建筑风格的住宅。1992年，该区域被正式列入国家史迹名录，成为受保护的历史街区。无论是漫步运河旁的人行道，还是欣赏优美的建筑，这里都能为您提供独特的洛杉矶体验。"
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}

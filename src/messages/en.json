@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "Venice Canal Historic District Los Angeles CA | Historic Canal District - Must-Visit Attraction",
+    "description": "Complete guide to Venice Canal Historic District in Los Angeles, California. Learn about this historic canal district, its location, and visiting information. Enjoy the tranquil beauty of Venice canals."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Venice Canal Historic District",
+    "subtitle": "Historic Canal District - Los Angeles Hidden Gem with Tranquil Water Views",
+    "rating": "4.6(12,804)",
+    "reviewCount": "12,804 reviews",
+    "type": "Historic District · LA Must-Visit",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Venice Canal Historic District",
+    "description": "Venice Canal Historic District is a historic canal neighborhood located in the Venice area of Los Angeles, California. This area was built by developer Abbot Kinney in 1905, modeled after the canal system of Venice, Italy.\n\nThe canal district consists of six canals: Venice Canal, Canal Court, Court C, Daily Canal, Grand Canal, and Horizon Canal. These canals are lined with residential architecture in various styles, from Mediterranean Revival to modern designs, creating a unique landscape.\n\nStrolling along the pedestrian walkways beside the canals, you can enjoy tranquil water views, beautiful bridges, and exquisite residential architecture. This is an ideal place for photography enthusiasts and visitors seeking peaceful corners.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The canal district is free to visit, open 24 hours",
+        "Visit early morning or late afternoon for the best photography light",
+        "Bring your camera or phone - the canal district is very photogenic",
+        "Weekends can be crowded - visit on weekdays for a more peaceful experience"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "District Highlights",
+      "items": [
+        "Built by Abbot Kinney in 1905, with rich history",
+        "Unique neighborhood composed of six canals",
+        "Blend of Mediterranean Revival, Victorian, and modern architecture",
+        "Tranquil water views and beautiful bridges, perfect for photography"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Venice Canal Historic District",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+        "content": "The history of Venice Canal Historic District dates back to 1905, when developer Abbot Kinney built this canal system to create an American version of Venice. Originally, the canals were used for sightseeing boat tours, where visitors could ride gondola-style boats along the canals.\n\nOver time, some canals were filled in and converted to roads, but six canals were eventually preserved as a historic preservation district. In 1992, the area was officially listed on the National Register of Historic Places as a protected historic district."
+      },
+      {
+        "id": "features",
+        "title": "District Features",
+        "content": "Venice Canal Historic District consists of six canals:\n\n• Venice Canal - Main canal with the most beautiful scenery\n• Canal Court - Peaceful small canal\n• Court C - Hidden canal corner\n• Daily Canal - Daily Canal\n• Grand Canal - The widest canal\n• Horizon Canal - Horizon Canal\n\nThe canals are lined with various residential architectures, including Mediterranean Revival, Victorian, bungalow, and modern designs. Bridges connect the two sides of the canals, which are a major feature of the neighborhood."
+      },
+      {
+        "id": "location",
+        "title": "Location",
+        "content": "Venice Canal Historic District is located in the Venice area of Los Angeles, with boundaries between Venice Blvd and Pacific Ave, near Venice Beach. The specific address is Venice, CA 90292.\n\nIt takes about 30-40 minutes to drive from downtown Los Angeles. There is street parking around the neighborhood, but pay attention to parking restrictions. It is recommended to park at public parking near Venice Blvd and then walk into the canal district."
+      },
+      {
+        "id": "wildlife",
+        "title": "Ecological Environment",
+        "content": "The canal district is not only a historic neighborhood but also a small ecosystem. In and around the canals, you might see:\n\n• Various water birds, such as ducks and egrets\n• Koi fish and ornamental fish in the canals\n• Well-maintained private gardens and plants\n• Occasional seals (swimming over from the beach)\n\nPlease respect the privacy of local residents, keep quiet, do not enter private property, and help preserve this beautiful historic district."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Venice Canal Historic District",
+    "type": "Attraction Type",
+    "typeValue": "Historic District, LA Must-Visit, California Attraction",
+    "country": "Country",
+    "countryValue": "United States",
+    "city": "City",
+    "cityValue": "Venice, Los Angeles, California",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "phoneValue": "Not provided",
+    "address": "Address",
+    "addressValue": "Venice, CA 90292"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "District Access",
+    "parkTime": "Open 24 hours, visit anytime",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Morning (7-9 AM): Peaceful, soft light perfect for photography",
+    "bestTimeSummer": "Evening (5-7 PM): Avoid midday heat, enjoy cool sea breeze",
+    "bestTimeAutumn": "All day: Comfortable temperature, best season to visit",
+    "bestTimeWinter": "Morning (9-11 AM) or Afternoon (3-5 PM): Warm and comfortable in winter",
+    "tip": "Check Los Angeles city website for latest information"
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "District Visit",
+    "parkPrice": "Completely free, no admission fee",
+    "parking": "Parking Fee",
+    "parkingPrice": "Street parking available, please note parking signs and time limits"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromDowntown": "From Downtown Los Angeles",
+    "fromDowntownDesc": "Drive about 30-40 minutes from downtown LA. Take I-10 W to I-405 S to Venice Blvd exit.",
+    "fromAirport": "From Los Angeles International Airport (LAX)",
+    "fromAirportDesc": "About 20 minutes drive from LAX. Take Lincoln Blvd north to Venice Blvd, then head west to the canal district.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Take LA Metro Expo Line to Downtown Santa Monica station, then transfer to bus or bike share to reach the canal district.",
+    "walking": "Walking or Biking",
+    "walkingDesc": "If you're staying at a hotel near Venice Beach, you can walk or bike to the canal district.",
+    "driving": "Driving & Parking",
+    "drivingDesc": "There is street parking around the canal district, but pay attention to parking restrictions and time limits. It is recommended to park near Venice Blvd."
+  },
+  "route": {
+    "title": "Recommended Visit Route",
+    "overview": "Venice Canal Historic District is perfect for a 1-2 hour leisurely visit. We recommend arriving in the morning or evening, strolling along the pedestrian walkways beside the canals, and enjoying the beautiful architecture and tranquil water views. Plan about 1-2 hours for the entire visit.",
+    "steps": [
+      "Start from the intersection of Venice Blvd and Pacific Ave, enter the canal district",
+      "Stroll along Venice Canal and enjoy the beautiful scenery of the main canal",
+      "Walk across the bridges connecting the canals, photograph the scenery from different angles",
+      "Continue exploring Canal Court and Court C, discover hidden corners",
+      "Walk along Grand Canal and enjoy the view of the widest canal",
+      "Visit Horizon Canal and Daily Canal, complete the exploration of all six canals",
+      "Rest on benches beside the canal and enjoy the peaceful atmosphere",
+      "Walk to nearby Venice Beach (about 10 minutes) to continue your journey"
+    ]
+  },
+  "photoSpots": {
+    "title": "Best Photo Spots",
+    "spots": [
+      {
+        "name": "Venice Canal Bridge",
+        "desc": "Photograph canal scenery from the bridge, water reflecting surrounding buildings"
+      },
+      {
+        "name": "Grand Canal Waterfront",
+        "desc": "Shoot from beside Grand Canal, capturing tranquil water views and exquisite residences"
+      },
+      {
+        "name": "Canal Pedestrian Walkway",
+        "desc": "Photograph along the pedestrian walkway, showcasing daily life scenes in the canal district"
+      },
+      {
+        "name": "Mediterranean Style Architecture",
+        "desc": "Photograph residential buildings beside the canal, Mediterranean Revival style details"
+      },
+      {
+        "name": "Canal Sunset",
+        "desc": "Evening time, photograph golden sunset reflections on the canal"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Hotel Erwin (Venice Beach)",
+        "desc": "Beachfront hotel in Venice Beach, rooftop bar overlooks the beach, 10 minutes walk to canal district",
+        "price": "~$200-350/night"
+      },
+      {
+        "name": "Venice Beach Suites & Hotel",
+        "desc": "Suite hotel directly in front of the beach, sea view rooms with wide views, 5 minutes walk to canal district",
+        "price": "~$180-280/night"
+      },
+      {
+        "name": "Airbnb in Venice Canal Area",
+        "desc": "Airbnb accommodation near the canal district, experience local community life in depth",
+        "price": "~$100-200/night"
+      },
+      {
+        "name": "Santa Monica Downtown Hotel",
+        "desc": "Hotel options in downtown Santa Monica, about 15 minutes drive to the canal district",
+        "price": "~$150-300/night"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Venice Canal Historic District - Los Angeles Historic Canal District",
+    "captions": [
+      "Canal View 1",
+      "Canal View 2",
+      "Canal View 3",
+      "Canal View 4",
+      "Canal View 5",
+      "Canal View 6",
+      "Canal View 7",
+      "Canal View 8",
+      "Canal View 9",
+      "Canal View 10",
+      "Canal View 11",
+      "Canal View 12",
+      "Canal View 13",
+      "Canal View 14",
+      "Canal View 15",
+      "Canal View 16"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Liu Ming",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Venice Canal Historic District is so beautiful! Tranquil canals, beautiful bridges, and exquisite architecture make you feel like you're in real Venice. Highly recommended for photography enthusiasts!"
+      },
+      {
+        "name": "Wang Fang",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "This is a hidden gem! Compared to the bustling Venice Beach, it's much quieter here. Strolling beside the canals and enjoying the rare tranquility of Los Angeles."
+      },
+      {
+        "name": "Chen Wei",
+        "date": "March 2026",
+        "rating": 4,
+        "text": "The architecture in the canal district is very beautiful, each house has a unique style. However, please respect the privacy of local residents and don't make loud noises."
+      },
+      {
+        "name": "Zhang Li",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "The canal district is especially beautiful in the evening, golden sunlight sprinkled on the water surface, perfect for taking photos. Free to visit, one of the must-go places in Los Angeles!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "Venice, CA 90292",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Venice Canal Historic District Independent Tourism Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "naples": "National Park Service",
+      "naplesParks": "California OHP",
+      "collier": "LA City Parks & Rec",
+      "florida": "LA City Planning",
+      "floridaDEP": "Venice Neighborhood Council"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Venice Canal Historic District",
+    "text": "Venice Canal Historic District is a historic canal neighborhood located in the Venice area of Los Angeles, California, built by developer Abbot Kinney in 1905.\n\nThis area consists of six canals, lined with residential architecture in various styles. In 1992, the area was officially listed on the National Register of Historic Places as a protected historic district. Whether you're strolling along the pedestrian walkways beside the canals or admiring the beautiful architecture, this place offers you a unique Los Angeles experience."
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}

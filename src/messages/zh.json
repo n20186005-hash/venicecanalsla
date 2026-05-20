@@ -97,12 +97,16 @@
     "park": "街区参观",
     "parkPrice": "完全免费，无需门票",
     "parking": "停车费用",
-    "parkingPrice": "街道停车，请注意停车标志和时间限制"
+    "parkingPrice": "街道停车，请注意停车标志和时间限制",
+    "guided": "导游服务",
+    "guidedPrice": "当地历史协会偶尔提供导游服务。请查看其官方网站了解最新价格和时间表。"
   },
   "transport": {
     "title": "交通方式",
-    "fromDowntown": "从洛杉矶市中心出发",
-    "fromDowntownDesc": "从洛杉矶市中心驾车约30-40分钟，沿 I-10 W 转 I-405 S 至 Venice Blvd 出口。",
+    "fromCenter": "从洛杉矶市中心出发",
+    "fromCenterDesc": "从洛杉矶市中心驾车约30-40分钟，沿 I-10 W 转 I-405 S 至 Venice Blvd 出口。",
+    "fromStation": "从联合车站（Union Station）出发",
+    "fromStationDesc": "从联合车站乘坐地铁E线（Metro E Line）直达圣莫尼卡市中心，然后转乘当地公交或网约车前往威尼斯运河。",
     "fromAirport": "从洛杉矶国际机场（LAX）出发",
     "fromAirportDesc": "从 LAX 驾车约20分钟，沿 Lincoln Blvd 北行至 Venice Blvd，然后向西至运河区。",
     "publicTransport": "公共交通",
@@ -244,11 +248,11 @@
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "相关资源与资讯",
     "officialLinks": {
-      "naples": "国家公园管理局",
-      "naplesParks": "加州历史保护办公室",
-      "collier": "洛杉矶市公园与娱乐",
-      "florida": "洛杉矶城市规划局",
-      "floridaDEP": "威尼斯社区委员会"
+      "nps": "国家公园管理局",
+      "californiaOHP": "加州历史保护办公室",
+      "laParks": "洛杉矶市公园与娱乐",
+      "laPlanning": "洛杉矶城市规划局",
+      "veniceNC": "威尼斯社区委员会"
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
   },

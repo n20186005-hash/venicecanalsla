@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://lowdermilkbeach.com';
+  const baseUrl = 'https://venicecanalsla.com';
 
   const zhUrl = `${baseUrl}/`;
   const enUrl = `${baseUrl}/en`;
@@ -36,7 +36,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Lowdermilk Park",
+      siteName: "Venice Canal Historic District",
       locale: locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',
     },

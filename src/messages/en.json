@@ -1,7 +1,10 @@
 {
   "meta": {
-    "title": "Venice Canal Historic District Los Angeles CA | Historic Canal District - Must-Visit Attraction",
-    "description": "Complete guide to Venice Canal Historic District in Los Angeles, California. Learn about this historic canal district, its location, and visiting information. Enjoy the tranquil beauty of Venice canals."
+    "title": "Venice Canals LA | Free Visitor Guide, Parking & Walking Map",
+    "description": "Plan your visit to the Venice Canal Historic District in Los Angeles: parking, photo spots, arched bridges and a short walk from Venice Beach. Free and open 24/7.",
+    "ogTitle": "Venice Canals LA | Free Visitor Guide, Parking & Walking Map",
+    "ogDescription": "Plan your visit to the Venice Canal Historic District in Los Angeles: parking, photo spots, arched bridges and a short walk from Venice Beach. Free and open 24/7.",
+    "ogImageAlt": "Venice Canal Historic District in Venice, California"
   },
   "header": {
     "home": "Home",
@@ -11,16 +14,18 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Venice Canal Historic District",
+    "title": "Venice Canal Historic District (Venice)",
     "subtitle": "Historic Canal District - Los Angeles Hidden Gem with Tranquil Water Views",
-    "rating": "4.6(12,804)",
-    "reviewCount": "12,804 reviews",
+    "rating": "4.6",
+    "reviewCount": "13,030 reviews",
     "type": "Historic District · LA Must-Visit",
-    "openMaps": "View Location"
+    "freeBadge": "Free · Open 24/7",
+    "openMaps": "View Location",
+    "imgAlt": "Venice Canal Historic District - Main view in Venice, United States"
   },
   "intro": {
     "title": "Discover Venice Canal Historic District",
-    "description": "Venice Canal Historic District is a historic canal neighborhood located in the Venice area of Los Angeles, California. This area was built by developer Abbot Kinney in 1905, modeled after the canal system of Venice, Italy.\n\nThe canal district consists of six canals: Venice Canal, Canal Court, Court C, Daily Canal, Grand Canal, and Horizon Canal. These canals are lined with residential architecture in various styles, from Mediterranean Revival to modern designs, creating a unique landscape.\n\nStrolling along the pedestrian walkways beside the canals, you can enjoy tranquil water views, beautiful bridges, and exquisite residential architecture. This is an ideal place for photography enthusiasts and visitors seeking peaceful corners.",
+    "description": "Venice Canal Historic District is a historic canal neighborhood in the Venice area of Los Angeles, California. It was created in 1905 by developer Abbot Kinney, who modeled the waterways on the canals of Venice, Italy, as the centerpiece of his famed 'Venice of America' seaside resort.\n\nSix of the original canals survive today - Carroll, Linnie, Howland and Sherman Canals running east to west, crossed by Eastern Canal and Grand Canal running north to south. The lanes between them are lined with a remarkable mix of architecture, from early 20th-century bungalows and Mediterranean Revival houses to bold modern designs.\n\nWalking the quiet pedestrian paths and arched footbridges, you can enjoy tranquil water views, abundant water birds, and a living piece of Los Angeles history. It is an ideal destination for photographers and for visitors seeking a peaceful, photogenic corner of the city.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -46,22 +51,42 @@
       {
         "id": "history",
         "title": "Historical Background",
-        "content": "The history of Venice Canal Historic District dates back to 1905, when developer Abbot Kinney built this canal system to create an American version of Venice. Originally, the canals were used for sightseeing boat tours, where visitors could ride gondola-style boats along the canals.\n\nOver time, some canals were filled in and converted to roads, but six canals were eventually preserved as a historic preservation district. In 1992, the area was officially listed on the National Register of Historic Places as a protected historic district."
+        "content": "The story of the canal district begins in 1905, when developer Abbot Kinney unveiled 'Venice of America' - a seaside resort built to evoke the Italian city of Venice. Crews dug a network of saltwater canals across former marshland, and gondolas ferried visitors between attractions along the waterways.\n\nBy the 1920s the automobile boom made the slow canals seem outdated. After Kinney's death in 1920 the resort declined, and in 1929 Los Angeles filled in most of the waterways to create paved streets. Of the original network, only six canals were spared.\n\nRecognition of the survivors grew gradually: the district was listed on the National Register of Historic Places in 1982 and designated Los Angeles Historic-Cultural Monument No. 270 in 1983. After years of deterioration, the canals, walkways and bridges were fully restored in the early 1990s and reopened in 1993, launching the neighborhood's revival as one of Los Angeles' most loved and most photographed places."
       },
       {
         "id": "features",
         "title": "District Features",
-        "content": "Venice Canal Historic District consists of six canals:\n\n• Venice Canal - Main canal with the most beautiful scenery\n• Canal Court - Peaceful small canal\n• Court C - Hidden canal corner\n• Daily Canal - Daily Canal\n• Grand Canal - The widest canal\n• Horizon Canal - Horizon Canal\n\nThe canals are lined with various residential architectures, including Mediterranean Revival, Victorian, bungalow, and modern designs. Bridges connect the two sides of the canals, which are a major feature of the neighborhood."
+        "content": "Six canals survive from the original 1905 network:\n\n• Carroll, Linnie, Howland and Sherman Canals run east to west across the district\n• Eastern Canal and Grand Canal run north to south along the edges\n\nBetween the waterways, quiet pedestrian lanes are lined with a rich mix of housing - early bungalows, Mediterranean Revival homes and striking contemporary architecture. Private arched bridges and footpaths cross every canal, creating the intimate, water-fronted streetscape that draws visitors from around the world."
       },
       {
         "id": "location",
         "title": "Location",
-        "content": "Venice Canal Historic District is located in the Venice area of Los Angeles, with boundaries between Venice Blvd and Pacific Ave, near Venice Beach. The specific address is Venice, CA 90292.\n\nIt takes about 30-40 minutes to drive from downtown Los Angeles. There is street parking around the neighborhood, but pay attention to parking restrictions. It is recommended to park at public parking near Venice Blvd and then walk into the canal district."
+        "content": "The surviving canal district sits in the Venice area of Los Angeles, roughly between Venice Boulevard to the south, the Marina del Rey shoreline to the north, Pacific Avenue to the east and Strongs Drive to the west. The official address is Venice, CA 90292.\n\nDowntown Los Angeles is about a 30-40 minute drive away, and the district is a short walk from the sand at Venice Beach. Street parking nearby is limited and time-restricted, so many visitors park in public lots around Venice Boulevard and walk in, or arrive by bike along the beachfront bike path."
       },
       {
         "id": "wildlife",
         "title": "Ecological Environment",
-        "content": "The canal district is not only a historic neighborhood but also a small ecosystem. In and around the canals, you might see:\n\n• Various water birds, such as ducks and egrets\n• Koi fish and ornamental fish in the canals\n• Well-maintained private gardens and plants\n• Occasional seals (swimming over from the beach)\n\nPlease respect the privacy of local residents, keep quiet, do not enter private property, and help preserve this beautiful historic district."
+        "content": "The canal district is not only a historic neighborhood but also a small tidal ecosystem. Because the canals are flushed with seawater, visitors regularly spot:\n\n• Water birds such as ducks, egrets, herons and cormorants\n• Fish moving with the tide through the channels\n• Canal-side gardens with native and subtropical plants\n• Sea lions and seals visiting from the nearby marina and ocean\n\nPlease respect residents' privacy, keep voices low, stay on public walkways, and help preserve this remarkable historic ecosystem."
+      },
+      {
+        "id": "dream",
+        "title": "The Dream of 'Venice of America'",
+        "content": "Before Abbot Kinney built his canals, Venice Beach was little more than coastal marshland. Kinney, who had made his fortune in the tobacco business, dreamed of a cultural seaside resort to rival the great cities of Europe - an 'American Venice' with canals instead of streets.\n\nWhen the resort opened in July 1905, visitors found a fantasy landscape: gondolas gliding through the waterways, an arcaded business district inspired by Venetian architecture, and a long pleasure pier jutting into the Pacific. At its peak, the original waterway grid covered an area several times larger than today's district, with more than a dozen named canals threading between the streets."
+      },
+      {
+        "id": "fill",
+        "title": "The Great Fill of 1929",
+        "content": "After Kinney's death in 1920, 'Venice of America' began to unravel. The canals were costly to maintain, motorists complained about the low bridges, and public opinion turned against the watery streets.\n\nIn 1929, Los Angeles officials voted to fill in most of the waterways, converting them into ordinary paved roads. The streets that replaced the canals still trace their original courses today - Lion Canal became Windward Avenue, Coral Canal became Main Street, and Venus Canal became San Juan Avenue. Residents who had grown up beside the water watched their canals disappear, but a handful survived.\n\nBy the 1960s and 1970s even these six survivors had fallen into decay. Crumbling seawalls and murky water led some officials to propose filling them too - a threat that galvanized local residents, including the Venice Canals Association, into decades of advocacy to save the neighborhood."
+      },
+      {
+        "id": "revival",
+        "title": "Preservation and Revival",
+        "content": "The turning point came in 1982, when the six remaining canals were listed on the National Register of Historic Places; the following year the City of Los Angeles named the district Historic-Cultural Monument No. 270. Yet official recognition alone could not fix aging infrastructure.\n\nThrough the late 1980s and early 1990s, city engineers, preservation specialists and residents joined forces on a complete restoration: new seawalls, rebuilt walkways and pedestrian bridges, and a cleaner system for circulating seawater through the canals. When the refurbished waterways reopened in 1993, the neighborhood was transformed. Property values climbed rapidly, and the canal district - once a neglected leftover of a failed dream - became one of Los Angeles' most desirable and most photographed addresses."
+      },
+      {
+        "id": "culture",
+        "title": "Artists, Film and Everyday Life",
+        "content": "Venice has attracted artists, writers and free spirits since the early 1900s, and that creative character still shapes the area around the canals. The arched bridges and mirror-still water of the district have drawn film crews and photographers for decades, providing backdrops for countless films, television shows, music videos and magazine shoots.\n\nThrough it all, the canal district remains first and foremost a real, working residential neighborhood. Kayakers and paddleboarders pass along the nearby marina channels, joggers and cyclists use the beachfront path, and residents tend gardens where ducks and herons come to visit.\n\nVisitors are welcome on the public walkways and bridges, and the neighborhood simply asks everyone to be quiet, courteous and respectful of the private homes that line the water."
       }
     ]
   },
@@ -76,6 +101,8 @@
     "city": "City",
     "cityValue": "Venice, Los Angeles, California",
     "googleRating": "Google Rating",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "XGMJ+8X",
     "phone": "Phone",
     "phoneValue": "Not provided",
     "address": "Address",
@@ -120,22 +147,21 @@
     "title": "Recommended Visit Route",
     "overview": "Venice Canal Historic District is perfect for a 1-2 hour leisurely visit. We recommend arriving in the morning or evening, strolling along the pedestrian walkways beside the canals, and enjoying the beautiful architecture and tranquil water views. Plan about 1-2 hours for the entire visit.",
     "steps": [
-      "Start from the intersection of Venice Blvd and Pacific Ave, enter the canal district",
-      "Stroll along Venice Canal and enjoy the beautiful scenery of the main canal",
-      "Walk across the bridges connecting the canals, photograph the scenery from different angles",
-      "Continue exploring Canal Court and Court C, discover hidden corners",
-      "Walk along Grand Canal and enjoy the view of the widest canal",
-      "Visit Horizon Canal and Daily Canal, complete the exploration of all six canals",
-      "Rest on benches beside the canal and enjoy the peaceful atmosphere",
-      "Walk to nearby Venice Beach (about 10 minutes) to continue your journey"
+      "Start at the district entrance on Venice Boulevard where Dell Avenue meets it, then step onto the first canal footpath",
+      "Follow the path along Carroll Canal, one of the four east-west canals, and enjoy the calm water views",
+      "Cross the arched pedestrian bridges and photograph the reflections from different angles",
+      "Continue along Linnie, Howland and Sherman Canals to see how each waterway has its own character",
+      "Walk down Grand Canal or Eastern Canal, the two north-south waterways that frame the district",
+      "Rest on a bench beside the water and take in the quiet neighbourhood atmosphere",
+      "Finish by walking the short distance to Venice Beach (about 10 minutes) to continue your day"
     ]
   },
   "photoSpots": {
     "title": "Best Photo Spots",
     "spots": [
       {
-        "name": "Venice Canal Bridge",
-        "desc": "Photograph canal scenery from the bridge, water reflecting surrounding buildings"
+        "name": "Arched Canal Bridges",
+        "desc": "Photograph canal scenery from the arched bridges, water reflecting the surrounding houses"
       },
       {
         "name": "Grand Canal Waterfront",
@@ -184,22 +210,22 @@
     "title": "Photo Gallery",
     "subtitle": "Venice Canal Historic District - Los Angeles Historic Canal District",
     "captions": [
-      "Canal View 1",
-      "Canal View 2",
-      "Canal View 3",
-      "Canal View 4",
-      "Canal View 5",
-      "Canal View 6",
-      "Canal View 7",
-      "Canal View 8",
-      "Canal View 9",
-      "Canal View 10",
-      "Canal View 11",
-      "Canal View 12",
-      "Canal View 13",
-      "Canal View 14",
-      "Canal View 15",
-      "Canal View 16"
+      "Venice Canal Historic District - canal view 1 in Venice, California",
+      "Venice Canal Historic District - canal view 2 in Venice, California",
+      "Venice Canal Historic District - canal view 3 in Venice, California",
+      "Venice Canal Historic District - canal view 4 in Venice, California",
+      "Venice Canal Historic District - canal view 5 in Venice, California",
+      "Venice Canal Historic District - canal view 6 in Venice, California",
+      "Venice Canal Historic District - canal view 7 in Venice, California",
+      "Venice Canal Historic District - canal view 8 in Venice, California",
+      "Venice Canal Historic District - canal view 9 in Venice, California",
+      "Venice Canal Historic District - canal view 10 in Venice, California",
+      "Venice Canal Historic District - canal view 11 in Venice, California",
+      "Venice Canal Historic District - canal view 12 in Venice, California",
+      "Venice Canal Historic District - canal view 13 in Venice, California",
+      "Venice Canal Historic District - canal view 14 in Venice, California",
+      "Venice Canal Historic District - canal view 15 in Venice, California",
+      "Venice Canal Historic District - canal view 16 in Venice, California"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -236,10 +262,252 @@
       }
     ]
   },
+  "weather": {
+    "title": "Live Weather & 7-Day Forecast",
+    "subtitle": "Local conditions and day-by-day, ready-to-use tips for the Venice canals and nearby Venice Beach - so you know exactly what to wear and whether to pack an umbrella.",
+    "now": "Now",
+    "feelsLike": "Feels like",
+    "high": "High",
+    "low": "Low",
+    "uv": "UV",
+    "humidity": "Humidity",
+    "precip": "Rain chance",
+    "wind": "Wind",
+    "windLevel": {
+      "calm": "Calm",
+      "gentle": "Gentle breeze",
+      "fresh": "Fresh breeze",
+      "strong": "Strong wind"
+    },
+    "uvLevels": {
+      "low": "low",
+      "moderate": "moderate",
+      "high": "high",
+      "veryHigh": "very high",
+      "extreme": "extreme"
+    },
+    "sea": "Venice Beach today",
+    "seaTemp": "Sea temp",
+    "waveHeight": "Waves",
+    "today": "Today",
+    "loading": "Fetching the latest forecast...",
+    "updated": "Updated",
+    "refresh": "Refresh",
+    "retry": "Try again",
+    "unavailableTitle": "Live weather is temporarily unavailable.",
+    "unavailableDesc": "Please check your weather app before heading out to the canals.",
+    "attribution": "Weather data by Open-Meteo.com",
+    "codes": {
+      "clear": "Clear sky",
+      "mainlyClear": "Mainly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Light drizzle",
+      "freezingDrizzle": "Freezing drizzle",
+      "rain": "Rain",
+      "freezingRain": "Freezing rain",
+      "snowfall": "Snow",
+      "snowGrains": "Snow grains",
+      "showers": "Rain showers",
+      "snowShowers": "Snow showers",
+      "thunderstorm": "Thunderstorm",
+      "thunderstormHail": "Thunderstorm with hail"
+    },
+    "advice": {
+      "title": "Smart tips for this day",
+      "alertTitle": "Weather alert",
+      "alertNone": "No active weather warnings - a safe day to visit.",
+      "whatToWear": "What to wear",
+      "planVisit": "Plan your visit",
+      "packList": "Things to pack",
+      "dress": {
+        "hot": "Light, breathable, light-colored clothing - it stays warm all day.",
+        "cool": "Pack a light layer for cooler mornings and evenings.",
+        "cold": "Cold conditions - a warm coat is a must.",
+        "rainLight": "Water-resistant shoes - paths can get slippery.",
+        "rainHeavy": "A waterproof jacket - expect rain combined with wind.",
+        "wind": "Windy - wide-brim hats and loose dresses may blow around.",
+        "baseline": "Casual comfortable clothes; a light layer helps by the ocean."
+      },
+      "plan": {
+        "sunny": "Great for the outdoor canal stroll and golden-hour photos.",
+        "cloudy": "Soft light all day - ideal for canal photography.",
+        "rainHigh": "High chance of rain - prefer indoor spots and postpone beach time.",
+        "rainLight": "Light rain may interrupt long outdoor plans - keep them flexible.",
+        "rainHeavy": "Not ideal for outdoors; canal paths get slippery and some water activities may stop.",
+        "thunder": "Thunderstorms expected - stay away from open water and the beach.",
+        "wind": "Some beach water activities may pause in the wind.",
+        "hot": "Avoid the midday heat - walk the canals early morning or evening.",
+        "fog": "Fog may hide ocean views, but the canals are still walkable.",
+        "roughSea": "Rough surf - avoid swimming or going near the rocks today.",
+        "baseline": "A relaxed walk along the six canals suits these conditions."
+      },
+      "carry": {
+        "umbrella": "Umbrella (high rain chance)",
+        "compactUmbrella": "A small foldable umbrella",
+        "raincoat": "Raincoat rather than a long umbrella in this wind",
+        "sunblock": "Sunscreen",
+        "sunglasses": "Sunglasses",
+        "hat": "Sun hat",
+        "water": "Plenty of drinking water",
+        "layer": "A light jacket for temperature swings",
+        "warm": "Warm coat, scarf and gloves",
+        "mask": "A mask if you are sensitive to foggy air",
+        "camera": "Camera or phone - very photogenic conditions",
+        "baseline": "Phone, water and your usual day-out essentials"
+      },
+      "risk": {
+        "heavyRain": "Heavy rain expected - avoid low-lying areas; canal walkways may be slippery.",
+        "thunder": "Lightning risk - do not shelter under trees or near open water.",
+        "strongWind": "Strong winds - keep clear of the shoreline, rocks and loose structures.",
+        "denseFog": "Dense fog - low visibility for cyclists and drivers on the beach path.",
+        "heat": "Very hot conditions - limit time outdoors around midday.",
+        "roughSea": "Large waves - do not swim near rocks or the jetty."
+      }
+    }
+  },
+  "amenities": {
+    "title": "Visitor Facilities & Practical Information",
+    "subtitle": "A neutral, type-level overview of public facilities around the Venice canal district, so you can plan a comfortable visit - no individual businesses are endorsed.",
+    "items": [
+      {
+        "title": "Public Restrooms",
+        "desc": "Restrooms are not located along the residential canal lanes. The nearest public restrooms are the beachfront facilities along the oceanfront walk and the public plaza near the beach end of Windward Avenue.",
+        "tip": "Make a restroom stop before entering the canal lanes."
+      },
+      {
+        "title": "Parking",
+        "desc": "On-street parking is limited and time-restricted, and several streets in the surrounding neighbourhoods are residential permit zones. Paid public lots can be found in the beachfront area and along Venice Boulevard.",
+        "tip": "Read every sign twice - parking rules change from block to block."
+      },
+      {
+        "title": "Dining Options",
+        "desc": "The canal lanes themselves are residential and have no food service. Casual cafes, coffee shops, healthy eateries and takeout stands line the oceanfront walk and Abbot Kinney Boulevard a short walk away.",
+        "tip": "Carry a water bottle; public drinking fountains are found mainly along the beachfront."
+      },
+      {
+        "title": "Grocery & Convenience Stores",
+        "desc": "Neighbourhood markets, small specialty grocers and convenience stores serve the Venice area along main corridors such as Lincoln Boulevard and Washington Boulevard, a short drive or longer walk from the district.",
+        "tip": "Stock up on water and snacks before your visit to stay self-sufficient."
+      },
+      {
+        "title": "Places to Stay (by Type)",
+        "desc": "Within easy reach you will find beachfront hotels, smaller boutique guesthouses and vacation rentals in surrounding residential streets, plus a wider range of hotels in nearby Santa Monica and Marina del Rey.",
+        "tip": "Accommodation near the coast is popular in summer - book well in advance."
+      },
+      {
+        "title": "Fuel & EV Charging",
+        "desc": "Fuel stations are located on the main arterials around Venice, such as Lincoln Boulevard and Centinela Avenue and near Marina del Rey. Public electric-vehicle charging is available at many paid parking lots and shopping areas in the region.",
+        "tip": "EV drivers should check charger availability in advance, as demand is high on weekends."
+      },
+      {
+        "title": "Pharmacy & Medical Help",
+        "desc": "Pharmacies and urgent-care clinics can be found along the commercial corridors around the district, and full hospital services are a short drive away in Santa Monica.",
+        "tip": "Save the address of the nearest urgent-care clinic before your trip."
+      },
+      {
+        "title": "Accessibility",
+        "desc": "The canal walkways are pedestrian paths with steps and arched pedestrian bridges, so access for wheelchairs and strollers is limited in places. Flat sidewalk-level routes along adjacent streets and the beach path offer easier alternatives.",
+        "tip": "Ask your accommodation for the most accessible route before setting out."
+      }
+    ],
+    "tipPrefix": "Tip:"
+  },
   "mapSection": {
-    "title": "How to Get Here",
+    "title": "Location & How to Visit Venice Canals in Venice",
     "subtitle": "Venice, CA 90292",
     "openMaps": "View on Google Maps"
+  },
+  "semanticIntro": {
+    "crumbs": ["Venice Canal Historic District", "Venice", "California", "United States"],
+    "welcome": "Welcome to Venice Canal Historic District, widely recognized as the central Venice Canals. Located in the heart of Venice, California, United States, this destination serves as a primary hub for travelers visiting the region."
+  },
+  "landmarks": {
+    "title": "Landmarks & Attractions Around Venice Canals",
+    "description": "When visiting Venice Canal Historic District, visitors can easily explore surrounding historical landmarks and points of interest, including Venice Beach Boardwalk and Abbot Kinney Boulevard.",
+    "items": [
+      {
+        "name": "Venice Beach Boardwalk",
+        "desc": "Iconic oceanside promenade with street performers, shops and Muscle Beach - about a 10 minute walk from the canals."
+      },
+      {
+        "name": "Abbot Kinney Boulevard",
+        "desc": "Celebrated 'coolest block in America' shopping and dining street just north of the canal district."
+      },
+      {
+        "name": "Muscle Beach Venice",
+        "desc": "Famous outdoor gym and historic landmark on Venice Beach, close to the canal entrance at Pacific Ave."
+      },
+      {
+        "name": "Marina del Rey",
+        "desc": "The largest man-made small-craft harbor in the US, a short drive south along the coast."
+      },
+      {
+        "name": "Santa Monica Pier",
+        "desc": "Historic pier with an amusement park and aquarium, about 2 miles north along the beach bike path."
+      },
+      {
+        "name": "Venice Sign & Pacific Avenue",
+        "desc": "The classic 'Venice' sign and the tree-lined gateway at Venice Blvd and Pacific Ave mark the canal district entrance."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About Venice Canal Historic District",
+    "intro": "Quick answers to the questions visitors ask most about the Venice canals.",
+    "items": [
+      {
+        "q": "Where is Venice Canal Historic District located?",
+        "a": "Venice Canal Historic District is located in the Venice neighborhood of Los Angeles, California, United States (Venice, CA 90292)."
+      },
+      {
+        "q": "Is Venice Canal Historic District free to visit?",
+        "a": "Yes, Venice Canal Historic District is a public neighborhood that is free to visit year-round and is open 24 hours a day."
+      },
+      {
+        "q": "How far are the Venice Canals from Venice Beach?",
+        "a": "The canal district sits just inland from the shore - about a 5-10 minute walk east of the Venice Beach Boardwalk and Ocean Front Walk."
+      },
+      {
+        "q": "Can you rent boats or kayaks in the Venice canals?",
+        "a": "No. The canals run through a private residential neighborhood and non-resident boating is not permitted. Enjoy the public footpaths and arched bridges instead; kayak and paddleboard rentals are available at the nearby marina."
+      },
+      {
+        "q": "When was Venice Canal Historic District built?",
+        "a": "The canals were built in 1905 by developer Abbot Kinney, who modeled the waterways on the canal system of Venice, Italy."
+      },
+      {
+        "q": "How many canals are there in Venice Canal Historic District?",
+        "a": "Six historic canals survive from the original network: Carroll, Linnie, Howland and Sherman Canals run east to west, crossed by Eastern Canal and Grand Canal running north to south."
+      },
+      {
+        "q": "What is the best time to visit the Venice canals?",
+        "a": "Early morning and late afternoon offer the softest light and fewest crowds, and weekdays are noticeably quieter than weekends."
+      },
+      {
+        "q": "Can you swim or boat in the Venice canals?",
+        "a": "No. The canals are lined with private homes, and swimming and boating are not permitted. Please stay on the public pedestrian walkways and bridges."
+      },
+      {
+        "q": "Where can I park near Venice Canal Historic District?",
+        "a": "Street parking around the district is limited and time-restricted. Parking near Venice Boulevard or at nearby public lots and walking in is recommended."
+      },
+      {
+        "q": "Is Venice Canal Historic District worth visiting?",
+        "a": "Yes - listed on the National Register of Historic Places in 1982 and beautifully restored in the 1990s, it is one of Los Angeles' most picturesque and photogenic places."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "intro": "For official updates, preservation history and regional tourism information, refer to the authoritative resources below.",
+    "tourismLabel": "United States / California Official Tourism Portal",
+    "nps": "National Register of Historic Places",
+    "ohp": "California Office of Historic Preservation",
+    "laParks": "City of Los Angeles - Venice Canals Park",
+    "laPlanning": "LA City Planning - Historic Preservation",
+    "veniceNC": "Venice Neighborhood Council"
   },
   "footer": {
     "rights": "© 2026 Venice Canal Historic District Independent Tourism Research Association · All rights reserved.",
@@ -254,7 +522,8 @@
       "laPlanning": "LA City Planning",
       "veniceNC": "Venice Neighborhood Council"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "imageCredit": "All photos displayed on this website are the property and copyright of their respective photographers."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -319,9 +588,15 @@
     "save": "Save Preferences",
     "saved": "Preferences saved!"
   },
+  "cookieBanner": {
+    "text": "This independent guide uses a small analytics cookie - only if you allow it - to understand how visitors use the site. You can accept it, keep essential cookies only, or fine-tune your choice in Cookie Settings.",
+    "accept": "Accept",
+    "essentialOnly": "Essential only",
+    "settings": "Cookie Settings"
+  },
   "officialManagement": {
     "title": "About Venice Canal Historic District",
-    "text": "Venice Canal Historic District is a historic canal neighborhood located in the Venice area of Los Angeles, California, built by developer Abbot Kinney in 1905.\n\nThis area consists of six canals, lined with residential architecture in various styles. In 1992, the area was officially listed on the National Register of Historic Places as a protected historic district. Whether you're strolling along the pedestrian walkways beside the canals or admiring the beautiful architecture, this place offers you a unique Los Angeles experience."
+    "text": "Venice Canal Historic District is a historic canal neighborhood in the Venice area of Los Angeles, California, created in 1905 by developer Abbot Kinney as the centerpiece of his 'Venice of America' resort.\n\nSix of the original canals survive today, lined with residential architecture of many styles. The district was listed on the National Register of Historic Places in 1982 and fully restored in the early 1990s. Whether you are strolling the quiet walkways beside the water or admiring the architecture, this neighborhood offers a uniquely Los Angeles experience."
   },
   "recommendations": {
     "title": "",

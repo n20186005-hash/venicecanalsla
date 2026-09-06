@@ -53,7 +53,8 @@ export default function CookieSettingsClient() {
   const t = useTranslations('cookieSettings');
   const ht = useTranslations('header');
   const locale = useLocale();
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  // localePrefix: 'always' -> both zh and en carry their locale prefix.
+  const homeHref = `/${locale}`;
 
   const [analytics, setAnalytics] = useState(false);
   const [marketing, setMarketing] = useState(false);
@@ -69,6 +70,17 @@ export default function CookieSettingsClient() {
 
   function handleSave() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, marketing }));
+    // Reflect the new choice in GA4 consent state immediately.
+    try {
+      const w = window as any;
+      if (typeof w.gtag === 'function') {
+        w.gtag('consent', 'update', {
+          analytics_storage: analytics ? 'granted' : 'denied',
+        });
+      }
+    } catch (e) {
+      /* ignore */
+    }
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }

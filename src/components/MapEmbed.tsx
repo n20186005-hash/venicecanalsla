@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/lib/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
@@ -25,14 +26,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Venice+Canal+Historic+District+Venice+CA&output=embed"
+            src={SITE.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Venice Canal Historic District"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title={`Google Maps - ${SITE.fullName} in ${SITE.city}`}
           />
         </div>
 

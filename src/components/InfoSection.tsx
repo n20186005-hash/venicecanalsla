@@ -34,12 +34,12 @@ export default function InfoSection() {
                     {section.title}
                   </h3>
                 </div>
-                <p
+                <div
                   className="text-lg leading-relaxed ml-14"
-                  style={{ color: 'var(--text-secondary)' }}
+                  style={{ color: 'var(--text-secondary)', whiteSpace: 'pre-line' }}
                 >
                   {section.content}
-                </p>
+                </div>
               </div>
             </div>
           ))}

@@ -1,9 +1,11 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function RouteSection() {
   const t = useTranslations('route');
+  const messages = useMessages() as any;
+  const stepsCount = (messages?.route?.steps || []).length;
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -28,7 +30,7 @@ export default function RouteSection() {
           />
 
           <div className="space-y-6">
-            {Array.from({ length: 8 }, (_, i) => i + 1).map((step) => (
+            {Array.from({ length: stepsCount }, (_, i) => i + 1).map((step) => (
               <RouteStep
                 key={step}
                 step={step}

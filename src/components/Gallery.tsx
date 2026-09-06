@@ -1,29 +1,24 @@
 'use client';
 
+'use client';
+
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photos = [
-  { src: '/gallery/venicecanalsla (1).jpg', alt: 'Venice Canal Historic District 照片 1' },
-  { src: '/gallery/venicecanalsla (2).jpg', alt: 'Venice Canal Historic District 照片 2' },
-  { src: '/gallery/venicecanalsla (3).jpg', alt: 'Venice Canal Historic District 照片 3' },
-  { src: '/gallery/venicecanalsla (4).jpg', alt: 'Venice Canal Historic District 照片 4' },
-  { src: '/gallery/venicecanalsla (5).jpg', alt: 'Venice Canal Historic District 照片 5' },
-  { src: '/gallery/venicecanalsla (6).jpg', alt: 'Venice Canal Historic District 照片 6' },
-  { src: '/gallery/venicecanalsla (7).jpg', alt: 'Venice Canal Historic District 照片 7' },
-  { src: '/gallery/venicecanalsla (8).jpg', alt: 'Venice Canal Historic District 照片 8' },
-  { src: '/gallery/venicecanalsla (9).jpg', alt: 'Venice Canal Historic District 照片 9' },
-  { src: '/gallery/venicecanalsla (10).jpg', alt: 'Venice Canal Historic District 照片 10' },
-  { src: '/gallery/venicecanalsla (11).jpg', alt: 'Venice Canal Historic District 照片 11' },
-  { src: '/gallery/venicecanalsla (12).jpg', alt: 'Venice Canal Historic District 照片 12' },
-  { src: '/gallery/venicecanalsla (13).jpg', alt: 'Venice Canal Historic District 照片 13' },
-  { src: '/gallery/venicecanalsla (14).jpg', alt: 'Venice Canal Historic District 照片 14' },
-  { src: '/gallery/venicecanalsla (15).jpg', alt: 'Venice Canal Historic District 照片 15' },
-  { src: '/gallery/venicecanalsla (16).jpg', alt: 'Venice Canal Historic District 照片 16' },
-];
+const photoFiles = Array.from(
+  { length: 16 },
+  (_, i) => `/gallery/venicecanalsla (${i + 1}).jpg`
+);
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const messages = useMessages() as any;
+  const captions: string[] = messages?.gallery?.captions || [];
+  // Semantic alt / caption naming, localized via messages.
+  const photos = photoFiles.map((src, i) => ({
+    src,
+    alt: captions[i] || `Venice Canal Historic District photo ${i + 1}`,
+  }));
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);

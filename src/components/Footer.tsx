@@ -3,6 +3,7 @@ import { useLocale } from 'next-intl';
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const guideT = useTranslations('guides');
   const locale = useLocale();
   // localePrefix: 'always' -> both zh and en carry their locale prefix.
   const prefix = `/${locale}`;
@@ -39,16 +40,38 @@ export default function Footer() {
               </a>
             </div>
           </div>
-          <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
-            <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('privacy')}
-            </a>
-            <a href={`${prefix}/terms-of-service`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('terms')}
-            </a>
-            <a href={`${prefix}/cookie-settings`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('cookies')}
-            </a>
+          <div className="flex flex-col gap-4 sm:flex-row sm:gap-8 mt-4 sm:mt-0">
+            <div className="flex flex-col gap-2">
+              <span className="font-semibold text-sm" style={{ color: 'var(--text-primary)' }}>
+                {guideT('navTitle')}
+              </span>
+              <a href={`${prefix}/walking-map`} className="hover:underline text-sm" style={{ color: 'var(--text-secondary)' }}>
+                {guideT('walking-map.navLabel')}
+              </a>
+              <a href={`${prefix}/parking-directions`} className="hover:underline text-sm" style={{ color: 'var(--text-secondary)' }}>
+                {guideT('parking-directions.navLabel')}
+              </a>
+              <a href={`${prefix}/visitor-guide`} className="hover:underline text-sm" style={{ color: 'var(--text-secondary)' }}>
+                {guideT('visitor-guide.navLabel')}
+              </a>
+              <a href={`${prefix}/photo-spots`} className="hover:underline text-sm" style={{ color: 'var(--text-secondary)' }}>
+                {guideT('photo-spots.navLabel')}
+              </a>
+              <a href={`${prefix}/history`} className="hover:underline text-sm" style={{ color: 'var(--text-secondary)' }}>
+                {guideT('history.navLabel')}
+              </a>
+            </div>
+            <div className="flex flex-wrap gap-4 text-sm">
+              <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {t('privacy')}
+              </a>
+              <a href={`${prefix}/terms-of-service`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {t('terms')}
+              </a>
+              <a href={`${prefix}/cookie-settings`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {t('cookies')}
+              </a>
+            </div>
           </div>
         </div>
 

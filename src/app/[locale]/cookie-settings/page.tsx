@@ -1,5 +1,6 @@
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
+import { SITE } from '@/lib/site';
 import CookieSettingsClient from './CookieSettingsClient';
 
 export async function generateMetadata({
@@ -8,7 +9,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://venicecanalsla.com';
+  const baseUrl = SITE.baseUrl;
   const zhUrl = `${baseUrl}/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
   const selfUrl = locale === 'zh' ? zhUrl : enUrl;

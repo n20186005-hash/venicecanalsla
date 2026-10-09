@@ -8,9 +8,9 @@
  */
 
 export const SITE = {
-  // Domain & URLs
-  domain: 'venicecanalsla.com',
-  baseUrl: 'https://venicecanalsla.com',
+  // Domain & URLs (canonical domain is the www host)
+  domain: 'www.venicecanalsla.com',
+  baseUrl: 'https://www.venicecanalsla.com',
 
   // Entity naming (see SEO binding config)
   fullName: 'Venice Canal Historic District',
@@ -42,14 +42,14 @@ export const SITE = {
 
   // Google rating facts (latest from Google Maps listing)
   rating: '4.6',
-  reviewCount: '13,030',
+  reviewCount: '13,120',
 
   // GA4 Measurement ID
   ga4Id: 'G-HXM22WWPKP',
 
   // Images (served from /public)
   heroImagePath: '/images/hero.jpg',
-  heroImageUrl: 'https://venicecanalsla.com/images/hero.jpg',
+  heroImageUrl: 'https://www.venicecanalsla.com/images/hero.jpg',
 } as const;
 
 /** Absolute canonical / self URL for a given locale. */

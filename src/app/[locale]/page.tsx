@@ -16,6 +16,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import LandmarksSection from '@/components/LandmarksSection';
 import MapEmbed from '@/components/MapEmbed';
+import GuidesSection from '@/components/GuidesSection';
 import FaqSection from '@/components/FaqSection';
 import SourcesSection from '@/components/SourcesSection';
 import Footer from '@/components/Footer';
@@ -127,6 +128,7 @@ export default async function HomePage({
         <Reviews />
         <LandmarksSection />
         <MapEmbed />
+        <GuidesSection locale={locale} />
         <FaqSection />
         <SourcesSection />
       </main>

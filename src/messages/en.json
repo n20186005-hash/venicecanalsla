@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Venice Canals LA | Free Visitor Guide, Parking & Walking Map",
-    "description": "Plan your visit to the Venice Canal Historic District in Los Angeles: parking, photo spots, arched bridges and a short walk from Venice Beach. Free and open 24/7.",
-    "ogTitle": "Venice Canals LA | Free Visitor Guide, Parking & Walking Map",
-    "ogDescription": "Plan your visit to the Venice Canal Historic District in Los Angeles: parking, photo spots, arched bridges and a short walk from Venice Beach. Free and open 24/7.",
+    "title": "Venice Canals Los Angeles | Walking Map, Parking & Visitor Guide",
+    "description": "Visit the Venice Canals in Los Angeles with a free walking map, nearby parking tips, photo spots, and visitor rules. No ticket or reservation required.",
+    "ogTitle": "Venice Canals Los Angeles | Walking Map, Parking & Visitor Guide",
+    "ogDescription": "Visit the Venice Canals in Los Angeles with a free walking map, nearby parking tips, photo spots, and visitor rules. No ticket or reservation required.",
     "ogImageAlt": "Venice Canal Historic District in Venice, California"
   },
   "header": {
@@ -14,10 +14,10 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Venice Canal Historic District (Venice)",
+    "title": "Venice Canals Los Angeles – Historic District Walking Guide",
     "subtitle": "Historic Canal District - Los Angeles Hidden Gem with Tranquil Water Views",
     "rating": "4.6",
-    "reviewCount": "13,030 reviews",
+    "reviewCount": "13,120 reviews",
     "type": "Historic District · LA Must-Visit",
     "freeBadge": "Free · Open 24/7",
     "openMaps": "View Location",
@@ -61,7 +61,7 @@
       {
         "id": "location",
         "title": "Location",
-        "content": "The surviving canal district sits in the Venice area of Los Angeles, roughly between Venice Boulevard to the south, the Marina del Rey shoreline to the north, Pacific Avenue to the east and Strongs Drive to the west. The official address is Venice, CA 90292.\n\nDowntown Los Angeles is about a 30-40 minute drive away, and the district is a short walk from the sand at Venice Beach. Street parking nearby is limited and time-restricted, so many visitors park in public lots around Venice Boulevard and walk in, or arrive by bike along the beachfront bike path."
+        "content": "The surviving canal district sits in the Venice area of Los Angeles, roughly between Washington Boulevard to the north and Venice Boulevard to the south, with Pacific Avenue to the east and Strongs Drive to the west. The official address is Venice, CA 90292.\n\nDowntown Los Angeles is about a 30-40 minute drive away, and the district is a short walk from the sand at Venice Beach. Street parking nearby is limited and time-restricted, so many visitors park in public lots around Venice Boulevard and walk in, or arrive by bike along the beachfront bike path."
       },
       {
         "id": "wildlife",
@@ -233,34 +233,9 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
-    "items": [
-      {
-        "name": "Liu Ming",
-        "date": "May 2026",
-        "rating": 5,
-        "text": "Venice Canal Historic District is so beautiful! Tranquil canals, beautiful bridges, and exquisite architecture make you feel like you're in real Venice. Highly recommended for photography enthusiasts!"
-      },
-      {
-        "name": "Wang Fang",
-        "date": "April 2026",
-        "rating": 5,
-        "text": "This is a hidden gem! Compared to the bustling Venice Beach, it's much quieter here. Strolling beside the canals and enjoying the rare tranquility of Los Angeles."
-      },
-      {
-        "name": "Chen Wei",
-        "date": "March 2026",
-        "rating": 4,
-        "text": "The architecture in the canal district is very beautiful, each house has a unique style. However, please respect the privacy of local residents and don't make loud noises."
-      },
-      {
-        "name": "Zhang Li",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "The canal district is especially beautiful in the evening, golden sunlight sprinkled on the water surface, perfect for taking photos. Free to visit, one of the must-go places in Los Angeles!"
-      }
-    ]
+    "declaration": "This site does not publish individual visitor reviews. The rating shown above is sourced from Google Maps and reflects the public listing for the Venice Canal Historic District. To read verified visitor reviews, please open the Google Maps link below.",
+    "moreReviews": "View reviews on Google Maps",
+    "items": []
   },
   "weather": {
     "title": "Live Weather & 7-Day Forecast",
@@ -471,7 +446,7 @@
       },
       {
         "q": "Can you rent boats or kayaks in the Venice canals?",
-        "a": "No. The canals run through a private residential neighborhood and non-resident boating is not permitted. Enjoy the public footpaths and arched bridges instead; kayak and paddleboard rentals are available at the nearby marina."
+        "a": "There are no boat- or kayak-rental stands inside the canal district - it is a residential tidal waterway, not a rental venue. Visitors are welcome to paddle human-powered craft (kayaks, canoes and rowboats) that they bring themselves, provided they are non-motorized and follow local rules. Motorboats are not allowed. The nearest kayak and stand-up-paddleboard rentals are at the Venice Beach oceanfront and the nearby marina."
       },
       {
         "q": "When was Venice Canal Historic District built?",
@@ -487,7 +462,7 @@
       },
       {
         "q": "Can you swim or boat in the Venice canals?",
-        "a": "No. The canals are lined with private homes, and swimming and boating are not permitted. Please stay on the public pedestrian walkways and bridges."
+        "a": "Swimming is not allowed in the canals. Non-motorized, human-powered boating (kayaks, canoes, rowboats) is permitted for visitors who bring their own compliant craft and use the designated public access points - motorboats are prohibited. Keep noise low, stay clear of private docks and respect the residential neighborhood. Always check current local regulations before you go."
       },
       {
         "q": "Where can I park near Venice Canal Historic District?",
@@ -604,5 +579,258 @@
     "toursTitle": "",
     "attractions": [],
     "tours": []
+  },
+  "guides": {
+    "navTitle": "Visitor Guides",
+    "walking-map": {
+      "navLabel": "Walking Map",
+      "metaTitle": "Venice Canals Walking Map & Loop | Free Self-Guided Route",
+      "metaDescription": "A practical Venice Canals walking map: the full loop distance, time, entrances, arched bridges and the best order to explore the historic district on foot.",
+      "h1": "Venice Canals Walking Map & Self-Guided Loop",
+      "intro": "The Venice Canal Historic District is best explored on foot. The six surviving canals form a compact, walkable grid of quiet pedestrian paths and arched footbridges. This walking map gives you a simple loop, realistic timing and the key access points so you can see the whole district in under an hour.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "The Loop at a Glance",
+          "content": "A relaxed circuit of all six canals covers roughly 1 mile (1.6 km) and takes about 45-60 minutes, including photo stops. The route is flat and entirely on public walkways - no streets to cross except at the entrance. Start and finish at the same point so you never backtrack."
+        },
+        {
+          "id": "start",
+          "title": "Where to Start",
+          "content": "Most visitors begin where Dell Avenue meets Venice Boulevard, just west of Pacific Avenue. This is the main gateway to the canal district and the easiest place to park or arrive on foot from Venice Beach (about a 10-minute walk east). A small bridge here drops you straight onto the first canal path."
+        },
+        {
+          "id": "route",
+          "title": "Suggested Walking Order",
+          "content": "1) Cross the entry bridge onto Carroll Canal and walk its length east to west. 2) Turn onto the Grand Canal or Eastern Canal along the district edge. 3) Loop back via Linnie, Howland and Sherman Canals, each with its own character. 4) Recross the arched footbridges for reflections and different angles. 5) Return to the Venice Boulevard gateway. Signage is minimal, so follow the water - every path eventually leads back to a perimeter street."
+        },
+        {
+          "id": "bridges",
+          "title": "Bridges & Crossings",
+          "content": "The private arched footbridges are the district's signature photo opportunity. They cross every canal and connect the residential lanes. Stay on the public bridges and paths; the residences and docks between them are private. The perimeter streets (Venice Blvd to the south, Washington Blvd to the north) are where you rejoin the sidewalk grid."
+        },
+        {
+          "id": "accessibility",
+          "title": "Accessibility",
+          "content": "The canal paths are pedestrian walkways with steps and arched bridges in places, so wheelchair and stroller access is limited. Flatter alternatives run along the adjacent perimeter streets and the nearby beach path. If mobility is a concern, plan a shorter out-and-back along the Grand Canal rather than the full loop."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How long does the Venice Canals walking loop take?",
+          "a": "A full loop of all six canals takes about 45-60 minutes at a relaxed pace with photo stops. A shorter out-and-back along the Grand Canal can be done in 20-30 minutes."
+        },
+        {
+          "q": "Where do I start the Venice Canals walk?",
+          "a": "Start where Dell Avenue meets Venice Boulevard, just west of Pacific Avenue. It is the main gateway, the easiest place to park, and about a 10-minute walk from Venice Beach."
+        },
+        {
+          "q": "Is the Venice Canals walk free?",
+          "a": "Yes. The canals are a public residential neighborhood with free, open walkways. There is no ticket, tour fee or reservation required to walk the paths."
+        },
+        {
+          "q": "Can I bring a stroller or wheelchair on the canal paths?",
+          "a": "Access is limited because some paths have steps and arched bridges. Flat perimeter streets and the beach path offer easier alternatives. A shorter Grand Canal out-and-back is the most manageable option."
+        }
+      ]
+    },
+    "parking-directions": {
+      "navLabel": "Parking & Directions",
+      "metaTitle": "Venice Canals Parking & Directions | Where to Park",
+      "metaDescription": "Where to park for the Venice Canals: street rules, public lots near Venice Boulevard, driving directions from Downtown LA and LAX, and transit or bike options.",
+      "h1": "Parking & Directions for the Venice Canals",
+      "intro": "Parking near the Venice Canal Historic District is limited and time-restricted, so a little planning goes a long way. This guide covers the street rules, the most reliable public lots, and the easiest ways to get there by car, transit or bike.",
+      "sections": [
+        {
+          "id": "street",
+          "title": "Street Parking Rules",
+          "content": "On-street parking around the canals is scarce and many surrounding blocks are residential permit zones where curb markings restrict non-resident parking, often for only 1-2 hours. Always read every sign twice - rules change from block to block. The safest street options are along Venice Boulevard and the perimeter streets, a short walk from the water."
+        },
+        {
+          "id": "lots",
+          "title": "Public Parking Lots",
+          "content": "Paid public lots are concentrated along the Venice Boulevard corridor and the beachfront area near Windward Avenue. The beachfront lots are the largest and most reliable, especially on weekends; from there it is a pleasant 10-15 minute walk to the canal gateway. Arrive before late morning on weekends to avoid full lots."
+        },
+        {
+          "id": "where",
+          "title": "Where to Park",
+          "content": "Best balance: a beachfront lot near Windward Avenue, then walk east to the canals. Closest to the water: metered street spots on Venice Boulevard near Dell Avenue (time-limited). Avoid circling the narrow residential canal streets - there is no through-traffic parking and it disturbs residents."
+        },
+        {
+          "id": "byCar",
+          "title": "Driving Directions",
+          "content": "From Downtown LA: I-10 W to I-405 S, exit Venice Boulevard and head west to the coast. From LAX: take Lincoln Boulevard north to Venice Boulevard, then west. Both are roughly 20-40 minutes depending on traffic. Use a navigation app and set the destination to 'Venice Boulevard & Pacific Avenue' rather than the canals themselves, since the residential streets are not drivable through."
+        },
+        {
+          "id": "transit",
+          "title": "By Transit & Bike",
+          "content": "The Metro E (Expo) Line reaches Downtown Santa Monica, where you can transfer to a local bus or ride-share the final miles. The Venice Beach bike path connects the canals to Santa Monica and Marina del Rey, making cycling one of the most pleasant, traffic-free ways to arrive."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is parking free at the Venice Canals?",
+          "a": "Street parking is free where allowed but heavily time-restricted and mostly permit-only near the canals. Public lots are paid. There is no free dedicated canal parking lot."
+        },
+        {
+          "q": "Where is the closest parking to the Venice Canals?",
+          "a": "Metered street spaces on Venice Boulevard near Dell Avenue are closest, but limited. The most reliable nearby parking is the beachfront lots near Windward Avenue, about a 10-15 minute walk away."
+        },
+        {
+          "q": "Can I park on the canal streets themselves?",
+          "a": "Most canal-side streets are residential permit zones with strict limits, and the lanes are not through-traffic. It is better to park on Venice Boulevard or a beachfront lot and walk in."
+        },
+        {
+          "q": "How far is parking from the canals?",
+          "a": "From the beachfront lots it is about a 10-15 minute walk. From Venice Boulevard street parking it is a 2-5 minute walk to the gateway at Dell Avenue."
+        }
+      ]
+    },
+    "visitor-guide": {
+      "navLabel": "Visitor Guide",
+      "metaTitle": "Venice Canal Historic District Visitor Guide | Free, No Tickets",
+      "metaDescription": "Plan a visit to the Venice Canal Historic District: it is free with no tickets or reservations, the best times to go, what to bring, rules and nearby facilities.",
+      "h1": "Venice Canal Historic District Visitor Guide",
+      "intro": "The Venice Canal Historic District is a free, always-open residential neighborhood built around six historic canals. This visitor guide covers everything you need before you go: entry, timing, what to bring, the rules that keep the district peaceful, and the facilities nearby.",
+      "sections": [
+        {
+          "id": "entry",
+          "title": "Entry, Tickets & Reservations",
+          "content": "There are no tickets, no entry fee and no reservation required. The canals are a public neighborhood open 24 hours a day, year-round. You simply walk in via the pedestrian paths and arched bridges. Guided tours are occasionally offered by local historical societies but are not needed to enjoy the district."
+        },
+        {
+          "id": "timing",
+          "title": "Best Time to Visit",
+          "content": "Early morning (7-9 AM) and late afternoon to evening offer the softest light and the fewest crowds - ideal for photography and a peaceful stroll. Weekdays are noticeably quieter than weekends. Mornings in any season are calm; summer evenings avoid the midday heat."
+        },
+        {
+          "id": "bring",
+          "title": "What to Bring",
+          "content": "Bring a camera or phone (the district is very photogenic), water, and a light layer for ocean breezes. Comfortable shoes are all you need for the flat paths. There are no shops or food stands inside the canal lanes, so pick up snacks and drinks beforehand."
+        },
+        {
+          "id": "rules",
+          "title": "Rules & Etiquette",
+          "content": "The canals are a living residential community. Keep voices low, stay on the public walkways and bridges, and do not enter private docks or gardens. Swimming is not allowed. Non-motorized, human-powered boating (kayaks, canoes, rowboats) is permitted for visitors who bring their own compliant craft from designated public access points; motorboats are prohibited. Always check current local regulations before boating."
+        },
+        {
+          "id": "facilities",
+          "title": "Facilities Nearby",
+          "content": "There are no public restrooms inside the canal lanes - use the beachfront facilities along the oceanfront walk before you enter. Cafes, restaurants and shops line the nearby oceanfront and Abbot Kinney Boulevard. The nearest urgent-care and pharmacies are a short drive away along the commercial corridors."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do I need tickets for the Venice Canal Historic District?",
+          "a": "No. Entry is free and open to the public 24/7. There are no tickets, no reservation and no gate. You simply walk the public paths."
+        },
+        {
+          "q": "Are dogs allowed at the Venice Canals?",
+          "a": "Leashed dogs are generally allowed on the public walkways, but be respectful of residents and clean up after your pet. Some paths are narrow, so keep dogs close."
+        },
+        {
+          "q": "Are there restrooms at the Venice Canals?",
+          "a": "No public restrooms are inside the canal lanes. The nearest facilities are along the Venice Beach oceanfront walk, a short walk away - plan to use them before entering."
+        },
+        {
+          "q": "How much time should I budget for the Venice Canals?",
+          "a": "A relaxed walk of all six canals takes about 45-60 minutes. If you just want a quick look, 20-30 minutes along the Grand Canal is enough."
+        }
+      ]
+    },
+    "photo-spots": {
+      "navLabel": "Photo Spots",
+      "metaTitle": "Best Venice Canals Photo Spots & Golden Hour Tips",
+      "metaDescription": "The best Venice Canals photo spots: arched bridges, Grand Canal reflections, walkways and sunsets, plus golden-hour timing and drone rules.",
+      "h1": "Best Photo Spots at the Venice Canals",
+      "intro": "The Venice Canal Historic District is one of Los Angeles' most photogenic corners. Mirror-still water, arched footbridges and Mediterranean-style homes make it a favorite for photographers. Here are the top spots and the timing that makes them shine.",
+      "sections": [
+        {
+          "id": "timing",
+          "title": "Best Light & Timing",
+          "content": "Golden hour - roughly the first hour after sunrise and the last hour before sunset - gives soft, warm light and the calmest water for reflections. Early morning also means fewer people and undisturbed reflections. Overcast days still work well, with even, diffuse light that flatters the architecture."
+        },
+        {
+          "id": "spots",
+          "title": "Top Photo Spots",
+          "content": "1) The arched footbridges - shoot down the canal with the bridge framing the water and houses. 2) Grand Canal waterfront - wide, tranquil views and elegant residences. 3) The pedestrian walkway - intimate, everyday-life scenes along the water. 4) Mediterranean Revival architecture - detail shots of the historic homes. 5) Sunset on the water - golden reflections from any bridge facing west."
+        },
+        {
+          "id": "tips",
+          "title": "Photography Tips",
+          "content": "Get low at bridge level for stronger reflections. Use a polarizing filter to cut glare on the water. A standard or wide lens is enough; a tripod helps at blue hour but mind the narrow paths. Be patient and wait for foot-traffic gaps for clean compositions."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the best time to photograph the Venice Canals?",
+          "a": "Early morning and the hour before sunset (golden hour) offer the best light and calmest water for reflections, plus fewer people. Arrive at sunrise for undisturbed mirror reflections."
+        },
+        {
+          "q": "Where is the best sunset spot at the Venice Canals?",
+          "a": "Any arched footbridge facing west captures golden-hour reflections on the water. The Grand Canal waterfront also frames warm sunset light on the residences."
+        },
+        {
+          "q": "Can I fly a drone over the Venice Canals?",
+          "a": "The canals are within controlled airspace near the coast and over a residential area, and the U.S. has strict drone rules. Recreational drone flight is generally not appropriate here - check FAA rules and local ordinances before flying, and respect residents' privacy."
+        },
+        {
+          "q": "Are tripods allowed on the canal paths?",
+          "a": "Yes, but the paths are narrow and shared with pedestrians and residents. Use a compact travel tripod and step aside so you do not block the walkway."
+        }
+      ]
+    },
+    "history": {
+      "navLabel": "History",
+      "metaTitle": "History of the Venice Canals | Abbot Kinney & Venice of America",
+      "metaDescription": "The story of the Venice Canals: Abbot Kinney's 1905 Venice of America, the 1929 fill, and the 1982-1993 preservation that saved six canals.",
+      "h1": "History of the Venice Canals",
+      "intro": "The Venice Canals are the surviving remnant of a fantastical 1905 seaside resort called 'Venice of America.' Their story spans ambition, decline, a controversial 1929 fill, and a hard-won preservation that turned a faded neighborhood into one of Los Angeles' most beloved landmarks.",
+      "sections": [
+        {
+          "id": "kinney",
+          "title": "Abbot Kinney & 1905",
+          "content": "Developer Abbot Kinney - who made his fortune in tobacco - dreamed of an American Venice. In 1905 he opened 'Venice of America' on former marshland, with a network of saltwater canals modeled on Venice, Italy, gondolas ferrying tourists, an arcaded business district and a long pleasure pier. At its peak the grid covered far more ground than today's district."
+        },
+        {
+          "id": "era",
+          "title": "The Venice of America Era",
+          "content": "For a few glamorous years the canals were the centerpiece of a thriving resort. But the automobile boom of the 1920s made the slow waterways feel outdated, and public opinion turned against them. After Kinney's death in 1920 the resort declined."
+        },
+        {
+          "id": "fill",
+          "title": "The Great Fill of 1929",
+          "content": "In 1929 Los Angeles voted to fill most of the canals and convert them into paved streets. Many of those streets still trace the old waterways - Lion Canal became Windward Avenue, Coral Canal became Main Street, Venus Canal became San Juan Avenue. Only six canals survived."
+        },
+        {
+          "id": "preservation",
+          "title": "Preservation & Revival",
+          "content": "The six surviving canals were listed on the National Register of Historic Places in 1982 and named Los Angeles Historic-Cultural Monument No. 270 in 1983. After decades of decay, a full restoration of the seawalls, walkways and bridges was completed and the canals reopened in 1993, sparking the neighborhood's revival."
+        },
+        {
+          "id": "architecture",
+          "title": "The Canals Today",
+          "content": "Six canals remain: Carroll, Linnie, Howland and Sherman run east-west, crossed by Eastern Canal and Grand Canal running north-south. They are lined with a remarkable mix of early bungalows, Mediterranean Revival homes and bold modern architecture - a living piece of Los Angeles history."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Who built the Venice Canals?",
+          "a": "The canals were built in 1905 by developer Abbot Kinney as the centerpiece of his 'Venice of America' resort, modeled on the canals of Venice, Italy."
+        },
+        {
+          "q": "When were the Venice Canals built and restored?",
+          "a": "They were built in 1905 and largely filled in 1929, leaving six. Those six were listed on the National Register of Historic Places in 1982 and fully restored, reopening in 1993."
+        },
+        {
+          "q": "Why were most of the canals filled in?",
+          "a": "By the late 1920s the canals were costly to maintain and unpopular with motorists; in 1929 the city voted to fill most of them and turn them into streets. Only six were spared."
+        },
+        {
+          "q": "How many Venice Canals are there today?",
+          "a": "Six historic canals survive: Carroll, Linnie, Howland and Sherman (east-west), crossed by Eastern Canal and Grand Canal (north-south)."
+        }
+      ]
+    }
   }
 }

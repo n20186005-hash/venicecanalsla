@@ -16,6 +16,8 @@ export const routing = defineRouting({
     '/visitor-guide': '/visitor-guide',
     '/photo-spots': '/photo-spots',
     '/history': '/history',
+    '/nearby': '/nearby',
+    '/nearby/[slug]': '/nearby/[slug]',
   },
 });
 

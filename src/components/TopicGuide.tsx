@@ -1,5 +1,7 @@
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import { SITE, localeUrl } from '@/lib/site';
+import Header from './Header';
+import Footer from './Footer';
 import { GuideKey, guideUrls } from '@/lib/guides';
 
 export default function TopicGuide({
@@ -49,6 +51,7 @@ export default function TopicGuide({
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
+      <Header solid />
       {/* Structured data */}
       <script
         type="application/ld+json"
@@ -63,7 +66,7 @@ export default function TopicGuide({
         />
       )}
 
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 pt-24 pb-16">
         <a
           href={homeHref}
           className="inline-flex items-center gap-2 text-sm font-medium mb-6 transition-colors"
@@ -141,6 +144,16 @@ export default function TopicGuide({
           )}
         </div>
 
+        <section className="mt-12">
+          <h2 className="font-display text-xl font-semibold mb-4">{locale === 'zh' ? '运河基本信息' : 'Canal visitor information'}</h2>
+          <dl className="grid sm:grid-cols-2 gap-4">
+            <div><dt className="font-semibold">{locale === 'zh' ? '建议入口' : 'Suggested approach'}</dt><dd>Dell Avenue & S Venice Boulevard, Venice, CA</dd></div>
+            <div><dt className="font-semibold">{locale === 'zh' ? '公共步道维护' : 'Public walkway maintenance'}</dt><dd>{locale === 'zh' ? '洛杉矶市' : 'City of Los Angeles'}</dd></div>
+            <div><dt className="font-semibold">{locale === 'zh' ? '交通' : 'Getting here'}</dt><dd><a className="underline" href={SITE.mapsShareUrl}>{locale === 'zh' ? 'Google 地图导航' : 'Google Maps directions'}</a>{guideKey !== 'parking-directions' && <> · <a className="underline" href={`/${locale}/parking-directions`}>{locale === 'zh' ? '交通与停车' : 'Transport and parking'}</a></>}</dd></div>
+            <div><dt className="font-semibold">{locale === 'zh' ? '游客评分与评价' : 'Visitor rating and reviews'}</dt><dd><a className="underline" href={SITE.mapsShareUrl}>Google Maps · {SITE.rating} / 5 ({SITE.reviewCount})</a></dd></div>
+          </dl>
+        </section>
+
         {/* Related guides (internal links) */}
         <div className="mt-14 pt-8" style={{ borderTop: '1px solid var(--border-color)' }}>
           <h2
@@ -150,6 +163,9 @@ export default function TopicGuide({
             {navT('navTitle')}
           </h2>
           <div className="flex flex-wrap gap-3">
+            <a href={`/${locale}/nearby`} className="text-sm font-medium px-4 py-2 rounded-full" style={{ color: 'var(--accent)', border: '1px solid var(--accent)' }}>
+              {ht('nearby')}
+            </a>
             {(['walking-map', 'parking-directions', 'visitor-guide', 'photo-spots', 'history'] as const)
               .filter((k) => k !== guideKey)
               .map((k) => (
@@ -168,6 +184,7 @@ export default function TopicGuide({
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }

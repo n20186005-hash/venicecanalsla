@@ -1,0 +1,1652 @@
+[
+  {
+    "slug": "venice-beach",
+    "area": "v",
+    "en": "Venice Beach",
+    "zh": "威尼斯海滩",
+    "address": "2700–3100 Ocean Front Walk, Venice, CA 90291",
+    "source": "https://beaches.lacounty.gov/venice-beach/",
+    "operator": "county",
+    "access": "public",
+    "descriptionEn": "A broad sandy beach backed by a busy promenade. Enter on the Washington Boulevard side, walk out onto the sand and look back to see how the bike lane and promenade run separately along the shore. Lifeguard service is listed for daylight hours.",
+    "descriptionZh": "海滩有宽阔的沙地，背后是热闹的步行道。从华盛顿大道一侧走上沙滩，再回望沿海岸分别延伸的自行车道和步行道。县政府标示救生员在白天值勤。",
+    "photo": "/nearby/venice-beach.webp",
+    "photoSource": "https://beaches.lacounty.gov/venice-beach/",
+    "guide": {
+      "zh": {
+        "background": "威尼斯在 20 世纪初作为海滨度假区发展。今天从前排沙滩向内陆看，依次是救生塔、自行车道、步行道与商铺，能看出游泳、骑行和街区活动如何共用这段海岸。",
+        "walk": [
+          "从华盛顿大道尽头走上沙滩",
+          "沿干沙向北走一段",
+          "在有标识的通道返回海滨步行道。"
+        ],
+        "photoTip": "在华盛顿大道入口北侧的干沙上，斜向北拍，让救生塔与棕榈树排出纵深。",
+        "question": "游泳入口和自行车入口相同吗？",
+        "answer": "从华盛顿大道一带可分别进入沙滩和骑行道，下水前看救生塔旗号。",
+        "kind": "海滨沙滩",
+        "tagline": "从运河走到太平洋，沿沙滩看威尼斯的海岸线",
+        "visitTip": "从华盛顿大道一侧上沙滩后，可先短走一段确认风势和岸边通行条件。若还想看步行道与滑板场，把它们留作回程。",
+        "notice": "推车或轮椅可优先走硬质铺装通道，进入沙地前查县政府的沙滩轮椅与通道安排。",
+        "feature": "海岸由外向内分成海浪区、干沙、骑行道和步行街，适合把海滩活动与海滨散步安排在同一站。"
+      },
+      "en": {
+        "background": "Venice developed as a seaside resort in the early twentieth century. Look inland from the sand and you can read the shore in layers: lifeguard towers, bike path, promenade and storefronts.",
+        "walk": [
+          "Enter at the end of Washington Boulevard",
+          "follow the dry sand north",
+          "return to Ocean Front Walk at a signed crossing."
+        ],
+        "photoTip": "From dry sand north of the Washington Boulevard entrance, shoot diagonally north to line up a lifeguard tower with the palms.",
+        "question": "Do swimmers and cyclists use the same approach?",
+        "answer": "Washington Boulevard gives access to both. Check the lifeguard flags before entering the water.",
+        "kind": "Ocean beach",
+        "tagline": "From the canals to the Pacific, with a long sandy shore to explore",
+        "visitTip": "Start with a short walk from the Washington Boulevard access to gauge the wind and beach conditions. Save the boardwalk and skatepark for the return leg.",
+        "notice": "Use paved approaches for strollers or wheelchairs and check the county’s beach wheelchair information before heading onto the sand.",
+        "feature": "Surf, dry sand, the bike path and the promenade run in parallel, making it easy to combine beach time with a waterfront walk."
+      }
+    },
+    "contextSource": "https://planning.lacity.gov/odocument/a0f8a9d9-ac84-4672-a8db-938835b5e05e/SurveyLAVenice_SurveyReport_.pdf",
+    "visitMinutes": "45–90"
+  },
+  {
+    "slug": "venice-boardwalk",
+    "area": "v",
+    "en": "Venice Beach Boardwalk",
+    "zh": "威尼斯海滨步行道",
+    "address": "Ocean Front Walk & Windward Avenue, Venice, CA 90291",
+    "source": "https://www.discoverlosangeles.com/things-to-do/venice-beach",
+    "operator": "la",
+    "access": "public",
+    "descriptionEn": "Start where Windward Avenue meets Ocean Front Walk. Follow the shopfronts, vendors and performers south toward the outdoor gym. The pedestrian promenade and the beach bike path are separate; stop for pictures clear of through traffic.",
+    "descriptionZh": "从温沃德大道与海滨步行道交会处出发，沿商铺、小摊和街头表演往南走到户外健身区。海滨步行道与沙滩侧的自行车道分开，拍照时请避开通行人流。",
+    "photo": "/nearby/venice-boardwalk.webp",
+    "photoSource": "https://www.discoverlosangeles.com/things-to-do/venice-beach",
+    "guide": {
+      "zh": {
+        "background": "阿博特·金尼的早期规划图把这条海滨轴线标为 Pacific Promenade。今天沿 Ocean Front Walk 可比较面向行人的窄店面、街头摊位与面向沙滩的运动场。",
+        "walk": [
+          "从温沃德大道向南逛店面",
+          "在健身区外停留",
+          "经步行道折返，顺路看温沃德路口的字牌。"
+        ],
+        "photoTip": "站在温沃德大道西侧步行区，从店面一侧侧拍，画面可同时纳入街头活动和长排店铺。",
+        "question": "路名为什么写着 Ocean Front Walk？",
+        "answer": "这是威尼斯海滨步行道的街道名，用它可以区分沙滩旁的独立自行车道。",
+        "kind": "海滨步行街",
+        "tagline": "在街头表演、海边球场和临街小店之间散步",
+        "visitTip": "从温沃德大道向南走，选一段店面最密集的路段慢逛。同行者想骑车时，可以约在同一个街口会合。",
+        "notice": "路边摊与表演处常有人驻足，从通行线外观看，并照看随身物品。",
+        "feature": "商铺面对步行道，球场和露天健身区朝向沙滩。沿一段街面就能看到从街头生活到海边运动的过渡。"
+      },
+      "en": {
+        "background": "Abbot Kinney’s early plans called the waterfront axis the Pacific Promenade. Compare the narrow shopfronts and stalls with the sports courts that open onto the sand.",
+        "walk": [
+          "Head south from Windward Avenue past the storefronts",
+          "pause outside the outdoor gym",
+          "return on foot for the Venice Sign at Windward."
+        ],
+        "photoTip": "At the pedestrian end of Windward, shoot from the shopfront side to include both street activity and the row of businesses.",
+        "question": "Why is it called Ocean Front Walk on the map?",
+        "answer": "That is the promenade’s street name. The separate beach bike path runs closer to the sand.",
+        "kind": "Oceanfront promenade",
+        "tagline": "A waterfront walk between street performers, courts and small shops",
+        "visitTip": "Walk south from Windward and spend time where the storefronts are closest together. If part of your group cycles, agree on a street crossing to meet again.",
+        "notice": "Watch performers and vendors from outside the flow of pedestrians and keep track of your belongings.",
+        "feature": "Shops face the promenade while courts and exercise spaces open toward the sand. One block can take you from street life to beachfront recreation."
+      }
+    },
+    "contextSource": "https://planning.lacity.gov/odocument/a0f8a9d9-ac84-4672-a8db-938835b5e05e/SurveyLAVenice_SurveyReport_.pdf",
+    "visitMinutes": "30–60"
+  },
+  {
+    "slug": "venice-skatepark",
+    "area": "v",
+    "en": "Venice Beach Skatepark",
+    "zh": "威尼斯海滩滑板公园",
+    "address": "1800 Ocean Front Walk, Venice, CA 90291",
+    "source": "https://www.discoverlosangeles.com/things-to-do/the-guide-to-las-beach-cities",
+    "operator": "la",
+    "access": "public",
+    "descriptionEn": "Watch the concrete bowls from the perimeter to see riders build speed on the curved walls. For a wide photo, keep both the bowl lip and the palms in view. Stay outside the skating area while watching.",
+    "descriptionZh": "从外围看滑手如何利用混凝土碗池的曲面加速。拍广角时可把碗池边缘与棕榈树放在同一画面；观赏时请留在滑行区之外。",
+    "photo": "/nearby/venice-skatepark.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Venice_Beach_Skatepark_P4070293.jpg",
+    "guide": {
+      "zh": {
+        "background": "露天滑板场于 2009 年启用，延续威尼斯的滑板文化。几个碗池的深浅和转角不同，可以从同一个外围位置比较滑手如何选线。",
+        "walk": [
+          "从海滨步行道往沙滩侧走",
+          "在外围面向较深的碗池停留",
+          "沿外缘移动到下一处观看点。"
+        ],
+        "photoTip": "从碗池外缘用较低视角拍摄，保留弧形池壁作前景，让棕榈树说明这是海滨场地。",
+        "question": "只想看滑板可以进去吗？",
+        "answer": "可以从外围观看，碗池和连接坡面要留给滑行者。",
+        "kind": "露天滑板场",
+        "tagline": "从碗池外缘看威尼斯的海滨滑板文化",
+        "visitTip": "先在一个碗池旁观察一轮，再换到另一侧看滑手进出池壁。手机连拍比跟着滑手走更容易取景。",
+        "notice": "滑板场地面受雨水影响，湿滑或临时关闭时从外围观赏。",
+        "feature": "露天碗池深浅不一，围观时可比较滑手在圆弧坡壁和连接坡之间的动作。"
+      },
+      "en": {
+        "background": "Opened in 2009, the beachfront park gives Venice’s skate culture a permanent public venue. From one spot on the perimeter, compare how riders choose lines through bowls of different depths.",
+        "walk": [
+          "Walk from Ocean Front Walk toward the sand",
+          "stop outside the deeper bowl",
+          "move along the perimeter to see a different line."
+        ],
+        "photoTip": "Shoot low from outside a bowl. Keep its curved lip in the foreground and the palms in view.",
+        "question": "Can I visit as a spectator?",
+        "answer": "Watch from the perimeter and leave the bowls and connecting banks clear for riders.",
+        "kind": "Outdoor skatepark",
+        "tagline": "See Venice’s beachfront skate culture from the edge of the bowls",
+        "visitTip": "Watch a full run at one bowl before moving to the other side. A short camera burst is easier than walking alongside the riders.",
+        "notice": "Wet concrete can affect skatepark access. Watch from outside if the bowls are slick or closed.",
+        "feature": "The open-air bowls vary in depth. Watch how riders use the curved walls and linking banks differently."
+      }
+    },
+    "contextSource": "https://planning.lacity.gov/odocument/fb8ab74e-4e83-43f4-b115-90705a43b6aa/Venice_Timeline.pdf",
+    "visitMinutes": "15–30"
+  },
+  {
+    "slug": "muscle-beach-venice",
+    "area": "v",
+    "en": "Muscle Beach Venice",
+    "zh": "威尼斯肌肉海滩",
+    "address": "1800 Ocean Front Walk, Venice, CA 90291",
+    "source": "https://www.discoverlosangeles.com/things-to-do/venice-beach",
+    "operator": "la",
+    "access": "program",
+    "descriptionEn": "This outdoor weight-training enclosure became part of Los Angeles bodybuilding culture. Walk along the public side of the fence to see the equipment. Use the posted gym information for workout access and ask before photographing individuals.",
+    "descriptionZh": "围栏内的露天重量训练区是洛杉矶健美文化的一部分。沿围栏外的公共通道走，可看到训练器械。入场锻炼请查询现场规定，拍摄个人前先征得同意。",
+    "photo": "/nearby/muscle-beach-venice.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Venice_Muscle_Beach.jpg",
+    "guide": {
+      "zh": {
+        "background": "威尼斯的健美传统落在这处带围栏的露天训练场。观察重量器械、训练区的入口和外部步道之间的分界，可以看出健身场如何嵌进公共海滨。",
+        "walk": [
+          "从温沃德沿步行道南行",
+          "在围栏外观察器械区",
+          "继续向南去华盛顿大道或回到威尼斯海滩。"
+        ],
+        "photoTip": "沿围栏外侧斜拍器械与入口牌。若拍到可辨认的训练者，请先征得同意。",
+        "question": "这里是圣莫尼卡的原始肌肉海滩吗？",
+        "answer": "威尼斯这站的特色是重量训练，圣莫尼卡码头南面的另一站以吊环和横杆见长。",
+        "kind": "户外重量训练场",
+        "tagline": "在海滨步行道旁看威尼斯的露天健美地标",
+        "visitTip": "单纯参观可在步行途中停留，若计划锻炼，先按设施页面查入场条件、时段和通行证。",
+        "notice": "围栏内为训练区，是否可进入以设施规定为准；训练器械周围留出操作空间。",
+        "feature": "重量器械集中在紧邻步道的围栏内，器材、出入口和围观空间是这个健美地标最容易辨认的部分。"
+      },
+      "en": {
+        "background": "The fenced outdoor gym is a landmark of Venice’s bodybuilding culture. Look at the weights, entrance and surrounding promenade to see how a working gym fits into the public waterfront.",
+        "walk": [
+          "Head south from Windward on the promenade",
+          "pause outside the gym fence",
+          "continue toward Washington Boulevard or turn out toward the beach."
+        ],
+        "photoTip": "Photograph the equipment and entrance sign at an angle from outside the fence. Ask before photographing identifiable athletes.",
+        "question": "Is this the Original Muscle Beach?",
+        "answer": "This Venice stop centers on weight training. The Santa Monica site south of its pier is known for rings and bars.",
+        "kind": "Outdoor weight-training gym",
+        "tagline": "A landmark of outdoor bodybuilding beside the Venice promenade",
+        "visitTip": "Pause on the promenade for a look. If you plan to lift, check the gym’s entry requirements, hours and passes first.",
+        "notice": "The enclosure is a working gym. Follow entry rules and keep the space around lifting equipment clear.",
+        "feature": "The weights stand inside a fence beside the promenade. The equipment, gate and public viewing edge are the gym’s most recognizable features."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "10–25"
+  },
+  {
+    "slug": "venice-fishing-pier",
+    "area": "v",
+    "en": "Venice Fishing Pier",
+    "zh": "威尼斯钓鱼码头",
+    "address": "Washington Boulevard & Ocean Front Walk, Venice, CA 90292",
+    "source": "https://www.visitcalifornia.com/experience/venice-pier/",
+    "operator": "la",
+    "access": "public",
+    "descriptionEn": "Washington Boulevard leads straight to the pier entrance. Walk seaward for views back along the beach and leave room for anglers casting from the rail. From the shore, the pier makes a strong horizontal line against the surf.",
+    "descriptionZh": "沿华盛顿大道走到底就是码头入口。向海上走可回望整段海岸；沿栏杆经过时给抛竿的人留出空间。从沙滩拍摄，码头横线与浪花层次明显。",
+    "photo": "/nearby/venice-fishing-pier.webp",
+    "photoSource": "https://www.visitcalifornia.com/experience/venice-pier/",
+    "guide": {
+      "zh": {
+        "background": "华盛顿大道直通海上的钓鱼码头，桥面把城市街道的轴线延伸到海面上。站在靠陆地的一端，可比较直线型码头与沿岸展开的沙滩。",
+        "walk": [
+          "走到华盛顿大道的海边尽头",
+          "如开放，沿甲板向海上走",
+          "返回沙滩侧从低处看码头。"
+        ],
+        "photoTip": "从码头北侧干沙斜拍桥墩和甲板，用浪线把视线引向海面。",
+        "question": "遇到封闭还能看到码头吗？",
+        "answer": "可从公共沙滩或海滨步行道看码头外形，开放状态以入口标示为准。",
+        "kind": "公共钓鱼码头",
+        "tagline": "从华盛顿大道尽头走到海上甲板",
+        "visitTip": "开放时先走到靠海一段回望沙滩，再下到沙地看桥墩。遇入口围挡，可把步行行程改在海岸两侧。",
+        "notice": "不要占用抛竿位置。码头甲板受天气、维护或封闭影响，先查入口告示。",
+        "feature": "从岸上可看下方桥墩排列，走上码头后视角转为横向海岸全景。"
+      },
+      "en": {
+        "background": "The fishing pier extends the line of Washington Boulevard out over the ocean. From the landward end, compare the pier’s straight deck with the sweep of the beach on either side.",
+        "walk": [
+          "Follow Washington Boulevard to the water",
+          "if the deck is open, walk out over the sea",
+          "return to beach level for a lower view."
+        ],
+        "photoTip": "Shoot diagonally from dry sand on the north side, using the wave lines to lead toward the pilings and deck.",
+        "question": "Can I see the pier during a closure?",
+        "answer": "The public beach and promenade still offer views of its profile. Check the notices for deck access.",
+        "kind": "Public fishing pier",
+        "tagline": "Follow Washington Boulevard out onto the ocean deck",
+        "visitTip": "When open, walk partway out for the shore view, then see the pilings from the sand. If the gate is closed, continue on either side along the waterfront.",
+        "notice": "Give anglers space to cast. Check the entrance for weather or maintenance closures.",
+        "feature": "The pilings line up when viewed from shore. From the deck, the view opens in both directions along the coast."
+      }
+    },
+    "contextSource": "https://cityclerk.lacity.org/onlinedocs/1998/98-0518_MISC_07-03-2001a.pdf",
+    "visitMinutes": "20–45"
+  },
+  {
+    "slug": "abbot-kinney-boulevard",
+    "area": "v",
+    "en": "Abbot Kinney Boulevard",
+    "zh": "阿博特·金尼大道",
+    "address": "Abbot Kinney Boulevard & Venice Boulevard, Venice, CA 90291",
+    "source": "https://www.abbotkinneyblvd.com/",
+    "operator": "street",
+    "access": "street",
+    "descriptionEn": "Follow Abbot Kinney north from Venice Boulevard for small storefronts, cafés and changing window displays. Leave time to cross at marked crossings to see both sides; opening times vary by shop.",
+    "descriptionZh": "从威尼斯大道沿阿博特·金尼大道北行，沿途有小店、咖啡馆与不断更换的橱窗陈列。请利用标线过街，留时间逛两侧；各店营业时间不同。",
+    "photo": "/nearby/abbot-kinney-boulevard.webp",
+    "photoSource": "https://www.abbotkinneyblvd.com/",
+    "guide": {
+      "zh": {
+        "background": "街名纪念打造威尼斯度假区的阿博特·金尼。街道尺度适合步行，沿途的小型店面、转角餐饮和街头壁画比单独找一栋建筑更能体会这里的变化。",
+        "walk": [
+          "从威尼斯大道向北走",
+          "在有标线的街口过街，看另一侧店面",
+          "原路返回或接往主街。"
+        ],
+        "photoTip": "找有壁画的店面，从公共人行道拍全立面。可以再近拍玻璃橱窗的颜色和细节。",
+        "question": "一定要购物才值得去吗？",
+        "answer": "逛街可只看店面与壁画，若有想去的店，再把开门时间排进路线。",
+        "kind": "街区商业大道",
+        "tagline": "沿阿博特·金尼大道看壁画、橱窗与街角咖啡馆",
+        "visitTip": "以威尼斯大道一端为起点，逛完一侧后走斑马线换边。安排吃饭或购物时，给排队预留时间。",
+        "notice": "巷道和停车场可能属于私人物业，观察壁画时从公共街面取景。",
+        "feature": "彩绘墙面、低层店铺与街角餐饮随步行路线连续展开，适合边走边观察街面。"
+      },
+      "en": {
+        "background": "The boulevard honors the developer who founded the Venice resort. Small shopfronts, corner cafés and murals make the street itself the main draw.",
+        "walk": [
+          "Start at Venice Boulevard and head north",
+          "cross at a marked intersection to see the other side",
+          "return the same way or continue toward Main Street."
+        ],
+        "photoTip": "Photograph a painted storefront from the public sidewalk, then take a closer frame of the window details.",
+        "question": "Is it worth visiting without shopping?",
+        "answer": "Yes. The storefronts and murals make an enjoyable walk. Check hours for any business you want to visit.",
+        "kind": "Neighborhood shopping street",
+        "tagline": "Murals, storefronts and corner cafés along Abbot Kinney Boulevard",
+        "visitTip": "Start at Venice Boulevard and use a marked crossing to browse the other side. Allow time for queues if stopping for food or shopping.",
+        "notice": "Some alleys and parking lots are private. Photograph murals from publicly accessible streets.",
+        "feature": "Murals, low storefronts and corner restaurants unfold as you walk, with no single building dominating the street."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "40–90"
+  },
+  {
+    "slug": "venice-sign",
+    "area": "v",
+    "en": "Venice Sign",
+    "zh": "威尼斯街区字牌",
+    "address": "Windward Avenue & Pacific Avenue, Venice, CA 90291",
+    "source": "https://venicechamber.net/venice-sign/",
+    "operator": "sign",
+    "access": "street",
+    "descriptionEn": "The illuminated letters span Windward Avenue at Pacific Avenue. The present sign recalls a 1905 sign installed in the early resort era. Frame it from the sidewalk with the street façades on each side. At dusk the lights stand out while you can still see the building details.",
+    "descriptionZh": "灯光字牌横跨温沃德大道，悬在太平洋大道路口。现有字牌再现了 1905 年度假区初建时期的街头标志。从人行道拍摄可带入两侧沿街立面。黄昏时灯光已显眼，建筑细节仍看得清楚。",
+    "photo": "/nearby/venice-sign.webp",
+    "photoSource": "https://opentemple.org/venice-sign-lighting/",
+    "guide": {
+      "zh": {
+        "background": "2007 年的复原项目重新制作并挂起如今的字牌，延续威尼斯度假区早年的街头标识。悬挂式灯字与临街拱廊构成两层景物，从不同的人行道角度看，字牌与建筑重叠的位置会变。",
+        "walk": [
+          "从海滨步行道沿温沃德大道向东",
+          "在太平洋大道路口的人行道停留",
+          "利用行人信号到另一侧观察。"
+        ],
+        "photoTip": "在有行人信号的街角横向构图，把悬挂字牌、拱廊和街灯留在同一画面。",
+        "question": "白天还是晚上拍？",
+        "answer": "白天较容易看清立面，黄昏可以同时拍到灯字和街道轮廓。",
+        "kind": "街头灯光地标",
+        "tagline": "在温沃德大道街角看悬挂的威尼斯字牌",
+        "visitTip": "晴天可拍清字牌下方的街面细节，黄昏则能兼顾灯光和建筑。附近可接海滨步行道。",
+        "notice": "路口保持通行，等行人灯后过街，从人行道取景。",
+        "feature": "悬挂灯字正下方是运作中的街口，临街拱廊和车流共同构成威尼斯的街景。"
+      },
+      "en": {
+        "background": "A restoration project recreated and installed the current sign in 2007, recalling lettering from Venice’s resort era. From different corners, the suspended lights line up differently with the street’s arcaded façades.",
+        "walk": [
+          "Walk east from Ocean Front Walk along Windward",
+          "stop on the sidewalk at Pacific Avenue",
+          "use the signal to see the view from the opposite corner."
+        ],
+        "photoTip": "Use a signalized sidewalk corner for a wide frame with the suspended letters, arcade and streetlights.",
+        "question": "Daylight or evening?",
+        "answer": "Daylight brings out the façades. At dusk you can capture the illuminated letters and street details together.",
+        "kind": "Illuminated street landmark",
+        "tagline": "The suspended Venice letters above Windward Avenue",
+        "visitTip": "Visit in daylight for the street façades or at dusk for the lettering and the buildings together. Ocean Front Walk is a natural next stop.",
+        "notice": "Keep the intersection clear, cross with the pedestrian signal and compose from the sidewalk.",
+        "feature": "The letters hang above a working intersection, with arcades and everyday traffic completing the scene."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "10–20"
+  },
+  {
+    "slug": "venice-breakwater",
+    "area": "v",
+    "en": "Venice Breakwater",
+    "zh": "威尼斯防波堤",
+    "address": "Ocean Front Walk & Windward Avenue, Venice, CA 90291",
+    "source": "https://beaches.lacounty.gov/venice-beach/",
+    "operator": "county",
+    "access": "public",
+    "descriptionEn": "From Windward Avenue head across the sand and look for the rock barrier offshore. Watch from dry sand to see waves change shape around the rocks; use a longer lens to photograph surfers and keep off slippery rock surfaces.",
+    "descriptionZh": "从温沃德大道方向穿过沙地，可看到近岸的石质防波堤。从干沙上观察浪花绕过岩石后的变化，以长焦拍摄冲浪者，避免攀上湿滑岩面。",
+    "photo": "/nearby/venice-breakwater.webp",
+    "photoSource": "https://lasurfshop.com/pages/venice-breakwater",
+    "guide": {
+      "zh": {
+        "background": "这里的人工石堤改变了近岸浪形，也形成威尼斯有辨识度的冲浪点。观察浪线接近石堤前后的变化，比走近岩面更容易看出地形作用。",
+        "walk": [
+          "从温沃德大道走向沙滩",
+          "沿干沙找到石堤斜侧视角",
+          "从同一沙滩通道回到步行道。"
+        ],
+        "photoTip": "在干沙上沿堤的斜侧用长焦，把石块边缘和碎浪置于同一画面。",
+        "question": "可以站在石堤上拍冲浪吗？",
+        "answer": "从干沙用长焦即可看浪形，避免踏上受浪冲刷的湿滑岩石。",
+        "kind": "近岸防波堤与冲浪观景点",
+        "tagline": "在干沙上看浪线怎样绕过威尼斯防波堤",
+        "visitTip": "从温沃德大道方向来，先在离水线较远处看几组浪，再决定取景的位置。",
+        "notice": "观浪时避开湿滑石块和迎浪处。海况与出入限制以现场标示为准。",
+        "feature": "石堤让浪线在近岸转折，也是从沙地辨认冲浪位置的地标。"
+      },
+      "en": {
+        "background": "The rock barrier changes how waves break near shore and helped create a recognizable Venice surf spot. Watch how the wave lines bend around the rocks from dry sand.",
+        "walk": [
+          "Head across the sand from Windward",
+          "find an oblique view of the rocks from dry sand",
+          "return by the same beach access."
+        ],
+        "photoTip": "Use a longer lens from dry sand at an angle to the jetty to include both the rocks and breaking waves.",
+        "question": "Should I climb the rocks to photograph surfing?",
+        "answer": "A longer lens from dry sand gives a clear view of the break. Keep off wet rocks.",
+        "kind": "Rock breakwater and surf viewpoint",
+        "tagline": "Watch the surf bend around the Venice Breakwater from dry sand",
+        "visitTip": "Approach from Windward and watch several sets from well above the waterline before choosing a viewpoint.",
+        "notice": "Keep to dry sand and clear of slick rocks. Follow posted ocean conditions and access restrictions.",
+        "feature": "The rocks bend the wave lines near shore and mark a recognizable surf break from the sand."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "15–30"
+  },
+  {
+    "slug": "venice-library",
+    "area": "v",
+    "en": "Venice–Abbot Kinney Memorial Branch Library",
+    "zh": "威尼斯阿博特·金尼纪念图书馆",
+    "address": "501 S Venice Boulevard, Venice, CA 90291",
+    "source": "https://www.lapl.org/branches/venice",
+    "operator": "library",
+    "access": "program",
+    "descriptionEn": "This public library makes a quiet stop inland from the canals. Use the entrance on South Venice Boulevard and check the branch calendar for readings or family programs. Keep indoor photography discreet and follow desk guidance.",
+    "descriptionZh": "这座公共图书馆位于运河的内陆侧，适合安静歇脚。从南威尼斯大道入口进入，可查分馆日历了解阅读活动和亲子项目。室内拍照请遵循馆员指引。",
+    "photo": "/nearby/venice-library.webp",
+    "photoSource": "https://www.lapl.org/branches/venice",
+    "guide": {
+      "zh": {
+        "background": "分馆以阿博特·金尼命名，作为公共图书馆服务街区。临街门廊、外部台阶和室内阅览区域，适合与附近的住宅和文化设施一起看。",
+        "walk": [
+          "沿南威尼斯大道走到门廊",
+          "到服务台看当天活动",
+          "如要继续，可往前威尼斯市政厅走。"
+        ],
+        "photoTip": "从人行道外侧取景，将门廊、上方的几何轮廓和两侧绿植一起纳入。",
+        "question": "周日开放吗？",
+        "answer": "分馆常规时间周日闭馆，节假日前查看洛杉矶公共图书馆公告。",
+        "kind": "公共图书馆分馆",
+        "tagline": "在运河内陆一侧找一处安静的社区阅览空间",
+        "visitTip": "先看当天活动日历，再决定停留借阅区或参加活动。可与同一条大道上的文学中心一起安排。",
+        "notice": "在阅览空间保持安静，拍摄室内或访客前请询问馆员。",
+        "feature": "入口的几何屋顶和门廊把街道与安静的阅览空间衔接起来，适合与沿海景点穿插安排。"
+      },
+      "en": {
+        "background": "The branch takes Abbot Kinney’s name and serves the surrounding neighborhood. Notice the covered entry and its transition from the street to the reading rooms.",
+        "walk": [
+          "Follow South Venice Boulevard to the covered entrance",
+          "check the desk for programs",
+          "continue toward the old Venice City Hall if time allows."
+        ],
+        "photoTip": "Frame the entry canopy, the angular roofline and the flanking planting from the public sidewalk.",
+        "question": "Is it open on Sundays?",
+        "answer": "The branch is normally closed Sundays. Check LAPL for holiday changes.",
+        "kind": "Public library branch",
+        "tagline": "A quiet community reading stop inland from the canals",
+        "visitTip": "Check the program calendar before deciding whether to browse or attend an event. Pair it with the literary arts center on the same boulevard.",
+        "notice": "Keep voices low in reading areas and ask staff before photographing indoors or including visitors.",
+        "feature": "An angular roof and covered entrance mark the transition from the street to the quiet reading rooms."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "20–40"
+  },
+  {
+    "slug": "beyond-baroque",
+    "area": "v",
+    "en": "Beyond Baroque Literary Arts Center",
+    "zh": "超越巴洛克文学艺术中心",
+    "address": "681 Venice Boulevard, Venice, CA 90291",
+    "source": "https://www.beyondbaroque.org/",
+    "operator": "baroque",
+    "access": "program",
+    "descriptionEn": "Beyond Baroque has occupied the old Venice City Hall since 1979. Look at the civic building exterior before heading in for a scheduled poetry event or the bookstore. Check the event listing for tickets and doors.",
+    "descriptionZh": "中心自 1979 年起进驻前威尼斯市政厅。参加诗歌活动或逛书店前，可先看原市政建筑的外观。票务和入场时间以具体活动为准。",
+    "photo": "/nearby/beyond-baroque.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Venice_City_Hall.jpg",
+    "guide": {
+      "zh": {
+        "background": "这座原威尼斯市政厅后来成为文学艺术中心。看对称的临街立面和入口，再看活动海报，可把它作为从地方行政建筑到诗歌与出版场所的再利用案例。",
+        "walk": [
+          "从南威尼斯大道侧沿人行道看正立面",
+          "有活动时从中心入口进入",
+          "离开后在同一路段串联图书馆。"
+        ],
+        "photoTip": "选对街的人行道拍原市政厅正面，再在入口旁取一张活动招贴的细节。",
+        "question": "可以随时参观室内吗？",
+        "answer": "按书店或活动时间前往，诗歌朗读和工作坊各有安排。",
+        "kind": "文学艺术中心与前市政厅",
+        "tagline": "在前威尼斯市政厅读诗、逛书店或看一场朗读",
+        "visitTip": "先从街面看历史立面。如果当天有公开活动，按公布的开门时间留出室内停留；无活动时可顺访附近图书馆。",
+        "notice": "书店、朗读和工作坊各有开放与报名安排，进入活动空间前查看当日公告。",
+        "feature": "前市政厅的临街立面和当代艺术活动共用同一入口，书店、诗刊和现场朗读是内部看点。"
+      },
+      "en": {
+        "background": "The former Venice City Hall now houses a literary arts center. Compare the symmetrical civic frontage with the poetry and publishing programs advertised at the entrance.",
+        "walk": [
+          "See the front from the South Venice Boulevard sidewalk",
+          "enter for a scheduled event",
+          "pair the visit with the library along the same street."
+        ],
+        "photoTip": "Photograph the former city hall from the opposite sidewalk, then look for a detail of the current program notices near the entry.",
+        "question": "Can I always go inside?",
+        "answer": "Plan around bookstore or event hours. Readings and workshops follow their own schedules.",
+        "kind": "Literary arts center and former city hall",
+        "tagline": "Poetry and public readings in the former Venice City Hall",
+        "visitTip": "See the historic façade first. If a public event is scheduled, plan around its door time. The nearby library makes an easy second stop.",
+        "notice": "The bookstore, readings and workshops follow different schedules and registration arrangements.",
+        "feature": "A historic civic frontage now leads to a bookstore, poetry publications and live readings."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "20–45"
+  },
+  {
+    "slug": "binoculars-building",
+    "area": "v",
+    "en": "Binoculars Building",
+    "zh": "双筒望远镜大楼",
+    "address": "340 Main Street, Venice, CA 90291",
+    "source": "https://planning.lacity.gov/odocument/a0f8a9d9-ac84-4672-a8db-938835b5e05e/SurveyLAVenice_SurveyReport_.pdf",
+    "operator": "private",
+    "access": "street",
+    "descriptionEn": "Two enormous eyepieces mark the street entrance of Frank Gehry’s former Chiat/Day complex. Stand on a public sidewalk where you can compare the sculpture with the flanking façades. The building is a working office; enjoy the exterior.",
+    "descriptionZh": "弗兰克·盖里的前 Chiat/Day 办公楼以两具巨大的望远镜目镜构成街面入口。从公共人行道可比较雕塑与两侧立面的比例。这是办公场所，游览以外观为主。",
+    "photo": "/nearby/binoculars-building.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Binoculars_Building.jpg",
+    "guide": {
+      "zh": {
+        "background": "曾为 Chiat/Day 广告公司使用的建筑中，双筒望远镜雕塑构成入口，与两侧形态不同的办公楼体相接。从主街正面和斜侧各看一次，尺度最清楚。",
+        "walk": [
+          "走到主街 340 号的人行道",
+          "先看雕塑正面",
+          "沿对侧人行道稍往一侧移动，观察它与办公楼体的连接。"
+        ],
+        "photoTip": "用稍广的焦段，把望远镜雕塑和左右办公楼翼同时纳入，避免为取景进入车道。",
+        "question": "能进入望远镜内部吗？",
+        "answer": "这处是办公物业，按公共人行道上的外观参观来安排行程。",
+        "kind": "现代建筑外观地标",
+        "tagline": "从主街看放大成建筑入口的双筒望远镜",
+        "visitTip": "在主街的公共人行道先看正对入口的角度，再换到斜侧比较两翼体量。可接邻近街区步行。",
+        "notice": "办公场所按外观参观安排行程，保持出入口及车道畅通。",
+        "feature": "巨型雕塑同时是入口构件，夹在形态截然不同的两栋办公楼翼之间。"
+      },
+      "en": {
+        "background": "At the former Chiat/Day offices, a binocular sculpture forms the entrance between contrasting office wings. Compare a straight-on view from Main Street with one from an angle.",
+        "walk": [
+          "Reach the sidewalk at 340 Main Street",
+          "look directly at the sculpture",
+          "move along the opposite sidewalk to see how it meets the office wings."
+        ],
+        "photoTip": "Use a moderately wide frame to include both office wings with the sculpture, keeping clear of the roadway.",
+        "question": "Can I go inside the binoculars?",
+        "answer": "It is an office property. Plan on seeing the exterior from the public sidewalk.",
+        "kind": "Modern architecture landmark",
+        "tagline": "A pair of giant binoculars forms an office entrance on Main Street",
+        "visitTip": "See the entrance head-on from the public sidewalk, then shift to an oblique view to compare the two wings.",
+        "notice": "Plan an exterior visit and keep the working office entrances and driveway clear.",
+        "feature": "The giant sculpture doubles as the entrance between two contrasting office wings."
+      }
+    },
+    "contextSource": "https://commercialobserver.com/2026/01/binoculars-venice-luzzatto-frank-gehry-la-office/",
+    "visitMinutes": "10–20"
+  },
+  {
+    "slug": "mosaic-tile-house",
+    "area": "v",
+    "en": "Mosaic Tile House",
+    "zh": "马赛克瓷砖屋",
+    "address": "1116 Palms Boulevard, Venice, CA 90291",
+    "source": "https://www.mosaictilehouse.com/",
+    "operator": "mosaic",
+    "access": "program",
+    "descriptionEn": "Artists Cheri Pann and Gonzalo Duran have covered surfaces with tile, glass and found objects. Allow time for the small details in the mosaic rather than rushing through. Arrange access through the hosts before making the inland detour.",
+    "descriptionZh": "艺术家切丽·潘与贡萨洛·杜兰用瓷砖、玻璃和回收物装饰多处表面。游览时可留时间看拼贴细节；这处地点在内陆，出发前请先向屋主确认参观安排。",
+    "photo": "/nearby/mosaic-tile-house.webp",
+    "photoSource": "https://fotospot.com/attractions/california/mosaic-tile-house",
+    "guide": {
+      "zh": {
+        "background": "两位艺术家的住宅长期成为拼贴创作空间。留意碎瓷、玻璃及日常物件如何沿墙角或曲面延伸，近看能分辨单件材料，退后才能读出整片图案。",
+        "walk": [
+          "前往 Palms Boulevard 的预约入口",
+          "按屋主指引看入口拼贴和获准开放的空间",
+          "离开时沿原入口返回。"
+        ],
+        "photoTip": "获准拍照时先拍整面拼贴，再拍玻璃与瓷砖交界的纹理，便于展示单件材料如何拼成整体。",
+        "question": "可直接上门吗？",
+        "answer": "这里是私人住宅，先按官网确认预约和拍照安排。",
+        "kind": "私人住宅艺术作品",
+        "tagline": "在瓷砖、玻璃与日常物件拼成的房子里看细节",
+        "visitTip": "先确认预约，再把到访排入内陆散步路线。获准入内后，先看整片拼贴，再靠近辨认材料。",
+        "notice": "这里仍是私人住宅，仅按屋主说明进入，室内与庭院的拍照许可请现场核对。",
+        "feature": "拼贴绕过墙角和曲面，从局部釉色、玻璃反光到整幅构图都有可看之处。"
+      },
+      "en": {
+        "background": "The artists have developed their home as an ongoing mosaic project. Look for tile, glass and everyday objects worked around corners. Step back to see how individual pieces form a pattern.",
+        "walk": [
+          "Go to the booked entrance on Palms Boulevard",
+          "follow the hosts’ route through the mosaic areas open that day",
+          "leave by the same entrance."
+        ],
+        "photoTip": "If photography is allowed, pair a whole wall with a close frame where glass and tile meet.",
+        "question": "Can I just show up?",
+        "answer": "This is a private home. Confirm the visit and photography arrangements with the hosts first.",
+        "kind": "Residential mosaic artwork",
+        "tagline": "A home transformed with tiles, glass and everyday objects",
+        "visitTip": "Confirm a booking before adding the house to an inland walk. Once inside, look at a full mosaic before leaning in to see individual materials.",
+        "notice": "This is a private home. Enter only as directed by the hosts and check which areas allow photography.",
+        "feature": "Mosaics wrap over corners and curved surfaces, rewarding both close detail and a wider look at the pattern."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "30–60"
+  },
+  {
+    "slug": "marina-beach",
+    "area": "m",
+    "en": "Marina Beach (Mother’s Beach)",
+    "zh": "码头海滩（母亲海滩）",
+    "address": "4135 Admiralty Way, Marina del Rey, CA 90292",
+    "source": "https://beaches.lacounty.gov/marina-beach/",
+    "operator": "county",
+    "access": "public",
+    "descriptionEn": "This sandy lagoon beach faces sheltered marina water. Start from Admiralty Way and follow the sand toward the play and picnic area. The lagoon shore provides a foreground for photos of the moored boats.",
+    "descriptionZh": "这片沙滩面对较为避风的码头泻湖。从海军上将大道一侧进入，沿沙地走到游乐、野餐区。拍摄停泊船只时可把泻湖岸线纳入前景。",
+    "photo": "/nearby/marina-beach.webp",
+    "photoSource": "https://beaches.lacounty.gov/marina-beach/",
+    "guide": {
+      "zh": {
+        "background": "这片港内沙滩属于现代休闲游艇港的公共空间。浅色沙地、宽缓岸线与对岸的游艇泊位相互映衬，适合看内港如何兼顾戏水和航行。",
+        "walk": [
+          "从 Admiralty Way 进入",
+          "沿沙滩靠陆地的一侧走到游乐区",
+          "回到野餐区看对岸泊位。"
+        ],
+        "photoTip": "在沙滩靠岸一侧横构图，把弧形岸线和对岸游艇一起纳入。",
+        "question": "可从这里步行过港去渔人村吗？",
+        "answer": "两个地点隔着港池，步行要走陆路绕行，先在地图上比较公交和步行路径。",
+        "kind": "港湾沙滩与亲子游憩区",
+        "tagline": "在平缓港湾岸边停留，顺路逛游乐区和野餐区",
+        "visitTip": "先从靠岸一侧辨认游乐区、野餐区和下水点。与幼童同行可把三处安排成短距离往返。",
+        "notice": "游泳前查救生员服务和当日水况。水面平缓时也请留意标示的活动区。",
+        "feature": "平缓沙岸、游乐区与野餐区彼此靠近，水面另一边就是游艇泊位。"
+      },
+      "en": {
+        "background": "This sheltered beach forms part of the public shoreline of the modern marina. The gently curving sand and the slips across the water show how recreation and boating share the harbor.",
+        "walk": [
+          "Enter from Admiralty Way",
+          "walk along the landward edge of the beach to the playground",
+          "return to the picnic area for a view of the slips."
+        ],
+        "photoTip": "From the landward edge of the sand, use a horizontal frame to include the curved shore and boats across the lagoon.",
+        "question": "Can I cross the marina here on foot to Fisherman’s Village?",
+        "answer": "The basin separates the two. Check the overland walking or transit route before setting off.",
+        "kind": "Harbor beach and play area",
+        "tagline": "A sheltered marina beach with a playground and picnic space",
+        "visitTip": "Locate the play area, picnic space and shoreline access from the landward side. With children, keep these stops together in a short loop.",
+        "notice": "Check lifeguard service and current water conditions before swimming, and observe designated activity areas.",
+        "feature": "A gently sloping sandy shore, playground and picnic area sit close together, with boats across the lagoon."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "35–75"
+  },
+  {
+    "slug": "burton-chace-park",
+    "area": "m",
+    "en": "Burton W. Chace Park",
+    "zh": "伯顿·蔡斯公园",
+    "address": "13650 Mindanao Way, Marina del Rey, CA 90292",
+    "source": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "operator": "county",
+    "access": "public",
+    "descriptionEn": "The park extends into the main channel on a peninsula. Walk from the Mindanao Way entrance to the outer point and look for boats heading through the channel. Check the county calendar if you want to combine the visit with an outdoor event.",
+    "descriptionZh": "公园位于伸入主航道的半岛上。从棉兰老大道入口沿水边走到外端，可观察船只在航道上进出。想顺道参加户外活动，可先查看县政府日历。",
+    "photo": "/nearby/burton-chace-park.webp",
+    "photoSource": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "guide": {
+      "zh": {
+        "background": "公园以推动游艇港建设的县议员伯顿·蔡斯命名。狭长的半岛与外围栏杆让访客可以从三个方向看水面，穿港船只与静止泊位因此能同时入镜。",
+        "walk": [
+          "从 Mindanao Way 进入",
+          "沿一侧滨水步道走到半岛端头",
+          "从另一侧走回入口。"
+        ],
+        "photoTip": "从一段滨水步道拍半岛边缘和港面，再到外端拍航行中的船。",
+        "question": "傍晚适合拍什么？",
+        "answer": "从半岛端头等船经过主航道，看低光如何照在水面和桅杆上。",
+        "kind": "滨水半岛公园",
+        "tagline": "绕半岛一圈，在外端看船只进出主航道",
+        "visitTip": "想看船可先走到半岛端头，若计划野餐就选靠内港一侧，再顺步道绕回入口。",
+        "notice": "公园活动、设施预约和公共停留区各有安排。经过访客泊位时注意通行标识。",
+        "feature": "半岛两侧可分别看港内泊位与主航道，外端视野最开阔。"
+      },
+      "en": {
+        "background": "The park honors Burton Chace, the county supervisor who championed the marina. Its long peninsula gives views in several directions, putting passing boats and stationary slips in the same frame.",
+        "walk": [
+          "Enter from Mindanao Way",
+          "follow one waterfront edge to the tip",
+          "return along the other side."
+        ],
+        "photoTip": "Photograph the peninsula edge from a waterside path, then move to the tip for boats underway.",
+        "question": "What should I photograph toward evening?",
+        "answer": "Watch for boats at the peninsula tip as the low light catches the water and masts.",
+        "kind": "Waterfront peninsula park",
+        "tagline": "Circle the peninsula to see boats moving through the main channel",
+        "visitTip": "Head to the tip first for boat watching. For a picnic, choose the inner-harbor side and loop back on the waterfront path.",
+        "notice": "Events, facility reservations and public areas have different access rules. Follow signs near the guest docks.",
+        "feature": "The two peninsula edges face the boat slips and the main channel, with the widest view at the tip."
+      }
+    },
+    "contextSource": "https://visitmdr.com/marina-del-rey-history",
+    "visitMinutes": "30–60"
+  },
+  {
+    "slug": "fishermans-village",
+    "area": "m",
+    "en": "Fisherman’s Village",
+    "zh": "渔人村",
+    "address": "13755 Fiji Way, Marina del Rey, CA 90292",
+    "source": "https://visitmdr.com/play/things-to-do-marina-del-rey",
+    "operator": "fisher",
+    "access": "street",
+    "descriptionEn": "The waterfront row is recognizable by its brightly colored buildings and decorative lighthouse. Start on Fiji Way and walk the public-facing waterfront for views across the basin. Reserve cruises separately if you plan to go out on the water.",
+    "descriptionZh": "这里的彩色建筑和装饰灯塔是显眼地标。从斐济大道进入，沿滨水步道看对岸泊区。若想乘船出海，需要另行向运营商预订。",
+    "photo": "/nearby/fishermans-village.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Fishermen%27s_Village_Lighthouse.jpg",
+    "guide": {
+      "zh": {
+        "background": "渔人村的彩色木屋和装饰灯塔组成港湾商业街景。沿水边看建筑的窄立面与泊位，再转向陆侧看进店入口，可以分辨滨水店面和码头的使用方式。",
+        "walk": [
+          "从 Fiji Way 进入",
+          "沿临水通道经过彩色店铺",
+          "在灯塔附近停留，再走回陆侧出口。"
+        ],
+        "photoTip": "从滨水通道斜拍灯塔，利用相邻彩色建筑形成前后层次。",
+        "question": "只是散步需要买船票吗？",
+        "answer": "沿岸散步和看灯塔可作为陆上行程，游船需要向各运营商另外预订。",
+        "kind": "港湾商业区与游船出发点",
+        "tagline": "沿水走过彩色店铺与港边灯塔",
+        "visitTip": "短游从 Fiji Way 一侧走到灯塔，回程再看店面。搭船时将步行观景和报到时间分别安排。",
+        "notice": "登船集合点随营运商而异，订票后核对码头编号和抵达时间。",
+        "feature": "彩色临水立面、灯塔与运营中的登船点集中在一段步行距离内。"
+      },
+      "en": {
+        "background": "Painted waterfront buildings and a decorative lighthouse define this marina shopping stop. Compare the narrow façades and boat slips from the water side with the business entrances on the land side.",
+        "walk": [
+          "Enter on Fiji Way",
+          "follow the waterfront past the painted storefronts",
+          "pause near the lighthouse before returning to the land-side exit."
+        ],
+        "photoTip": "Frame the lighthouse diagonally from the waterfront, using the neighboring painted buildings for depth.",
+        "question": "Do I need a boat ticket for the waterfront walk?",
+        "answer": "The walk and lighthouse can be visited from land. Book separately if you want a cruise.",
+        "kind": "Marina shops and cruise departure area",
+        "tagline": "Painted shops and a lighthouse along the marina waterfront",
+        "visitTip": "For a short stop, walk from Fiji Way to the lighthouse and browse on the way back. Allow separate check-in time if taking a cruise.",
+        "notice": "Cruise meeting points vary. Check the dock and arrival time on your booking.",
+        "feature": "Painted waterfront façades, a lighthouse and working cruise departure points sit within a short walk."
+      }
+    },
+    "contextSource": "https://beaches.lacounty.gov/marina-del-rey-lease-agreements/",
+    "visitMinutes": "25–50"
+  },
+  {
+    "slug": "aubrey-austin-park",
+    "area": "m",
+    "en": "Aubrey E. Austin Jr. Park",
+    "zh": "小奥布里·奥斯汀公园",
+    "address": "Via Marina & Pacific Avenue, Marina del Rey, CA 90292",
+    "source": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "operator": "county",
+    "access": "public",
+    "descriptionEn": "Follow Via Marina toward its terminus to reach this small park on the north side of the channel. Watch boat traffic from designated viewing areas and consult county notices for temporary closures around trees or paths.",
+    "descriptionZh": "沿码头大道接近尽头，即可到达主航道北侧这座小公园。在指定观景区观察船只，并查看县政府是否公告树木周边或步道临时封闭。",
+    "photo": "/nearby/aubrey-austin-park.webp",
+    "photoSource": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "guide": {
+      "zh": {
+        "background": "花园位于主航道北岸。小公园的树荫、座椅和面向航道的开口，提供观察不同体量船只过港的角度。",
+        "walk": [
+          "沿 Via Marina 至北防波堤一侧",
+          "先看入口告示",
+          "沿开放步道选一处面向主航道的座位。"
+        ],
+        "photoTip": "选择开放的航道观景点，让岸边树木成为船只进出画面的边框。",
+        "question": "海边的防波堤一定能走吗？",
+        "answer": "公园步道和堤段可能分开管理开放，以县政府告示和当日围挡为准。",
+        "kind": "主航道观景小公园",
+        "tagline": "在港湾北侧用一段短步道看船只出入",
+        "visitTip": "把这里作为沿 Via Marina 散步的尽头。先看开放告示，再选树荫或靠航道的座位。",
+        "notice": "步道与防波堤的开放范围可能不同，留意树木养护及临时围挡。",
+        "feature": "面向主航道的开口让小公园视野超过自身尺度，座椅与树荫适合短暂停留。"
+      },
+      "en": {
+        "background": "The small garden occupies the north bank of the marina’s main channel. Its shade trees, seats and openings toward the water make good places to watch boats of different sizes pass.",
+        "walk": [
+          "Follow Via Marina toward the north jetty",
+          "check the signs at the park",
+          "take an open path to a seat facing the channel."
+        ],
+        "photoTip": "From an open channel viewpoint, use the shoreline trees to frame passing boats.",
+        "question": "Can I always walk onto the jetty?",
+        "answer": "Park paths and jetty sections may have different access arrangements. Follow posted county notices and barriers.",
+        "kind": "Channel-side pocket park",
+        "tagline": "A short walk on the north side of the harbor to watch passing boats",
+        "visitTip": "Use the park as the end point of a walk along Via Marina. Check access notices, then choose a seat by the channel or in the shade.",
+        "notice": "Park paths and the jetty can have different closures. Follow barriers around maintenance work and trees.",
+        "feature": "Openings toward the main channel give this compact park a wide outlook, with shaded places to pause."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "15–35"
+  },
+  {
+    "slug": "yvonne-burke-park",
+    "area": "m",
+    "en": "Yvonne B. Burke Park",
+    "zh": "伊冯娜·伯克公园",
+    "address": "4350 Admiralty Way, Marina del Rey, CA 90292",
+    "source": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "operator": "county",
+    "access": "public",
+    "descriptionEn": "This linear park follows Admiralty Way beside the marina. Use it as an exercise or walking stop and look for gaps between the trees for views across the slips. Watch for cycles where the route joins the coastal trail.",
+    "descriptionZh": "这座带状公园沿海军上将大道展开，适合散步或短暂停下来锻炼。从树木间隙可看对岸泊位；与海岸骑行道交会处注意自行车。",
+    "photo": "/nearby/yvonne-burke-park.webp",
+    "photoSource": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "guide": {
+      "zh": {
+        "background": "县政府资料记载这座公园于 1985 年开放。临路绿带顺着泊区延伸，和半岛式的蔡斯公园相比，这里更适合一边走一边看连续的桅杆。",
+        "walk": [
+          "到 Admiralty Way 4350 号一带",
+          "沿绿带走到运动设施",
+          "在可停留的位置看泊区后折返。"
+        ],
+        "photoTip": "沿绿带找一处不挡路的空隙，把近处树干与远处桅杆错开入镜。",
+        "question": "绿带和骑行路线相通吗？",
+        "answer": "部分通行空间靠近海岸骑行线，拍照或停留请让出连续通行的路面。",
+        "kind": "港湾线形公园",
+        "tagline": "沿绿带散步，透过树间空隙看游艇桅杆",
+        "visitTip": "从 Admiralty Way 找到绿带入口，沿运动设施走一小段。在有空间的地方停下来观察泊位。",
+        "notice": "绿道与骑行路线相邻，停留拍照时靠边，过街走有标线的路口。",
+        "feature": "沿港湾公路拉长的绿带串起运动设施、树荫和桅杆视线。"
+      },
+      "en": {
+        "background": "County records date the park’s opening to 1985. Its long roadside green follows the boat slips, so the views unfold as you walk along the line of masts.",
+        "walk": [
+          "Start near 4350 Admiralty Way",
+          "follow the green strip past the fitness facilities",
+          "pause clear of the path for a look at the slips."
+        ],
+        "photoTip": "Find a clear spot off the through path and offset the near tree trunks against the masts beyond.",
+        "question": "Does it connect with the bike route?",
+        "answer": "The coastal bike route runs close by. Leave the through path clear when you stop.",
+        "kind": "Linear marina park",
+        "tagline": "A green strip with views through the trees to the boat masts",
+        "visitTip": "Find the green strip on Admiralty Way and follow it past the exercise facilities. Stop where there is room to look out toward the slips.",
+        "notice": "The greenway runs near the bike route. Step aside when stopping and use marked street crossings.",
+        "feature": "A linear green beside the marina road connects exercise equipment, shade and intermittent views of the masts."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "20–40"
+  },
+  {
+    "slug": "marina-wetland-park",
+    "area": "m",
+    "en": "Marina del Rey Wetland Park",
+    "zh": "玛丽安德尔湾湿地公园",
+    "address": "Via Marina & Tahiti Way, Marina del Rey, CA 90292",
+    "source": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "operator": "county",
+    "access": "public",
+    "descriptionEn": "Look for the salt-marsh habitat beside the marina road. Pause on public paths to observe vegetation and birds without entering planted or fenced areas. This compact site works as a short stop alongside the larger harbor parks.",
+    "descriptionZh": "在码头道路旁可观察盐沼生境。从公共步道查看植物与鸟类，勿进入植被区或围栏内。面积不大，可与其他港湾公园安排在同一次行程。",
+    "photo": "/nearby/marina-wetland-park.webp",
+    "photoSource": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "guide": {
+      "zh": {
+        "background": "这座 2022 年开放的港湾湿地公园保留潮汐湿地与较高地势的植物区。看解说牌后再比对不同高度的植被，比较容易辨认水陆过渡。",
+        "walk": [
+          "在 Via Marina 和 Tahiti Way 附近入园",
+          "沿公共步道找解说牌",
+          "从观景位置看湿地后原路返回。"
+        ],
+        "photoTip": "先把湿地解说牌和水域放进一幅图，再从同一停留点拍盐沼植物细节。",
+        "question": "这里是巴洛纳湿地保护区的入口吗？",
+        "answer": "这是港湾旁面积较小的县立湿地公园，巴洛纳保护区有各自的开放地点和导览安排。",
+        "kind": "潮汐湿地公园",
+        "tagline": "从城市步道看盐沼、水鸟和潮汐变化",
+        "visitTip": "先看解说牌，再利用开放的观景点对照低处与高处植物。时间充裕时可与 Via Marina 的小公园连走。",
+        "notice": "只沿公共步道看湿地，避免踩入种植区，也避免靠近观察中的鸟类。",
+        "feature": "解释性标牌与观景位置相邻，可就地对照潮汐湿地和较高区域的树草。"
+      },
+      "en": {
+        "background": "Opened in 2022, the park includes tidal wetland and upland planting. Read the interpretation signs, then compare the vegetation at different heights to see the transition from water to land.",
+        "walk": [
+          "Enter near Via Marina and Tahiti Way",
+          "follow the public path to the interpretation signs",
+          "look over the wetland from the viewpoint and return."
+        ],
+        "photoTip": "Frame the interpretive sign with the wetland, then photograph the marsh plants from the same stopping point.",
+        "question": "Is this the entrance to Ballona Wetlands?",
+        "answer": "This is a compact county park beside the marina. The state reserve has separate access and tour arrangements.",
+        "kind": "Tidal wetland park",
+        "tagline": "View salt marsh and tidal habitat from a public path",
+        "visitTip": "Read the interpretation signs and compare low marsh plants with the higher ground. Pair it with another small park along Via Marina if time allows.",
+        "notice": "Stay on public paths and give both planted areas and feeding birds space.",
+        "feature": "Interpretive signs are near the viewing areas, so you can compare the tidal marsh and higher planting in place."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "15–30"
+  },
+  {
+    "slug": "ballona-wetlands",
+    "area": "m",
+    "en": "Ballona Wetlands Ecological Reserve",
+    "zh": "巴洛纳湿地生态保护区",
+    "address": "Culver Boulevard & Pacific Avenue, Playa del Rey, CA 90293",
+    "source": "https://wildlife.ca.gov/Lands/Places-to-Visit/Ballona-Wetlands-ER",
+    "operator": "cdfw",
+    "access": "program",
+    "descriptionEn": "Tidal channels and salt-marsh vegetation explain why this reserve differs from the landscaped marina. Look for a scheduled public tour and use its stated meeting point. Access to habitat areas is controlled.",
+    "descriptionZh": "潮汐水道与盐沼植被是这座保护区的观察重点。从开放活动中选择一场导览，并按报名说明前往集合点。栖息地内部通行受管制。",
+    "photo": "/nearby/ballona-wetlands.webp",
+    "photoSource": "https://wildlife.ca.gov/Lands/Places-to-Visit/Ballona-Wetlands-ER",
+    "guide": {
+      "zh": {
+        "background": "巴洛纳保护区代表港湾都市化以前的湿地景观。留意潮水进出的水道和低矮盐生植物，比较开放观赏地段与需要导览才能进入的区域。",
+        "walk": [
+          "先确认开放地点或预约集合点",
+          "沿获准通行的线路看潮沟",
+          "从标示出口离场。"
+        ],
+        "photoTip": "在获准进入的步道或导览点，用长焦拍潮沟转弯与水鸟，保持距离。",
+        "question": "可到围栏后的滩面拍鸟吗？",
+        "answer": "从获准通行的步道或导览点使用长焦，避免进入栖息地。",
+        "kind": "州立生态保护区",
+        "tagline": "在获准开放的路线观察洛杉矶海岸盐沼",
+        "visitTip": "先选公开观察点或报名导览，再按主办方给出的集合处安排交通与停留时长。",
+        "notice": "开放地点与导览范围不同，以加州鱼类与野生动物局公告为准。随身带水，离开时带走垃圾。",
+        "feature": "潮沟、低矮盐生植物和鸟类是主要观察对象，随潮位和季节变化。"
+      },
+      "en": {
+        "background": "The reserve preserves part of the wetland landscape that predates the developed harbor. Look for tidal channels and low salt-tolerant plants from the designated public or guided route.",
+        "walk": [
+          "Confirm the open area or tour meeting point",
+          "use the authorized route to observe the channels",
+          "leave through the signed exit."
+        ],
+        "photoTip": "From an authorized path or tour stop, use a longer lens for a bend in the tidal channel or for distant birds.",
+        "question": "Can I go beyond the fence to photograph birds?",
+        "answer": "Use a longer lens from a permitted path or tour stop and stay outside the habitat.",
+        "kind": "State ecological reserve",
+        "tagline": "Explore a coastal salt marsh from an authorized viewing route",
+        "visitTip": "Choose a public observation area or book a tour first, then plan travel and visit length around its stated meeting point.",
+        "notice": "Follow the state’s rules for public areas and scheduled tours. Bring water and take litter with you.",
+        "feature": "Tidal channels, low salt-tolerant plants and birds are the main sights, with conditions changing by tide and season."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "30–90"
+  },
+  {
+    "slug": "del-rey-lagoon",
+    "area": "m",
+    "en": "Del Rey Lagoon",
+    "zh": "德尔雷泻湖",
+    "address": "6660 Esplanade Place, Playa del Rey, CA 90293",
+    "source": "https://locator.lacounty.gov/parks/Location/3179067/del-rey-lagoon-park",
+    "operator": "la",
+    "access": "public",
+    "descriptionEn": "The lagoon sits one block inland from the oceanfront. Walk around the accessible park-side shore and look for reflections when the water is still. Combine the stop with the beach by crossing at the marked neighborhood crossing.",
+    "descriptionZh": "泻湖位于海滨内侧约一个街区。可沿公园一侧可通行的岸边走，水面平静时观察倒影。再走有标线的过街点去沙滩，可串成一次短游。",
+    "photo": "/nearby/del-rey-lagoon.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:The_Duck_Pond_at_Playa_del_Rey.jpg",
+    "guide": {
+      "zh": {
+        "background": "德尔雷泻湖属于巴洛纳溪流域。开阔水面紧贴社区公园与住宅街道，沿岸可同时观察城市生活和水鸟活动。",
+        "walk": [
+          "从 Esplanade Place 进公园",
+          "沿公园侧岸边走一段",
+          "从街面过街到海滩方向。"
+        ],
+        "photoTip": "从公园岸边降低取景角度，把水面倒影和对岸树列作为主景。",
+        "question": "想拍倒影应走到哪一侧？",
+        "answer": "先从公园侧岸边找无遮挡的角度，选风小的时段。",
+        "kind": "社区泻湖公园",
+        "tagline": "在海滩内侧看泻湖倒影和水鸟",
+        "visitTip": "先沿公园这侧散步。若遇海风较大，可到泻湖边短暂停留，再利用有标线的路口去海边。",
+        "notice": "从公共岸线观鸟，避开植被与水边未开放的区域。",
+        "feature": "从岸边可同时看见开阔水面、岸线植物和社区绿地，风小时适合拍倒影。"
+      },
+      "en": {
+        "background": "Del Rey Lagoon is part of the Ballona Creek watershed. Water, parkland and residential streets meet here, making it easy to watch neighborhood life and waterbirds in one short stop.",
+        "walk": [
+          "Enter from Esplanade Place",
+          "follow the park-side shore for a short stretch",
+          "use a marked street crossing toward the beach."
+        ],
+        "photoTip": "Lower your viewpoint on the park side to make reflections and the far bank the main subjects.",
+        "question": "Where should I stand for reflections?",
+        "answer": "Start on the park side and look for a clear view across the water on a calm day.",
+        "kind": "Neighborhood lagoon park",
+        "tagline": "Waterbirds and reflections a block inland from the beach",
+        "visitTip": "Start on the park side of the lagoon. If the coast is windy, pause here before using a marked crossing toward the ocean.",
+        "notice": "Watch birds from the public bank and stay clear of planted or closed shoreline areas.",
+        "feature": "Water, shoreline planting and neighborhood parkland fill the same view, with reflections on calmer days."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "20–45"
+  },
+  {
+    "slug": "dockweiler-beach",
+    "area": "m",
+    "en": "Dockweiler State Beach",
+    "zh": "多克韦勒州立海滩",
+    "address": "12000 Vista del Mar, Playa del Rey, CA 90293",
+    "source": "https://beaches.lacounty.gov/dockweiler-beach/",
+    "operator": "dockweiler",
+    "access": "public",
+    "descriptionEn": "The beach stretches along Vista del Mar below the LAX flight path. For a daytime visit choose a beach access first; for fire pits, check the county’s rules and availability. Photos from the sand can include aircraft above the shoreline.",
+    "descriptionZh": "海滩沿维斯塔德尔马路展开，位于洛杉矶国际机场航线下方。白天先选好沙滩入口；想用火坑，请核对县政府规定与开放情况。从沙面有机会拍到海岸上方飞过的飞机。",
+    "photo": "/nearby/dockweiler-beach.webp",
+    "photoSource": "https://beaches.lacounty.gov/dockweiler-beach/",
+    "guide": {
+      "zh": {
+        "background": "海滩位于洛杉矶国际机场向海延伸的航线附近。海岸、自行车道、救生设施与头顶航班并列，是辨识这一段南岸的好线索。",
+        "walk": [
+          "从 Vista del Mar 的正式入口下到沙地",
+          "沿海岸走一段看救生塔",
+          "走原入口补水或返程。"
+        ],
+        "photoTip": "从沙滩向岸线斜拍，留一部分天空等飞机经过，画面仍保留足够的海浪和沙地。",
+        "question": "有火坑就能直接用吗？",
+        "answer": "使用前先看县政府当天的开放及使用规定，并遵守现场标识。",
+        "kind": "州立海滩",
+        "tagline": "沿洛杉矶机场近海航线下的宽沙滩散步",
+        "visitTip": "先选定具体停车场或入口，海滩很长。只是看飞机和海景时，短走一段就能找到不同的拍摄角度。",
+        "notice": "火坑、露营和停车各有规定。准备使用这些设施时，分别查看县政府公告。",
+        "feature": "长直海岸、救生塔和近海航班形成这段南岸的辨识度。"
+      },
+      "en": {
+        "background": "The beach sits near the flight paths running out to sea from LAX. The bike path, lifeguard facilities and aircraft overhead set this stretch of coast apart.",
+        "walk": [
+          "Take a signed beach entrance from Vista del Mar",
+          "walk along the shoreline past the lifeguard towers",
+          "return by the same access."
+        ],
+        "photoTip": "Shoot obliquely along the sand, leaving room above the shoreline for a passing aircraft.",
+        "question": "Can I use any fire pit I find?",
+        "answer": "Check county rules and availability before making plans, then follow the posted instructions.",
+        "kind": "State beach",
+        "tagline": "A wide sandy shore beneath the coastal flight paths near LAX",
+        "visitTip": "Choose a specific access or car park first, as the beach is long. A short shore walk gives several angles for ocean and aircraft photos.",
+        "notice": "Check the county’s separate rules for fire pits, camping and parking if you plan to use those facilities.",
+        "feature": "A long, straight shore, lifeguard towers and aircraft over the water distinguish this stretch of coast."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "40–90"
+  },
+  {
+    "slug": "santa-monica-pier",
+    "area": "s",
+    "en": "Santa Monica Pier",
+    "zh": "圣莫尼卡码头",
+    "address": "200 Santa Monica Pier, Santa Monica, CA 90401",
+    "source": "https://www.santamonicapier.org/",
+    "operator": "sm",
+    "access": "public",
+    "descriptionEn": "The 1909 pier is approached from Ocean Avenue at Colorado Avenue. Continue past the historic carousel building to see the amusement area and the timber deck over the ocean. The approach sign and the outer deck give very different views.",
+    "descriptionZh": "码头于 1909 年开放，从海洋大道与科罗拉多大道交叉口进入。经过历史旋转木马建筑后，可以看到游乐区和海上木板平台。入口招牌与外端甲板是两个不同的取景点。",
+    "photo": "/nearby/santa-monica-pier.webp",
+    "photoSource": "https://www.santamonicapier.org/",
+    "guide": {
+      "zh": {
+        "background": "市政码头于 1909 年开放，后来相邻的游乐码头为海上平台加入了旋转木马与游乐设施。走到不同甲板段，看木板缝、屋顶和游乐轮廓的变化。",
+        "walk": [
+          "从 Ocean Avenue 的入口牌下行",
+          "经过旋转木马馆",
+          "走到外侧平台回望海岸。"
+        ],
+        "photoTip": "陆侧从 Ocean Avenue 拍入口牌；到外段后回望，把木板甲板与海岸放在一起。",
+        "question": "从地铁站怎么走？",
+        "answer": "从 Downtown Santa Monica 站沿 Colorado Avenue 往海边走，按市政府的当前通道指示入场。",
+        "kind": "历史码头",
+        "tagline": "走过木板甲板，看海岸、历史旋转木马馆与游乐区",
+        "visitTip": "第一次来可从 Ocean Avenue 的入口牌走到外段，回程再选旋转木马、游乐园或沙滩层。",
+        "notice": "陆侧上桥及沙滩层通道可能因工程调整，优先跟随现场导向。",
+        "feature": "陆侧招牌、早期游乐馆、木板甲板和摩天轮，可以在一条跨海步行线上串起来。"
+      },
+      "en": {
+        "background": "The municipal pier opened in 1909, and the neighboring pleasure pier later brought a carousel and other amusements to the waterfront. Changes in deck and roofline help reveal the pier’s two histories.",
+        "walk": [
+          "Start at the Ocean Avenue entrance sign",
+          "pass the carousel pavilion",
+          "look back toward the coast from the outer deck."
+        ],
+        "photoTip": "Photograph the entrance sign from Ocean Avenue, then turn back from the outer deck for a frame of the timber pier and coast.",
+        "question": "How do I walk from the train?",
+        "answer": "Take Colorado Avenue toward the water from Downtown Santa Monica station, then follow the current pier access signs.",
+        "kind": "Historic pier",
+        "tagline": "A timber deck connecting coastal views, a historic carousel and the midway",
+        "visitTip": "On a first visit, walk from the Ocean Avenue entrance sign toward the outer deck, then choose the carousel, rides or beach level for the return.",
+        "notice": "Bridge and beach-level approaches can change during works. Follow posted directions.",
+        "feature": "The landward sign, historic carousel pavilion, timber deck and Ferris wheel sit on a single walk over the ocean."
+      }
+    },
+    "contextSource": "https://pacpark.com/the-santa-monica-pier/",
+    "visitMinutes": "45–90"
+  },
+  {
+    "slug": "pacific-park",
+    "area": "s",
+    "en": "Pacific Park",
+    "zh": "太平洋游乐园",
+    "address": "380 Santa Monica Pier, Santa Monica, CA 90401",
+    "source": "https://pacpark.com/visit/",
+    "operator": "pac",
+    "access": "ride",
+    "descriptionEn": "The Pacific Wheel rises above the west half of the pier. Walk the midway before picking rides; individual attractions can have different hours. From the public pier deck, the wheel and roller-coaster track make distinct silhouettes.",
+    "descriptionZh": "太平洋摩天轮位于码头西半段。可先沿游乐区走一圈再选项目，各设施开放时间可能不同。从公共码头甲板可同时看到摩天轮和过山车轨道的轮廓。",
+    "photo": "/nearby/pacific-park.webp",
+    "photoSource": "https://pacpark.com/visit/",
+    "guide": {
+      "zh": {
+        "background": "这处现代游乐园延续了圣莫尼卡码头的游乐传统。先看太平洋摩天轮与过山车轨道的高度关系，再从公共甲板找能同时拍进两者的开阔角度。",
+        "walk": [
+          "从码头东端向西走",
+          "在游乐园入口看各项目开放时间",
+          "沿公共甲板到外侧看摩天轮。"
+        ],
+        "photoTip": "从公共甲板找一处能看见摩天轮和过山车轨道的位置。傍晚可等游乐设施亮灯。",
+        "question": "只看摩天轮也要买票吗？",
+        "answer": "公共码头可看摩天轮，乘坐和其他付费项目请看运营方票务规则。",
+        "kind": "码头游乐园",
+        "tagline": "在圣莫尼卡码头看海上摩天轮与过山车",
+        "visitTip": "先从公共甲板看各项设施，再根据排队、运行时间和同伴身高选要乘坐的项目。",
+        "notice": "游戏和乘坐项目规则各异。购买套票前比对项目是否开放及有无乘坐限制。",
+        "feature": "摩天轮、过山车轨道和游戏摊位组成码头外段的天际线与步行空间。"
+      },
+      "en": {
+        "background": "The modern amusement park continues the pier’s entertainment tradition. Compare the height of the Pacific Wheel and roller-coaster track, then find a clear view of both from the public deck.",
+        "walk": [
+          "Walk west along the pier",
+          "check ride hours by the park entrance",
+          "continue onto the public deck for a view of the wheel."
+        ],
+        "photoTip": "Use the public deck for a view of the wheel and coaster together. Toward evening, wait for the ride lights if they are operating.",
+        "question": "Do I need a ticket to see the wheel?",
+        "answer": "You can see it from the public deck. Check the operator for ride tickets.",
+        "kind": "Pier amusement park",
+        "tagline": "A Ferris wheel and roller coaster above the Santa Monica Pier",
+        "visitTip": "See the rides from the deck first, then choose based on queues, operating times and your group’s height requirements.",
+        "notice": "Games and rides have separate rules. Check operating status and restrictions before buying a pass.",
+        "feature": "The wheel, coaster and midway games define both the silhouette and the public approach at the pier’s west end."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "30–90"
+  },
+  {
+    "slug": "heal-the-bay-aquarium",
+    "area": "s",
+    "en": "Heal the Bay Aquarium",
+    "zh": "海湾保护水族馆",
+    "address": "1600 Ocean Front Walk, Santa Monica, CA 90401",
+    "source": "https://healthebay.org/aquarium/",
+    "operator": "heal",
+    "access": "program",
+    "descriptionEn": "Find the marine education center underneath the pier beside the carousel building, using the beach-level path. Exhibits focus on local marine life. The aquarium paused regular public hours during pier bridge construction in October 2026. Check the program calendar before going.",
+    "descriptionZh": "海洋教育中心在码头下方、旋转木马建筑旁，沿沙滩层步道前往。展览着重当地海洋生物。2026 年 10 月起，因码头桥施工，水族馆暂停常规公众开放。出发前请查活动日历。",
+    "photo": "/nearby/heal-the-bay-aquarium.webp",
+    "photoSource": "https://healthebay.org/aquarium/",
+    "guide": {
+      "zh": {
+        "background": "水族馆位于码头桥面下，空间紧凑，展览以当地海洋生物和海洋教育为主。与甲板上的游乐设施相比，这一站的观察重点在近岸栖息环境。",
+        "walk": [
+          "先查馆方活动与到访公告",
+          "从海滩层步道找旋转木马馆下方的入口",
+          "参观后沿 Ocean Front Walk 继续。"
+        ],
+        "photoTip": "在获准通行的沙滩层步道拍入口，带入上方的码头结构，表现水族馆与码头的上下关系。",
+        "question": "可直接按旧时间表到访吗？",
+        "answer": "码头桥施工期间常规公众开放已暂停，按馆方最新活动公告安排。",
+        "kind": "滨海教育水族馆",
+        "tagline": "在码头下认识南加州近岸的海洋生物",
+        "visitTip": "先查是否有开放活动，再从沙滩层确认进馆路径。停留时间可配合当天展览或导览。",
+        "notice": "码头桥施工期间按馆方开放安排到访，请提前核对集合地点和预约。",
+        "feature": "沙滩层的小型展馆靠近旋转木马下方，以本地近岸生物及海洋教育为主题。"
+      },
+      "en": {
+        "background": "Underneath the pier, the compact aquarium focuses on local marine life and education. Its exhibits give context to the nearshore habitats just beyond the deck.",
+        "walk": [
+          "Check the program and access notice",
+          "find the entrance below the carousel pavilion from beach level",
+          "continue along Ocean Front Walk afterward."
+        ],
+        "photoTip": "From an open beach-level path, frame the aquarium entrance with the structure of the pier above it.",
+        "question": "Can I rely on the former opening schedule?",
+        "answer": "Regular public hours are paused during bridge work. Use the aquarium’s current program notice before setting off.",
+        "kind": "Marine education aquarium",
+        "tagline": "Meet Southern California’s nearshore wildlife below the pier",
+        "visitTip": "Confirm a program is running, then locate the beach-level approach. Allow time for whatever exhibits or tours are offered that day.",
+        "notice": "Follow the aquarium’s current access arrangements during bridge work and check any booking or meeting point.",
+        "feature": "The compact beach-level galleries below the carousel focus on local marine life and education."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "30–60"
+  },
+  {
+    "slug": "looff-hippodrome",
+    "area": "s",
+    "en": "Looff Hippodrome",
+    "zh": "卢夫旋转木马馆",
+    "address": "200 Santa Monica Pier, Santa Monica, CA 90401",
+    "source": "https://pacpark.com/the-santa-monica-pier/",
+    "operator": "sm",
+    "access": "ride",
+    "descriptionEn": "At the east end of the pier, look for the historic pavilion built for Charles Looff’s amusement venture. Study the roofline from the deck; when the carousel opens, compare its carved animals up close.",
+    "descriptionZh": "码头东端是为查尔斯·卢夫的游乐事业修建的历史馆舍。从甲板观察屋顶轮廓；旋转木马开放时，可近看不同的雕刻动物。",
+    "photo": "/nearby/looff-hippodrome.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Pier_Looff_Hippodrome.jpg",
+    "guide": {
+      "zh": {
+        "background": "馆舍与 1916 年启用的卢夫游乐码头有关，是码头早期娱乐建筑的遗存。先从甲板看屋顶和外墙，再在开放时观察旋转木马的雕刻动物。",
+        "walk": [
+          "从码头东侧入口沿甲板走到馆舍",
+          "退到通行线外看建筑比例",
+          "开放时再进馆。"
+        ],
+        "photoTip": "从码头甲板斜拍屋顶与入口，室内允许拍照时可再记录木马的雕刻细节。",
+        "question": "这里只能坐旋转木马吗？",
+        "answer": "即使设备停运，也可在公共码头看馆舍外观，入内和乘坐按当日公告。",
+        "kind": "历史旋转木马馆",
+        "tagline": "看圣莫尼卡码头早期游乐建筑的屋顶与雕刻木马",
+        "visitTip": "先在甲板看建筑外观，室内开放时再留一段时间观察旋转木马。可以和码头或游乐园连走。",
+        "notice": "馆舍与骑乘安排以当日开放为准，排队时为码头通行人流留出空间。",
+        "feature": "海上甲板边的历史馆舍保留可辨认的屋顶轮廓，开放时还可近看雕刻转马。"
+      },
+      "en": {
+        "background": "The pavilion dates to the Looff pleasure-pier era, which began here in 1916. See the roof and wall details from the deck before looking at the carved carousel animals when it opens.",
+        "walk": [
+          "Approach the pavilion on the deck from the east",
+          "step out of the flow of pedestrians to see the whole façade",
+          "go inside when open."
+        ],
+        "photoTip": "Shoot the pavilion roof and entrance from an angle on the deck. If indoor photography is allowed, look for a carved carousel detail.",
+        "question": "Is it only worth visiting for a ride?",
+        "answer": "The pavilion is visible from the public deck. Check that day’s notice for interior access and carousel rides.",
+        "kind": "Historic carousel pavilion",
+        "tagline": "Historic pier architecture and a carved carousel",
+        "visitTip": "See the pavilion from the deck first, then allow time for the carousel if the interior is open. Pair it with the pier or Pacific Park.",
+        "notice": "Check same-day pavilion and ride hours. Leave the public pier walkway clear when queueing.",
+        "feature": "The historic pavilion’s roofline is visible from the deck, and the carved carousel animals can be seen when it opens."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "15–35"
+  },
+  {
+    "slug": "original-muscle-beach",
+    "area": "s",
+    "en": "Original Muscle Beach",
+    "zh": "圣莫尼卡原始肌肉海滩",
+    "address": "1800 Ocean Front Walk, Santa Monica, CA 90401",
+    "source": "https://www.santamonica.gov/places/parks/original-muscle-beach",
+    "operator": "sm",
+    "access": "public",
+    "descriptionEn": "Just south of Santa Monica Pier, the rings and bars connect this beach to Southern California’s acrobatics and fitness history. Watch from the perimeter with room for swings, then follow Ocean Front Walk back toward the pier.",
+    "descriptionZh": "就在圣莫尼卡码头以南。吊环和横杆延续了南加州的杂技与健身传统。在器材外侧观看并留出摆动空间，之后可沿海滨步行道返回码头。",
+    "photo": "/nearby/original-muscle-beach.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Original_Muscle_Beach_P4070305.jpg",
+    "guide": {
+      "zh": {
+        "background": "圣莫尼卡这处户外运动地标延续南加州的杂技与健身传统。吊环、横杆和沙面构成一套很容易识别的空间，留意各器材周围的摆动范围。",
+        "walk": [
+          "在码头南面下到海滩层",
+          "沿 Ocean Front Walk 到器械区外缘",
+          "继续向南或返回码头。"
+        ],
+        "photoTip": "留在吊环摆动范围之外，让横杆和操练区作为沙滩前景。",
+        "question": "想看重量训练要去哪里？",
+        "answer": "重量训练地标在威尼斯肌肉海滩，圣莫尼卡这里以吊环和横杆为主要观察对象。",
+        "kind": "历史露天体操场",
+        "tagline": "看吊环和横杆如何延续圣莫尼卡的体操传统",
+        "visitTip": "可从码头南侧下到海滩层，先在器材外缘看一轮训练，再沿海滨步行道继续。",
+        "notice": "吊环与横杆周边要留出摆动范围。儿童也请在器械外围观察。",
+        "feature": "吊环、横杆和沙面组成户外训练区，器材配置可以看出体操活动需要的空间。"
+      },
+      "en": {
+        "background": "The Santa Monica landmark grew out of Southern California’s acrobatics and fitness tradition. Rings, bars and sand define the space. Notice how much clear ground each apparatus needs.",
+        "walk": [
+          "Go down to beach level south of the pier",
+          "follow Ocean Front Walk to the edge of the apparatus",
+          "continue south or return to the pier."
+        ],
+        "photoTip": "Stay outside the swing area and use the bars and training space as foreground for the beach.",
+        "question": "Where should I go to see bodybuilding?",
+        "answer": "The Venice Muscle Beach is the weight-training landmark. Here in Santa Monica, look for the rings and bars.",
+        "kind": "Historic outdoor gymnastics area",
+        "tagline": "Rings and bars keep Santa Monica’s outdoor gymnastics tradition visible",
+        "visitTip": "Descend to beach level south of the pier, watch a few turns from the edge, then continue along Ocean Front Walk.",
+        "notice": "Keep outside the swing range of the rings and bars and supervise children near the equipment.",
+        "feature": "Rings, bars and sand make up the training area. Their layout shows how much room outdoor gymnastics needs."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "15–30"
+  },
+  {
+    "slug": "tongva-park",
+    "area": "s",
+    "en": "Tongva Park",
+    "zh": "通瓦公园",
+    "address": "1615 Ocean Avenue, Santa Monica, CA 90401",
+    "source": "https://www.santamonica.gov/places/parks/tongva-park",
+    "operator": "sm",
+    "access": "public",
+    "descriptionEn": "Paths weave between planted hills and gathering spaces across from the civic center. Enter from Ocean Avenue and follow the slopes toward the elevated lookout; from the bends you can photograph the layered planting and paths.",
+    "descriptionZh": "公园位于市政中心对面，步道在植被土丘与公共活动空间之间穿行。从海洋大道进入，沿坡道走向高处观景点，弯道可拍出植物与路径的层次。",
+    "photo": "/nearby/tongva-park.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Tongva_Park.jpg",
+    "guide": {
+      "zh": {
+        "background": "公园以 Tongva 命名，现代景观把土丘、种植区和曲折步道嵌进市政中心与海滨之间。沿步道上升时观察视线如何从草木间转向城市和海边。",
+        "walk": [
+          "从 Ocean Avenue 入口走入",
+          "顺坡选择经过种植区的支路",
+          "到观景平台后原路或从另一侧下坡。"
+        ],
+        "photoTip": "从弯道的外侧拍步道与土丘，登上观景平台后换成开阔的海岸方向。",
+        "question": "适合和码头一起游览吗？",
+        "answer": "公园靠近码头陆侧入口，可以先在公园看地形，再沿 Ocean Avenue 走向码头。",
+        "kind": "现代城市景观公园",
+        "tagline": "从种植土丘与曲径走到海岸方向的观景台",
+        "visitTip": "从 Ocean Avenue 的入口选择一条上坡线路。若与码头同游，可先看公园里的景观高差，再下到海滨。",
+        "notice": "并非所有路线坡度相同，带推车或需要平缓坡道时先看现场导向。",
+        "feature": "现代步道顺着种植土丘抬升，转弯处的视线从草木切换到城市与海岸。"
+      },
+      "en": {
+        "background": "Named for the Tongva people, the contemporary park builds paths and planted hills into the space between the civic center and the coast. Look for views that open gradually as the paths climb.",
+        "walk": [
+          "Enter from Ocean Avenue",
+          "take a path that climbs past the planting",
+          "reach the lookout and return along the same path or a parallel descent."
+        ],
+        "photoTip": "Frame a curving path and planted mound from the outside of a bend, then switch to the coast from the lookout.",
+        "question": "Can I visit it with the pier?",
+        "answer": "The park is near the landward pier approach, so you can see the landscaped slopes before walking to the pier along Ocean Avenue.",
+        "kind": "Contemporary urban landscape park",
+        "tagline": "Winding paths and planted hills lead to coastal viewpoints",
+        "visitTip": "Pick an uphill route from Ocean Avenue. If pairing it with the pier, see the park’s changing levels before descending toward the coast.",
+        "notice": "Paths have different gradients. Use the posted wayfinding if you need a gentler route.",
+        "feature": "Paths climb the planted hills. A bend can change the view from greenery to the city and coast."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "25–50"
+  },
+  {
+    "slug": "palisades-park",
+    "area": "s",
+    "en": "Palisades Park",
+    "zh": "帕利塞兹公园",
+    "address": "Ocean Avenue & Colorado Avenue, Santa Monica, CA 90401",
+    "source": "https://www.santamonica.gov/places/parks/palisades-park",
+    "operator": "sm",
+    "access": "public",
+    "descriptionEn": "The bluff-top promenade runs above Pacific Coast Highway. Enter near the pier approach for a short walk north, using the rail-side viewpoints to see the beach below. Keep behind the fencing on the bluff edge.",
+    "descriptionZh": "公园步道位于太平洋海岸公路上方的崖顶。从码头入口附近进入后向北短走，可从栏杆旁俯瞰下方海滩。请留在崖边围栏以内。",
+    "photo": "/nearby/palisades-park.webp",
+    "photoSource": "https://www.santamonica.gov/places/parks/palisades-park",
+    "guide": {
+      "zh": {
+        "background": "城市在 19 世纪便开始使用这段临海崖顶作为公园。长条形步道随崖线延伸，下方海岸公路、沙滩和码头的关系在高处最清楚。",
+        "walk": [
+          "从 Colorado Avenue 路口附近入园",
+          "沿崖顶步道向北",
+          "在栏杆内侧选一处看海，可原路回来。"
+        ],
+        "photoTip": "在崖顶栏杆内侧向下斜拍海岸公路、沙滩和码头，表现从城市到海面的高差。",
+        "question": "可以从崖顶随处下沙滩吗？",
+        "answer": "用正式下坡通道；若只想拍全景，崖顶步道就能看到海岸。",
+        "kind": "历史崖顶公园",
+        "tagline": "从崖顶俯瞰太平洋海岸公路与圣莫尼卡海湾",
+        "visitTip": "初次可从码头陆侧入口附近往北走，只挑一两个观景点停留。想下沙滩时先找正式通道。",
+        "notice": "在栏杆内侧观景，离开正式通道会遇到崖边及快速道路。",
+        "feature": "崖顶步道与海岸线平行，可以从高处同时看下方公路、沙滩和码头。"
+      },
+      "en": {
+        "background": "The bluff was already in use as a park in the nineteenth century. Its long path follows the cliff and looks down on the coast highway, beach and pier.",
+        "walk": [
+          "Enter near Colorado Avenue",
+          "follow the bluff-top path north",
+          "stop behind the railing for the ocean view and return the same way."
+        ],
+        "photoTip": "From behind the bluff-top railing, shoot down at an angle to include the highway, sand and pier.",
+        "question": "Can I descend straight to the sand anywhere?",
+        "answer": "Use an established beach access. The bluff path itself is the better place for a broad coastal view.",
+        "kind": "Historic bluff-top park",
+        "tagline": "Bluff-top views over the coast highway and Santa Monica Bay",
+        "visitTip": "Start north from near the pier approach and choose one or two lookouts. Locate an established descent before heading to the sand.",
+        "notice": "Stay behind the railing and use established routes around the bluff and highway.",
+        "feature": "The bluff-top walk parallels the shore and looks down on the highway, the beach and the pier at once."
+      }
+    },
+    "contextSource": "https://www.santamonica.gov/media/Document%20Library/Project/Parks%20and%20Recreation%20Vision%20Plan/2025%20City%20of%20Santa%20Monica%20Parks%20and%20Recreation%20Vision%20Plan_Adopted%20January%2027%202026-.pdf",
+    "visitMinutes": "30–60"
+  },
+  {
+    "slug": "crescent-bay-park",
+    "area": "s",
+    "en": "Crescent Bay Park",
+    "zh": "新月湾公园",
+    "address": "2000 Ocean Avenue, Santa Monica, CA 90405",
+    "source": "https://www.santamonica.com/things-to-do/crescent-bay-park/",
+    "operator": "sm",
+    "access": "public",
+    "descriptionEn": "This small coastal park is a break between downtown and Ocean Park. Look for the gazebo and the lawn beside Ocean Avenue. If you continue to the sand, use the established beach access for the elevation change.",
+    "descriptionZh": "这座小型海岸公园位于市中心与海洋公园街区之间。可沿海洋大道找草坪和凉亭。若接着去沙滩，请利用正式的下坡通道。",
+    "photo": "/nearby/crescent-bay-park.webp",
+    "photoSource": "https://www.santamonica.gov/places/parks/crescent-bay-park",
+    "guide": {
+      "zh": {
+        "background": "小公园利用海岸高差形成两层空间。上层凉亭和草坪适合看海，下层靠近海滨通行面，两处的视角和前景各异。",
+        "walk": [
+          "从 Ocean Avenue 看上层凉亭",
+          "沿正式通路走到下层",
+          "想去沙滩时衔接指定入口。"
+        ],
+        "photoTip": "从上层草坪侧向看凉亭，用斜坡与树影把画面引向海滨。",
+        "question": "哪里可以同时拍到凉亭与海岸？",
+        "answer": "从上层草坪斜拍，可把凉亭纳入前景，保留海岸作背景。",
+        "kind": "双层滨海社区公园",
+        "tagline": "在上层凉亭与下层草地之间看海岸高差",
+        "visitTip": "适合在市中心与 Ocean Park 之间短暂停留。先看上层凉亭，再按当日体力决定是否下到海滨。",
+        "notice": "从上层到下层请走公共通道。看海时留意草地可能有活动占用。",
+        "feature": "凉亭所在的上层草坪和靠近海滨的下层绿地，提供两组不同高度的观景空间。"
+      },
+      "en": {
+        "background": "The small park uses the change in elevation to create two levels. The upper gazebo and lawn look across the coast, while the lower level sits closer to the beach route.",
+        "walk": [
+          "Start by the upper gazebo off Ocean Avenue",
+          "use the established path to the lower level",
+          "follow the signed access if continuing to the beach."
+        ],
+        "photoTip": "From the upper lawn, shoot across the gazebo and use the slope and tree shadows to lead toward the coast.",
+        "question": "Where can I frame the gazebo and coast together?",
+        "answer": "Shoot diagonally from the upper lawn, using the gazebo in the foreground.",
+        "kind": "Two-level coastal park",
+        "tagline": "Two levels of lawn and a gazebo above the coast",
+        "visitTip": "Make it a short stop between downtown and Ocean Park. Start at the gazebo before deciding whether to descend to the beach.",
+        "notice": "Use the public route between levels and check whether an event is using the lawn.",
+        "feature": "The lawn and gazebo above and the green closer to the sand offer two different levels for coastal views."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "15–35"
+  },
+  {
+    "slug": "ocean-view-park",
+    "area": "s",
+    "en": "Ocean View Park",
+    "zh": "海景公园",
+    "address": "2701 Barnard Way, Santa Monica, CA 90405",
+    "source": "https://www.santamonica.gov/places/parks/ocean-view-park",
+    "operator": "sm",
+    "access": "public",
+    "descriptionEn": "The park links neighborhood recreation with the beach edge. From Barnard Way look for the courts and lawn, then walk west toward the shore. The lawn offers an open foreground when photographing the coastal setting.",
+    "descriptionZh": "公园把社区运动空间与沙滩边缘连在一起。从巴纳德路一侧先找球场和草地，再向西走向海边。开阔草坪适合用作沿海风景的前景。",
+    "photo": "/nearby/ocean-view-park.webp",
+    "photoSource": "https://www.santamonica.gov/places/parks/ocean-view-park",
+    "guide": {
+      "zh": {
+        "background": "社区公园把草地区和网球场布置在海滨边缘。站在临海侧观察草地、棕榈树、海滨道路与沙滩之间的层次。",
+        "walk": [
+          "从 Barnard Way 到公园草地",
+          "沿球场外侧走",
+          "从正式海滨通路去海滩。"
+        ],
+        "photoTip": "从球场外的公共草地向海拍，用棕榈树隔开前景与沙滩，避开球员活动范围。",
+        "question": "看海和打球需要同样安排吗？",
+        "answer": "散步可从公共绿地开始，使用球场先看市政府的预约与收费规则。",
+        "kind": "海边运动与休闲公园",
+        "tagline": "在海边草地、球场与沙滩间轻松换景",
+        "visitTip": "从 Barnard Way 先走草地边，再绕过球场接去海滩。想打球可事先查开放、收费或预约。",
+        "notice": "观景以公共草地为主，经过球场入口时给打球的访客留出通道。",
+        "feature": "海边球场、绿地与棕榈树之间可望见海岸，是可以把散步与运动安排在一起的公园。"
+      },
+      "en": {
+        "background": "The neighborhood park sets lawns and courts at the beach edge. From the ocean side of the lawn, look across palms, the coastal road and the sand.",
+        "walk": [
+          "Reach the lawn from Barnard Way",
+          "pass outside the courts",
+          "use the established public route to the beach."
+        ],
+        "photoTip": "Shoot seaward from the public lawn outside the courts, using the palms to separate the foreground from the sand.",
+        "question": "Do I need court access just to see the ocean?",
+        "answer": "The public lawn is a good starting point for a walk. Check the city’s rules if you plan to play tennis.",
+        "kind": "Beachside recreation park",
+        "tagline": "Lawns and courts just above Santa Monica’s beach",
+        "visitTip": "Start by the lawn on Barnard Way, then pass the courts on the way to the beach. Check booking and fees in advance if planning to play.",
+        "notice": "Use the public lawn for views and leave court entrances clear for players.",
+        "feature": "Courts, lawns and palms frame coastal views at a park that combines walking with sports."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "20–45"
+  },
+  {
+    "slug": "annenberg-beach-house",
+    "area": "s",
+    "en": "Annenberg Community Beach House",
+    "zh": "安嫩伯格社区海滨会所",
+    "address": "415 Pacific Coast Highway, Santa Monica, CA 90402",
+    "source": "https://www.annenbergbeachhouse.com/",
+    "operator": "sm",
+    "access": "program",
+    "descriptionEn": "This public beach venue occupies part of the former Marion Davies estate. Look for the historic guest house and the pool area; tours and pool sessions have their own calendars. The beach and the historic buildings are distinct parts of the visit.",
+    "descriptionZh": "这处公共海滨设施利用了昔日玛丽恩·戴维斯庄园的一部分。可留意历史客舍与泳池；导览和游泳场次各有安排，长时间停留可分别游览沙滩和建筑。",
+    "photo": "/nearby/annenberg-beach-house.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Annenberg_Community_Beach_House_entry.jpg",
+    "guide": {
+      "zh": {
+        "background": "公共海滨会所保留了昔日玛丽恩·戴维斯庄园的部分建筑和泳池遗存。比较客舍的柱廊、现代公共设施和眼前沙滩，能看出场地用途的变化。",
+        "walk": [
+          "由太平洋海岸公路的会所入口进入",
+          "先找历史客舍",
+          "再按当日开放安排去泳池区或沙滩。"
+        ],
+        "photoTip": "从对客舍开放的公共区域正拍柱廊，再转向海边记录公共会所与沙滩的连接。",
+        "question": "客舍和泳池用同一张票吗？",
+        "answer": "两处开放安排各异，客舍导览与泳池入场请分别看会所日历。",
+        "kind": "历史庄园改造的公共海滨会所",
+        "tagline": "从戴维斯客舍的柱廊走向公共泳池和沙滩",
+        "visitTip": "先决定是看历史客舍、使用泳池，还是只走沙滩。两个设施的时间可能不同，开放日历适合提前比较。",
+        "notice": "泳池、客舍导览和停车按各自安排，步行时优先选有标识的公共通道。",
+        "feature": "柱廊客舍、历史泳池和现代公共设施同处一地，展示了旧庄园向公共会所的转变。"
+      },
+      "en": {
+        "background": "The public beach venue preserves parts of the former Marion Davies estate. Compare the guest house portico, the modern public spaces and the beach to see how the site has changed.",
+        "walk": [
+          "Enter from Pacific Coast Highway",
+          "locate the historic guest house first",
+          "continue to the pool area or beach as access allows that day."
+        ],
+        "photoTip": "Photograph the guest house portico from an open public area, then turn toward the beach for the wider setting.",
+        "question": "Do the guest house and pool use the same admission?",
+        "answer": "Their schedules and access differ. Check the calendars for house tours and pool visits separately.",
+        "kind": "Public beach venue and historic estate",
+        "tagline": "A historic guest house, public pool and beachfront",
+        "visitTip": "Choose between the historic guest house, a pool visit and a beach walk. Compare the calendars before combining them.",
+        "notice": "Pool sessions, house tours and parking follow separate rules. Use signed public routes on foot.",
+        "feature": "The guest house portico, historic pool and modern public facilities show how the former estate became a public venue."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "45–90"
+  },
+  {
+    "slug": "ozone-park",
+    "area": "s",
+    "en": "Ozone Park",
+    "zh": "奥佐恩公园",
+    "address": "720 Ozone Street, Santa Monica, CA 90405",
+    "source": "https://www.santamonica.com/things-to-do/ozone-park/",
+    "operator": "sm",
+    "access": "public",
+    "descriptionEn": "This small neighborhood green sits close to the Venice–Santa Monica boundary. Step off the busier shopping streets for shade and a short break. Use the street entrances and respect the homes bordering the park when taking pictures.",
+    "descriptionZh": "这片社区绿地靠近威尼斯与圣莫尼卡的交界，适合离开繁忙街道短暂乘凉。从街道入口进入，摄影时请顾及公园周围的住户。",
+    "photo": "/nearby/ozone-park.webp",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Ozone_Park,_Santa_Monica.jpg",
+    "guide": {
+      "zh": {
+        "background": "靠近城市交界的小绿地服务周边住宅街区。入口招牌、树荫和开敞草地构成很短的游览动线，适合体验海滨旅游区内侧的社区尺度。",
+        "walk": [
+          "从 Ozone Street 入园",
+          "沿公共小径走到草地边",
+          "原路返回或接周边街道。"
+        ],
+        "photoTip": "从 Ozone Street 入口拍招牌和树荫，把镜头留在公共绿地范围内。",
+        "question": "需要预留很久吗？",
+        "answer": "可把它作为两站之间的短暂停留，坐一会儿或看入口招牌即可。",
+        "kind": "社区绿地",
+        "tagline": "在威尼斯和圣莫尼卡交界找一小片树荫",
+        "visitTip": "把这站作为步行路线中的短休息，入园后可先看入口招牌，再在草地边停留。",
+        "notice": "周边多为住宅，在公共小径与草地活动，摄影避开私人住宅。",
+        "feature": "树荫、小径、入口招牌与草地构成一圈短行程，适合离开繁忙海滨稍作休息。"
+      },
+      "en": {
+        "background": "This small green close to the city boundary serves the surrounding residential streets. Its sign, shade trees and open lawn make it a short neighborhood stop inland from the waterfront.",
+        "walk": [
+          "Enter from Ozone Street",
+          "follow the public path along the lawn",
+          "return to the same street or continue on nearby sidewalks."
+        ],
+        "photoTip": "Frame the sign and shade at the Ozone Street entrance, keeping the composition within the public park.",
+        "question": "How much time should I allow?",
+        "answer": "Use it as a short pause between other stops, with time to sit in the shade or see the entrance sign.",
+        "kind": "Neighborhood green",
+        "tagline": "A shaded neighborhood stop near the city boundary",
+        "visitTip": "Use this as a pause on a longer walk. See the entrance sign and then take a break beside the lawn.",
+        "notice": "Keep to the public path and lawn in this residential area and avoid framing private homes.",
+        "feature": "Shade trees, a path, the entrance sign and lawn make a short stop away from the busy waterfront."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "10–25"
+  },
+  {
+    "slug": "edgington-park",
+    "area": "m",
+    "en": "Edgington Park",
+    "zh": "埃金顿纪念公园",
+    "address": "Via Marina & Admiralty Way, Marina del Rey, CA 90292",
+    "source": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "operator": "county",
+    "access": "public",
+    "descriptionEn": "This small memorial park honors Harbor Patrol officer Harold L. Edgington. Approach at Via Marina and Admiralty Way, pause by the memorial and continue along Via Marina if you are walking toward the harbor channel.",
+    "descriptionZh": "这片小型纪念绿地纪念港湾巡逻员哈罗德·埃金顿。从码头大道与海军上将大道交叉口进入，可先在纪念设施前短暂停留，再沿码头大道走向港湾主航道。",
+    "photo": "/nearby/edgington-park.webp",
+    "photoSource": "https://beaches.lacounty.gov/marina-del-rey-parks/",
+    "guide": {
+      "zh": {
+        "background": "这处纪念绿地纪念殉职的港湾巡逻员哈罗德·埃金顿。看纪念设施与周围树木、道路之间的布局，能体会这座小公园的社区纪念性质。",
+        "walk": [
+          "从 Via Marina 和 Admiralty Way 的街角进入",
+          "看纪念点及周围绿地",
+          "继续沿 Via Marina 往主航道方向走。"
+        ],
+        "photoTip": "从公共小径取景，让纪念设施和周围绿地同时入镜。",
+        "question": "可以和哪里一起走？",
+        "answer": "可沿 Via Marina 接另一处县立滨水公园，先在各景点地图上比较具体入口。",
+        "kind": "港湾巡逻员纪念公园",
+        "tagline": "在 Via Marina 路口看一处港湾历史纪念绿地",
+        "visitTip": "用这站作为港湾步行的短暂停留，读完纪念说明可接向主航道方向。",
+        "notice": "入口在道路交叉处，先走人行道再进绿地，纪念点附近保持安静。",
+        "feature": "小型纪念设施周边留有开敞绿地，可把地点与港湾巡逻历史联系起来。"
+      },
+      "en": {
+        "background": "The small park commemorates Harbor Patrol officer Harold L. Edgington, who died in the line of duty. The memorial’s setting among trees and local roads gives the stop its neighborhood scale.",
+        "walk": [
+          "Enter near Via Marina and Admiralty Way",
+          "pause at the memorial and its garden setting",
+          "continue along Via Marina toward the main channel."
+        ],
+        "photoTip": "Frame the memorial with its surrounding planting from a public path.",
+        "question": "What can I pair it with?",
+        "answer": "Continue along Via Marina toward another county waterfront park and compare the approach points on each map.",
+        "kind": "Harbor Patrol memorial park",
+        "tagline": "A small marina memorial at the corner of Via Marina",
+        "visitTip": "Pause here on a marina walk to see the memorial, then continue along Via Marina toward the main channel.",
+        "notice": "Approach from the sidewalk at the intersection and be considerate around the memorial.",
+        "feature": "An open green sets off the small memorial and connects this corner to the history of harbor patrol."
+      }
+    },
+    "contextSource": "",
+    "visitMinutes": "10–20"
+  }
+]

@@ -15,6 +15,7 @@ import AmenitiesSection from '@/components/AmenitiesSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import LandmarksSection from '@/components/LandmarksSection';
+import NearbyExplore from '@/components/NearbyExplore';
 import MapEmbed from '@/components/MapEmbed';
 import GuidesSection from '@/components/GuidesSection';
 import FaqSection from '@/components/FaqSection';
@@ -127,6 +128,7 @@ export default async function HomePage({
         <Gallery />
         <Reviews />
         <LandmarksSection />
+        <NearbyExplore locale={locale} />
         <MapEmbed />
         <GuidesSection locale={locale} />
         <FaqSection />

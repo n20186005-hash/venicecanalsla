@@ -1,7 +1,10 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 
 export default function LandmarksSection() {
   const t = useTranslations('landmarks');
+  const label = useTranslations('header');
+  const locale = useLocale();
+  const links = ['venice-boardwalk', 'abbot-kinney-boulevard', 'muscle-beach-venice', '', 'santa-monica-pier', 'venice-sign'];
   const messages = useMessages() as any;
   const items = (messages?.landmarks?.items || []) as Array<{ name: string; desc: string }>;
 
@@ -36,7 +39,7 @@ export default function LandmarksSection() {
                   {index + 1}
                 </div>
                 <h3 className="font-semibold leading-snug" style={{ color: 'var(--text-primary)' }}>
-                  {item.name}
+                  <a href={`/${locale}/nearby${links[index] ? '/' + links[index] : ''}`} className="hover:underline">{item.name}</a>
                 </h3>
               </div>
               <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
@@ -45,6 +48,9 @@ export default function LandmarksSection() {
             </div>
           ))}
         </div>
+        <a href={`/${locale}/nearby`} className="inline-block mt-6 font-medium underline" style={{ color: 'var(--accent)' }}>
+          {label('nearby')}
+        </a>
       </div>
     </section>
   );

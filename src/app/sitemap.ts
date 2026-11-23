@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next';
+import { places } from '@/lib/nearby';
 import { SITE } from '@/lib/site';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -10,11 +11,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/visitor-guide',
     '/photo-spots',
     '/history',
+    '/nearby',
+    ...places.map(({ slug }) => '/nearby/' + slug),
   ];
 
   const entries: MetadataRoute.Sitemap = [];
   for (const path of paths) {
-    const zhUrl = `${base}${path}`;
+    const zhUrl = base + (path.startsWith('/nearby') ? '/zh' : '') + path;
     const enUrl = `${base}/en${path}`;
     entries.push({
       url: zhUrl,

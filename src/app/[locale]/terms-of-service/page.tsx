@@ -1,3 +1,4 @@
+import Header from '@/components/Header';
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
@@ -37,7 +38,8 @@ function TermsContent() {
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
+      <Header solid />
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 pt-32 md:pt-24 pb-16">
         <a
           href={homeHref}
           className="inline-flex items-center gap-2 text-sm font-medium mb-10 transition-colors"

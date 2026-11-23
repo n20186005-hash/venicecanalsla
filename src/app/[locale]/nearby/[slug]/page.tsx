@@ -24,8 +24,9 @@ const lodging = {
 
 function GuideSection({ id, title, children }: { id: string; title: string; children: ReactNode }) {
   return (
-    <section id={id} className="scroll-mt-24">
+    <section id={id} className="scroll-mt-32 md:scroll-mt-24">
       <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-4">{title}</h2>
+      <div className="w-10 h-0.5 mb-4" style={{ background: 'var(--accent)' }} />
       {children}
     </section>
   );
@@ -53,7 +54,7 @@ export default async function AttractionPage({ params }: Props) {
   const guide = place.guide[zh ? 'zh' : 'en'];
   const nearby = `/${locale}/nearby`;
   const field: [string, ReactNode][] = [
-    [zh ? '景点名称' : 'Attraction name', place.en],
+    [zh ? '景点英文名' : 'Attraction name', place.en],
     [zh ? '景点类型' : 'Attraction type', guide.kind],
     [zh ? '所在地区' : 'Area', details.area],
     [zh ? '地址或到访入口' : 'Address or approach', place.address],
@@ -76,28 +77,33 @@ export default async function AttractionPage({ params }: Props) {
   return (
     <>
       <Header solid />
-      <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-24 pb-16">
+      <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-32 md:pt-24 pb-16">
         <header>
-          <a href={nearby} className="text-sm font-medium" style={accent}>
-            {zh ? '周边景点' : 'Nearby attractions'} / {details.area}
-          </a>
-          <h1 className="font-display text-4xl sm:text-5xl font-semibold mt-4 mb-3">{details.name}</h1>
-          <p className="text-xl sm:text-2xl mb-3" style={{ color: 'var(--text-secondary)' }}>{guide.tagline}</p>
-          <p className="mb-3" style={{ color: 'var(--text-secondary)' }}>{place.address}</p>
-          <ul className="flex flex-wrap gap-x-5 gap-y-2 mb-5 text-sm">
-            <li><a href="#reviews" className="underline" style={accent}>{zh ? 'Google 评分与游客评价' : 'Google ratings and reviews'}</a></li>
-            <li><a href="#hours" className="underline">{details.hours}</a></li>
-          </ul>
-          <a href={details.map} className="inline-block rounded-full px-5 py-2 text-sm font-semibold text-white mb-6" style={{ background: 'var(--accent)' }}>
-            {mapLabel}
-          </a>
+          <div className="relative isolate overflow-hidden rounded-2xl min-h-[27rem] flex items-end text-white" style={{ background: 'var(--color-nature-900)' }}>
+            {place.photo && (
+              <img src={place.photo} alt={details.name} fetchPriority="high" className="absolute inset-0 -z-20 h-full w-full object-cover" />
+            )}
+            <div className="absolute inset-0 -z-10 bg-linear-to-t from-black/90 via-black/60 to-black/25" aria-hidden="true" />
+            <div className="p-5 sm:p-9 lg:p-12 w-full">
+              <a href={nearby} className="text-sm font-medium underline underline-offset-4 text-white">
+                {zh ? '周边景点' : 'Nearby attractions'} / {details.area}
+              </a>
+              <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-bold mt-4 mb-3 leading-tight">{details.name}</h1>
+              <p className="text-lg sm:text-xl mb-3 max-w-2xl text-white/90">{guide.tagline}</p>
+              <p className="text-sm mb-4 text-white/85">{place.address}</p>
+              <ul className="flex flex-wrap gap-2 mb-5 text-sm">
+                <li><a href="#reviews" className="inline-block rounded-full bg-black/45 px-3 py-2 underline">{zh ? 'Google 评分与游客评价' : 'Google ratings and reviews'}</a></li>
+                <li><a href="#hours" className="inline-block rounded-full bg-black/45 px-3 py-2 underline">{details.hours}</a></li>
+              </ul>
+              <a href={details.map} className="inline-block rounded-full px-5 py-2 text-sm font-semibold text-white bg-water-700 hover:bg-water-800">
+                {mapLabel}
+              </a>
+            </div>
+          </div>
           {place.photo && (
-            <figure>
-              <img src={place.photo} alt={details.name} className="block w-full max-h-[28rem] object-cover rounded-2xl" />
-              <figcaption className="text-sm mt-2" style={{ color: 'var(--text-secondary)' }}>
-                <a href={place.photoSource} className="underline">{zh ? '照片来源' : 'Photo source'}</a>
-              </figcaption>
-            </figure>
+            <p className="text-sm mt-2 text-right" style={{ color: 'var(--text-secondary)' }}>
+              <a href={place.photoSource} className="underline">{zh ? '照片来源' : 'Photo source'}</a>
+            </p>
           )}
         </header>
 
@@ -164,24 +170,28 @@ export default async function AttractionPage({ params }: Props) {
             </div>
           </div>
 
-          <GuideSection id="transport" title={zh ? '交通方式' : 'Getting here from the Venice Canals'}>
-            <p className={copy}>{details.transport}</p>
-            <ul className="flex flex-wrap gap-x-6 gap-y-2 mt-3">
-              {modes.map(([mode, label]) => (
-                <li key={mode}><a href={details.directions + '&travelmode=' + mode} className="underline" style={accent}>{label}</a></li>
-              ))}
-            </ul>
-          </GuideSection>
+          <div className="rounded-xl border p-5 sm:p-7" style={card}>
+            <GuideSection id="transport" title={zh ? '交通方式' : 'Getting here from the Venice Canals'}>
+              <p className={copy}>{details.transport}</p>
+              <ul className="flex flex-wrap gap-x-6 gap-y-2 mt-3">
+                {modes.map(([mode, label]) => (
+                  <li key={mode}><a href={details.directions + '&travelmode=' + mode} className="underline" style={accent}>{label}</a></li>
+                ))}
+              </ul>
+            </GuideSection>
+          </div>
 
           <GuideSection id="discover" title={zh ? '发现魅力' : 'History, design and local character'}>
             <p className={copy}>{guide.background}</p>
           </GuideSection>
 
-          <GuideSection id="walk" title={zh ? '现场步行路线' : 'Suggested walk'}>
-            <ol className="list-decimal space-y-2 pl-6" style={{ color: 'var(--text-secondary)' }}>
-              {guide.walk.map(step => <li key={step}>{step}</li>)}
-            </ol>
-          </GuideSection>
+          <div className="rounded-xl border p-5 sm:p-7" style={card}>
+            <GuideSection id="walk" title={zh ? '现场步行路线' : 'Suggested walk'}>
+              <ol className="list-decimal space-y-2 pl-6" style={{ color: 'var(--text-secondary)' }}>
+                {guide.walk.map(step => <li key={step}>{step}</li>)}
+              </ol>
+            </GuideSection>
+          </div>
 
           <GuideSection id="visitor-notes" title={zh ? '游览须知' : 'Before you go'}>
             <p className={copy}>{guide.notice}</p>
@@ -191,25 +201,31 @@ export default async function AttractionPage({ params }: Props) {
             </details>
           </GuideSection>
 
-          <GuideSection id="photos" title={zh ? '拍照机位' : 'Photography spots'}>
-            <p className={copy}>{guide.photoTip}</p>
-          </GuideSection>
+          <div className="rounded-xl border p-5 sm:p-7" style={card}>
+            <GuideSection id="photos" title={zh ? '拍照机位' : 'Photography spots'}>
+              <p className={copy}>{guide.photoTip}</p>
+            </GuideSection>
+          </div>
 
-          <GuideSection id="lodging" title={zh ? '住宿建议' : 'Where to stay'}>
-            <p className={copy}>{lodging[place.area as keyof typeof lodging][zh ? 0 : 1]}</p>
-          </GuideSection>
+          <div className="rounded-xl border p-5 sm:p-7" style={card}>
+            <GuideSection id="lodging" title={zh ? '住宿建议' : 'Where to stay'}>
+              <p className={copy}>{lodging[place.area as keyof typeof lodging][zh ? 0 : 1]}</p>
+            </GuideSection>
+          </div>
 
           <GuideSection id="reviews" title={zh ? '游客评价' : 'Visitor reviews'}>
             <a href={details.map} className="underline" style={accent}>{zh ? '查看 Google 地图上的评分及游客评价' : 'Find ratings and visitor reviews on Google Maps'}</a>
           </GuideSection>
 
-          <GuideSection id="location" title={zh ? '交通指南与地图' : 'Address and map'}>
-            <p className={copy}>{place.address}</p>
-            <div className="flex flex-wrap gap-x-6 gap-y-2 mt-3">
-              <a href={details.map} className="underline" style={accent}>{mapLabel}</a>
-              <a href={details.directions} className="underline" style={accent}>{zh ? '从威尼斯运河规划路线' : 'Get directions from the Venice Canals'}</a>
-            </div>
-          </GuideSection>
+          <div className="rounded-xl border p-5 sm:p-7" style={card}>
+            <GuideSection id="location" title={zh ? '交通指南与地图' : 'Address and map'}>
+              <p className={copy}>{place.address}</p>
+              <div className="flex flex-wrap gap-x-6 gap-y-2 mt-3">
+                <a href={details.map} className="underline" style={accent}>{mapLabel}</a>
+                <a href={details.directions} className="underline" style={accent}>{zh ? '从威尼斯运河规划路线' : 'Get directions from the Venice Canals'}</a>
+              </div>
+            </GuideSection>
+          </div>
 
           <GuideSection id="nearby-guides" title={zh ? '更多周边专页' : 'More nearby attraction guides'}>
             <ul className="flex flex-wrap gap-x-6 gap-y-2">

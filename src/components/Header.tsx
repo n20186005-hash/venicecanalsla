@@ -12,6 +12,7 @@ export default function Header({ solid = false }: { solid?: boolean }) {
 
   useEffect(() => {
     const handler = () => setScrolled(window.scrollY > 50);
+    handler();
     window.addEventListener('scroll', handler, { passive: true });
     return () => window.removeEventListener('scroll', handler);
   }, []);
@@ -30,29 +31,27 @@ export default function Header({ solid = false }: { solid?: boolean }) {
         backdropFilter: filled ? 'blur(12px)' : 'none',
       }}
     >
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href={logoHref} className="font-display text-sm sm:text-lg font-semibold tracking-tight truncate mr-2" style={{ color: filled ? 'var(--text-primary)' : '#fff' }}>
-          Venice Canal Historic District
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 grid grid-cols-[minmax(0,1fr)_auto] items-center md:grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)]">
+        <a href={logoHref} className="flex items-center h-14 md:h-16 font-display text-sm lg:text-lg font-semibold tracking-tight min-w-0 pr-2"
+          style={{ color: filled ? 'var(--text-primary)' : '#fff' }}>
+          <span className="truncate">{t('brand')}</span>
         </a>
 
-        <nav className="hidden md:flex items-center gap-4 lg:gap-6">
+        <nav aria-label={t('navigation')}
+          className="col-span-2 row-start-2 flex min-h-11 items-center justify-center gap-x-5 sm:gap-x-7 md:col-span-1 md:row-start-1 md:col-start-2 md:h-16 md:gap-x-4 lg:gap-x-6"
+          style={{ color: filled ? 'var(--text-primary)' : '#fff' }}>
           {(['gallery', 'reviews', 'map', 'nearby'] as const).map((section) => (
             <a
               key={section}
-              href={section === 'nearby' ? base + '/nearby' : base + '/#' + section}
-              className="text-sm font-medium transition-colors"
-              style={{ color: filled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
+              href={section === 'nearby' ? base + '/nearby' : base + '#' + section}
+              className="inline-flex min-h-11 items-center whitespace-nowrap text-xs sm:text-sm font-medium hover:underline underline-offset-4"
             >
               {t(section)}
             </a>
           ))}
         </nav>
 
-        <div className="flex shrink-0 items-center gap-2">
-          <a href={base + '/nearby'} className="md:hidden text-xs font-medium"
-            style={{ color: filled ? 'var(--text-secondary)' : '#fff' }}>
-            {t('nearbyMobile')}
-          </a>
+        <div className="row-start-1 col-start-2 md:col-start-3 justify-self-end flex items-center gap-2">
           <ThemeToggle />
           <LanguageToggle />
         </div>

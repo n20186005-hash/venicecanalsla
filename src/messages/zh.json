@@ -7,6 +7,11 @@
     "ogImageAlt": "美国加州威尼斯 Venice Canal Historic District"
   },
   "header": {
+    "brand": "威尼斯运河历史区",
+    "navigation": "主要导航",
+    "language": "切换语言",
+    "theme": "切换深色模式",
+    "toggle": "切换",
     "nearbyMobile": "周边",
     "nearby": "周边景点",
     "home": "首页",
@@ -19,7 +24,7 @@
     "title": "洛杉矶威尼斯运河｜历史街区步行游览指南",
     "subtitle": "威尼斯运河历史区 - 洛杉矶的历史遗迹与宁静美景",
     "rating": "4.6",
-    "reviewCount": "13,120 条评价",
+    "reviewCount": "13,207 条评价",
     "type": "历史街区 · 洛杉矶必游",
     "freeBadge": "免费 · 全天开放",
     "openMaps": "查看位置",
@@ -209,6 +214,10 @@
     ]
   },
   "gallery": {
+    "previous": "返回上一张照片",
+    "next": "查看下一张照片",
+    "close": "关闭大图",
+    "photoAlt": "威尼斯运河照片 {number}",
     "title": "精彩照片",
     "subtitle": "Venice Canal Historic District - 威尼斯运河历史区",
     "captions": [
@@ -397,6 +406,7 @@
     "openMaps": "在 Google Maps 查看"
   },
   "semanticIntro": {
+    "breadcrumb": "面包屑导航",
     "crumbs": ["威尼斯运河历史区", "威尼斯", "加利福尼亚州", "美国"],
     "welcome": "欢迎来到 Venice Canal Historic District（威尼斯运河历史区），这里被广泛视为威尼斯运河（Venice Canals）的核心地带。它位于美国加利福尼亚州威尼斯市（Venice）的中心区域，是游客探访该地区时的重要目的地与枢纽。"
   },
@@ -566,6 +576,7 @@
     "saved": "设置已保存！"
   },
   "cookieBanner": {
+    "label": "Cookie 使用偏好",
     "text": "本站为非营利科普网站，仅在您允许的情况下使用一个轻量的分析型 Cookie，用于了解访客如何使用本站。您可以选择接受、仅使用必要 Cookie，或在“Cookie 设置”中精细化调整。",
     "accept": "接受",
     "essentialOnly": "仅必要",

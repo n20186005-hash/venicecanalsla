@@ -66,7 +66,7 @@ export default function TopicGuide({
         />
       )}
 
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 pt-24 pb-16">
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 pt-32 md:pt-24 pb-16">
         <a
           href={homeHref}
           className="inline-flex items-center gap-2 text-sm font-medium mb-6 transition-colors"

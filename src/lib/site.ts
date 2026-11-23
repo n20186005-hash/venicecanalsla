@@ -42,7 +42,7 @@ export const SITE = {
 
   // Google rating facts (latest from Google Maps listing)
   rating: '4.6',
-  reviewCount: '13,120',
+  reviewCount: '13,207',
 
   // GA4 Measurement ID
   ga4Id: 'G-HXM22WWPKP',

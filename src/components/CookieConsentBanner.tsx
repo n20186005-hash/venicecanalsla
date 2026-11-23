@@ -45,7 +45,7 @@ export default function CookieConsentBanner() {
     <div
       role="dialog"
       aria-live="polite"
-      aria-label="Cookie consent"
+      aria-label={t('label')}
       className="fixed bottom-4 left-4 right-4 sm:left-6 sm:right-auto sm:max-w-xl z-[999] rounded-2xl p-5 sm:p-6 shadow-lg"
       style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
     >

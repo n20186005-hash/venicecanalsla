@@ -7,6 +7,11 @@
     "ogImageAlt": "Venice Canal Historic District in Venice, California"
   },
   "header": {
+    "brand": "Venice Canal Historic District",
+    "navigation": "Main navigation",
+    "language": "Switch language",
+    "theme": "Toggle dark mode",
+    "toggle": "Toggle",
     "nearbyMobile": "Nearby",
     "nearby": "Nearby attractions",
     "home": "Home",
@@ -19,7 +24,7 @@
     "title": "Venice Canals Los Angeles – Historic District Walking Guide",
     "subtitle": "Historic Canal District - Los Angeles Hidden Gem with Tranquil Water Views",
     "rating": "4.6",
-    "reviewCount": "13,120 reviews",
+    "reviewCount": "13,207 reviews",
     "type": "Historic District · LA Must-Visit",
     "freeBadge": "Free · Open 24/7",
     "openMaps": "View Location",
@@ -209,6 +214,10 @@
     ]
   },
   "gallery": {
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "close": "Close photo viewer",
+    "photoAlt": "Venice Canals photo {number}",
     "title": "Photo Gallery",
     "subtitle": "Venice Canal Historic District - Los Angeles Historic Canal District",
     "captions": [
@@ -397,6 +406,7 @@
     "openMaps": "View on Google Maps"
   },
   "semanticIntro": {
+    "breadcrumb": "Breadcrumb",
     "crumbs": ["Venice Canal Historic District", "Venice", "California", "United States"],
     "welcome": "Welcome to Venice Canal Historic District, widely recognized as the central Venice Canals. Located in the heart of Venice, California, United States, this destination serves as a primary hub for travelers visiting the region."
   },
@@ -566,6 +576,7 @@
     "saved": "Preferences saved!"
   },
   "cookieBanner": {
+    "label": "Cookie preferences",
     "text": "This independent guide uses a small analytics cookie - only if you allow it - to understand how visitors use the site. You can accept it, keep essential cookies only, or fine-tune your choice in Cookie Settings.",
     "accept": "Accept",
     "essentialOnly": "Essential only",

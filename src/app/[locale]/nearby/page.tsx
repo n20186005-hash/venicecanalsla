@@ -19,9 +19,15 @@ export default async function NearbyPage({ params }: Props) {
   return (
     <>
       <Header solid />
-      <main className="max-w-6xl mx-auto px-4 sm:px-6 pt-24 pb-16">
-        <h1 className="font-display text-4xl font-semibold mb-5">{zh ? '威尼斯运河周边景点' : 'Things to See Near the Venice Canals'}</h1>
-        <p style={{ color: 'var(--text-secondary)' }}>{zh ? '从运河步行到威尼斯海岸，或把行程延伸至港湾和圣莫尼卡。' : 'Walk from the canals to the Venice waterfront or continue to the marina and Santa Monica.'}</p>
+      <main className="max-w-6xl mx-auto px-4 sm:px-6 pt-32 md:pt-24 pb-16">
+        <div className="relative isolate overflow-hidden rounded-2xl min-h-72 flex items-end text-white bg-nature-900">
+          <img src="/images/hero.jpg" alt="" fetchPriority="high" className="absolute inset-0 -z-20 h-full w-full object-cover" />
+          <div className="absolute inset-0 -z-10 bg-linear-to-t from-black/90 to-black/25" aria-hidden="true" />
+          <div className="p-5 sm:p-9 lg:p-12">
+            <h1 className="font-display text-4xl sm:text-5xl font-bold mb-4">{zh ? '威尼斯运河周边景点' : 'Things to See Near the Venice Canals'}</h1>
+            <p className="max-w-2xl text-lg text-white/90">{zh ? '从运河步行到威尼斯海岸，或把行程延伸至港湾和圣莫尼卡。' : 'Walk from the canals to the Venice waterfront or continue to the marina and Santa Monica.'}</p>
+          </div>
+        </div>
         {Object.entries(areas).map(([key, labels]) => (
           <section key={key} className="mt-12">
             <h2 className="font-display text-2xl font-semibold mb-5">{labels[zh ? 0 : 1]}</h2>
@@ -35,7 +41,8 @@ export default async function NearbyPage({ params }: Props) {
                     {place.photo && <img src={place.photo} alt={details.name} loading="lazy" className="w-full h-44 object-cover" />}
                     <div className="p-5">
                       <h3 className="font-display text-lg font-semibold">{details.name}</h3>
-                      <p className="text-sm mt-2" style={{ color: 'var(--text-secondary)' }}>{place.address}</p>
+                      <p className="text-sm mt-2" style={{ color: 'var(--text-secondary)' }}>{place.guide[zh ? 'zh' : 'en'].tagline}</p>
+                      <p className="text-xs mt-2" style={{ color: 'var(--text-secondary)' }}>{place.address}</p>
                     </div>
                   </a>
                 );

@@ -11,7 +11,7 @@ export default function SemanticIntro() {
     <section className="px-4 sm:px-6 pt-10 sm:pt-14 pb-4" style={{ background: 'var(--bg-primary)' }}>
       <div className="max-w-4xl mx-auto">
         {/* Geo hierarchy breadcrumb: FullName -> City -> State -> Country */}
-        <nav aria-label="Breadcrumb" className="mb-6">
+        <nav aria-label={t('breadcrumb')} className="mb-6">
           <ol className="flex flex-wrap items-center gap-y-2 text-sm">
             {crumbs.map((crumb, i) => (
               <li key={i} className="flex items-center">
